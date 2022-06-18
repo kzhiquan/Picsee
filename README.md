@@ -1,5 +1,5 @@
 <p align="center">
-<img height="256" src="https://github.com/kzhiquan/Picsee/logo.png" />
+<img height="256" src="https://github.com/kzhiquan/Picsee/blob/master/logo.png" />
 </p>
 
 <h1 align="center">Picsee</h1>
