@@ -1,0 +1,99 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/10.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 阿里云
+"export_auth_aliyun" = "阿里雲";
+
+// 匿名公开
+"export_auth_anony" = "匿名公開";
+
+// 自定义
+"export_auth_custom" = "自定義";
+
+// 未找到返回消息
+"export_auth_errorCannotFindReturnInfo" = "未找到返回消息";
+
+// 域名绑定信息有误
+"export_auth_errorDomainBoundWrong" = "域名綁定信息有誤";
+
+// 文件名不符合URL编码规范
+"export_auth_errorFileNameNotConfirmToSpecification" = "文件名不符合URL編碼規範";
+
+// 获取URL失败
+"export_auth_errorGetUrlFailed" = "獲取URL失敗";
+
+// HTML解析失败
+"export_auth_errorHTMLParseFailed" = "HTML解析失敗";
+
+// 计算请求头失败，请检查所填信息是否正确
+"export_auth_errorMakeRequestHeaderFailedTip" = "計算請求頭失敗，請檢查所填信息是否正確";
+
+// 计算请求路径失败，请检查所填信息是否正确
+"export_auth_errorMakeRequestUrlFailedTip" = "計算請求路徑失敗，請檢查所填信息是否正確";
+
+// 未能解析etag
+"export_auth_errorParseEtagFailed" = "未能解析etag";
+
+// 解析PhotoId失败
+"export_auth_errorParsePhotoIdFailed" = "解析PhotoId失敗";
+
+// 解析XML数据失败
+"export_auth_errorParseXMLFailed" = "解析XML數據失敗";
+
+// 请求对象已释放
+"export_auth_errorRequestObjHaveReleased" = "請求對像已釋放";
+
+// 返回数据为空
+"export_auth_errorReturnDataIsEmpty" = "返回數據為空";
+
+// 返回信息为空
+"export_auth_errorReturnInfoEmpty" = "返回信息為空";
+
+// 测试数据准备失败
+"export_auth_errorTestDataPrepareFailed" = "測試數據準備失敗";
+
+// 未知错误
+"export_auth_errorUnknownError" = "測未知錯誤";
+
+// 上传成功，但是解析URL数据失败
+"export_auth_errorUploadSuccessButParseUrlFailed" = "上傳成功，但是解析URL數據失敗";
+
+// url 字符串初始化失败
+"export_auth_errorUrlInitFailed" = "url 字符串初始化失敗";
+
+// 原格式
+"export_auth_formatNative" = "原格式";
+
+// 码云
+"export_auth_gitee" = "碼雲";
+
+// GitHub
+"export_auth_github" = "Github";
+
+// 本地磁盘
+"export_auth_local" = "本地磁盤";
+
+// 七牛
+"export_auth_qiniu" = "七牛";
+
+// SM.MS
+"export_auth_smms" = "SM.MS";
+
+// 腾讯云
+"export_auth_tencent" = "騰訊雲";
+
+// 又拍
+"export_auth_upyun" = "又拍";
+
+// 微博
+"export_auth_weibo" = "微博";
+
+// 未知的地域节点
+"export_auth_errorQiniuRegionUnknown" = "未知的地域節點";
+
+// http response 为空
+"export_auth_errorHttpResponseIsEmpty" = "http response 為空";
+
+// 请求失败
+"export_auth_errorRequestFailed" = "請求失敗";

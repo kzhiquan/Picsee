@@ -1,0 +1,553 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/2.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 浅色外观
+"app_appearace_aqua" = "Light mode";
+
+// 深色外观
+"app_appearace_dark" = "Dark mode";
+
+// 系统默认
+"app_appearace_system" = "System default";
+
+// 存储
+"app_dialog_btnSave" = "Save";
+
+// 后台正在导出，请稍后再试!
+"app_dialog_msgBgIsExporting" = "It is exporting in background, try it later!";
+
+// 剪贴版中没有可操作的对象!
+"app_dialog_msgPasteboardNoObjects" = "There is no media on clipboard to handle!";
+
+// 提示
+"app_dialog_titleTip" = "Information";
+
+// 问题描述
+"app_mail_bugDescription" = "Problem description";
+
+// 如能重现问题，请给予详细的操作步骤
+"app_mail_detail" = "Please give detailed steps";
+
+// 设备:
+"app_mail_device" = "Device:";
+
+// 反馈
+"app_mail_feedback" = "Feedback";
+
+// 系统:
+"app_mail_system" = "System:";
+
+// 发生错误
+"app_noti_titleErrorHappened" = "Error";
+
+// 应用程序
+"app_pfc_app" = "Application";
+
+// 外观
+"app_pfc_apperance" = "Apperance";
+
+// 编辑剪切板中的对象
+"app_pfc_editPasteboardObj" = "Edit Media From Clipboard";
+
+// 导出剪切板中的对象
+"app_pfc_exportPasteboardObj" = "Export Media From Clipboard";
+
+// 通用
+"app_pfc_general" = "General";
+
+// 隐藏Dock图标
+"app_pfc_hideDock" = "Hide dock icon";
+
+// 隐藏状态栏图标
+"app_pfc_hideStatusBar" = "Hide menu icon";
+
+// 打开面板
+"app_pfc_openPanel" = "Open Panel";
+
+// 弹出状态栏菜单
+"app_pfc_openStatusBarMenu" = "Open Status Bar Menu";
+
+// 贴图
+"app_pfc_paste" = "Paste";
+
+// 所有窗口关闭时退出
+"app_pfc_quitAllWinClose" = "Quit when all windows closed";
+
+// 开机自启动
+"app_pfc_selfStart" = "Launch automatically on login";
+
+// 截图
+"app_pfc_snip" = "Snip";
+
+// 提示授权所在目录读取权限
+"app_showcase_auhtorizedFolderPrivilege" = "Prompt to authorize read permission of diretory";
+
+// 授权文件夹
+"app_showcase_authorizedFolder" = "Authorized Folders";
+
+// 注: 当前输入监听已授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_authorizedMagicMousePageTip" = "Note:  Input Monitoring is authorized; Magic mouse slides up or down to zoom, left or right to trun page, press and hold Commnad/Option key to move in the image";
+
+// 注: 当前输入监听已授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_authorizedMagicMouseZoomTip" = "Note: Magic mouse slides up or down to zoom, left or right to trun page, press and hold Commnad/Option key to move in the image";
+
+// 所在目录包含视频文件
+"app_showcase_containsMovie" = "Contains video when open directory";
+
+// 所在目录包含WORD、PPT等预览文件
+"app_showcase_containsOfficeFile" = "Contains office files when open directory";
+
+// 所在目录包含PDF文件
+"app_showcase_containsPDF" = "Contains PDF when open directory";
+
+// 编辑
+"app_showcase_edit" = "Edit";
+
+// 编辑画布
+"app_showcase_editCanvas" = "Edit Cavas";
+
+// 辅助选项
+"app_showcase_helpOption" = "Auxiliary Options";
+
+// 隐藏方位导航缩略
+"app_showcase_hideNavThumb" = "Hide navigation";
+
+// 按住Commad键切换图片
+"app_showcase_holdCommandToSwitch" = "Press and hold Command key to turn pages, Option key to move in image";
+
+// 按住Commad键缩放图片
+"app_showcase_holdCommandToZoom" = "Press and hold Command key to zoom image, Option key to move in image";
+
+// 限制Magic鼠标左右滑动翻页(输入监听授权时有效)
+"app_showcase_limitMagicMouseLeftRightScroll" = "Restrict Magic mouse sliding left and right to page";
+
+// 限制Magic鼠标上下滑动缩放(输入监听授权时有效)
+"app_showcase_limitMagicMouseTopDownScroll" = "Restrict Magic mouse sliding up and down to zoom";
+
+// 长图自动定位到顶部
+"app_showcase_longPhotoAutoGotoTop" = "Anchor to top automatically when height is big";
+
+// 鼠标滚轮
+"app_showcase_mouseScroll" = "Mouse Scroll";
+
+// 滑动方向
+"app_showcase_scrollDirection" = "Scroll Direction";
+
+// 只在输入监听授权时对触摸板有效
+"app_showcase_scrollVerticalTouchpadTip" = "Note: Scroll to trun pages base on the direction you select, tt is only valid for touchpad when input monitoring is authorized";
+
+// 查看
+"app_showcase_see" = "View";
+
+// 橱窗模式
+"app_showcase_showcaseStyle" = "Window Mode";
+
+// 悬浮看图窗口
+"app_showcase_trunOnFloatWin" = "Float window";
+
+// 显示透明网格背景
+"app_showcase_trunOnTransGridBg" = "Transparent grid background";
+
+// 开启左右方向滑动动画
+"app_showcase_turnOnScrollAnimation" = "Swipe animation";
+
+// 注: 当前输入监听未授权, 请在偏好设置中授权，获取更好的滑动体验: Magic鼠标按住Command键, 在图片内移动.
+"app_showcase_unauthorizedMagicMousePageTip" = "Note: To get better experience, please check on scroll enhancement";
+
+// 注: 当前输入监听未授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_unauthorizedMagicMouseZoomTip" = "Note: Magic mouse scroll up or down to zoom, left or right to turn pages. To get better experience, please check on scroll enhancement";
+
+// 看图
+"app_showcase_viewPhoto" = "Viewer";
+
+// 浏览设置
+"app_showcase_viewSet" = "Browser";
+
+// 浏览方式
+"app_showcase_viewStyle" = "View Style";
+
+// 图床历史
+"app_statusBar_bedHistory" = "Upload History";
+
+// 浏览器扩展
+"app_statusBar_browserExt" = "Extension...";
+
+// 右键取消当前任务
+"app_statusBar_cancelExportTask" = "Right click to cancel current task";
+
+// 检查更新
+"app_statusBar_checkUpgrade" = "Upgrade...";
+
+// 清除历史
+"app_statusBar_clearHistory" = "Clear History";
+
+// 复制成功
+"app_statusBar_copySuccess" = "Copy successfully";
+
+// 编辑
+"app_statusBar_edit" = "Edit";
+
+// 导出
+"app_statusBar_export" = "Export";
+
+// 反馈问题
+"app_statusBar_feedback" = "Feedback...";
+
+// 5星好评
+"app_statusBar_fiveStars" = "Rate...";
+
+// 更多
+"app_statusBar_more" = "More";
+
+// 打开面板
+"app_statusBar_openPanel" = "Open Panel";
+
+// 贴图
+"app_statusBar_pastePhoto" = "Paste";
+
+// 图片:
+"app_statusBar_photos" = "Media:";
+
+// 软件介绍
+"app_statusBar_picseeIntroduce" = "Tutorial...";
+
+// 偏好设置
+"app_statusBar_preference" = "Preferences...";
+
+// 退出
+"app_statusBar_quit" = "Quit";
+
+// 显示历史
+"app_statusBar_showHistory" = "Open History Window";
+
+// 开始截图
+"app_statusBar_startSnip" = "Snip";
+
+// 待处理
+"app_statusBar_waitToProcess" = "Pending: ";
+
+// 待处理0张
+"app_statusBar_waitingToProcess" = "Pending: 0";
+
+// 张
+"app_unit_sheet" = " ";
+
+// 请及时更新至新版本
+"app_upgrade_msg" = "Please to upgrade the latest version";
+
+// 更新提示
+"app_upgrade_title" = "Upgrade Tip";
+
+// 本地磁盘
+"export_task_localDisk" = "Local disk";
+
+// 输入监听授权时有效
+"app_showcase_limitMagicMouseScrollTip" = "It is only valid when input monitoring is authorized";
+
+// 滚动鼠标滚轮，在图片内移动
+"app_showcase_scrollWheelToMove" = "Scroll mouse wheel to move in image";
+
+// 注：翻页判断方向
+"app_showcase_scrollPageDirectionCalulcateTip" = "Note: Scroll to trun pages base on the direction you select";
+
+// 打开选项
+"app_showcase_openOption" = "Open Options";
+
+// 打开设置
+"app_showcase_openSet" = "Open in Finder";
+
+// 关于
+"app_pfc_about" = "About";
+
+// 邮件联系:
+"app_pfc_labelEmail" = "Email:";
+
+// 议题讨论:
+"app_pfc_labelIssue" = "Issue:";
+
+// 官方站点:
+"app_pfc_labelOfficeSite" = "Office site:";
+
+// QQ群:
+"app_pfc_labelQQGroup" = "QQ Group:";
+
+// 缩放灵敏度
+"app_showcase_labelScrollZoomSensitivity" = "Scroll zoom sensitivity";
+
+// 查看外观
+"app_showcase_labelSeeAppearance" = "Apperance";
+
+// 底栏
+"app_showcase_labelSeeBottomBarPinType" = "Top Bar";
+
+// 顶栏
+"app_showcase_labelSeeTopBarPinType" = "Bottom Bar";
+
+// 浏览顺序
+"app_showcase_labelBrowserOrder" = "Browser Order";
+
+// 翻页方向
+"app_showcase_pageDirection" = "Page Direction";
+
+// 1. 素材管理最多可管理张数:
+"app_buy_albumThresholdMsg" = "1. The maximum number of media to manage: ";
+
+// 3. Finder打开查看素材当天最多可使用次数:
+"app_buy_finderSeeThresholdMsg" = "3. The maximum number of times to view one day: ";
+
+// 2. 截图当天最多可使用次数:
+"app_buy_snipThresholdMsg" = "2. The maximum number of times to snip one day: ";
+
+// 继续试用
+"app_dialog_btnContinueToTry" = "Unlock Later";
+
+// 确定
+"app_dialog_btnOK" = "OK";
+
+// 升级解锁
+"app_dialog_btnUpgradeToUnlock" = "Unlock";
+
+// 支持我们开发Picsee,带来更好的用户体验！
+"app_dialog_msgSubcribe" = "It is beyond max limitation using today, please unlock to support us developping Picsee better!";
+
+// 滑动设置
+"app_showcase_scrollSet" = "Scroll";
+
+// 注: 超过限制, Picsee还可继续试用，但会不定时提示升级购买！
+"app_buy_alertBuyMsgRule" = "Note: If beyond maximum, Picsee can continue using in trial, but will prompt to purchase sometimes!";
+
+// 完全磁盘访问
+"app_showcase_BtnFullDiskAccess" = "Full disk access";
+
+// 授权磁盘
+"app_showcase_labelFullDiskAccess" = "Disk";
+
+// 翻页灵敏度
+"app_showcase_pageSensitivity" = "Page Sensitivity";
+
+// 非Magic鼠标有效，值越小，翻页越灵敏
+"app_showcase_pageSensitivityTip" = "It is for Non-Magic mouse. The smaller, the more sensitive.";
+
+// 翻页速度
+"app_showcase_pageSpeed" = "Page Speed";
+
+// 非Magic鼠标有效，单位秒，时间越小，翻动越快
+"app_showcase_pageSpeedTip" = "It is for Non-Magic mouse. The smaller, the faster.";
+
+// 鼠标移进立即显示，移开立即隐藏
+"app_showcase_barShowHideImmediate" = "Mouse moves in/out to show/hide immediately";
+
+// 鼠标控制
+"app_showcase_mouseControl" = "Mouse Control";
+
+// 平滑滚动
+"app_showcase_mouseScrollSmooth" = "Smooth Scrolling";
+
+// 非Magic鼠标滚动更加平滑。需先开启滑动增强。建议安装使用Mos/Smooze Pro等软件的用户，不勾选，存在冲突。
+"app_showcase_mouseScrollSmoothTip" = "Make Non-Magic mouse scrolling butter-smooth. If you use Mos/Smooze Pro, do not check it on";
+
+// 滑动增强
+"app_showcase_mouseScrollStrengthen" = "Scroll enhancement";
+
+// 增强鼠标控制，需在系统偏好设置中授权Picsee输入监听权限
+"app_showcase_mouseScrollStrengthenTip" = "Please authorize Picsee Input Monitoring permission in System Preferences firstly";
+
+// 鼠标设置
+"app_showcase_mouseSet" = "Mouse";
+
+// 请先在系统偏好设置中授予Picsee输入监听权限!
+"app_dialog_mouseScrollStrengthMsg" = "Please grant Picsee Input Monitoring permission in System Preferences first!";
+
+// 当前平滑滚动已在工作。
+"app_showcase_mouseScrollSmoothWorkingTip" = "Smooth scrolling is already working.";
+
+// 当前输入监听已授权。
+"app_showcase_mouseScrollStrengthenAccessGotTip" = "Input Monitoring is authorized.";
+
+// 当前滑动增强已在工作。
+"app_showcase_mouseScrollStrengthenWorkingTip" = "Scroll enhancement is working.";
+
+// 安装使用Mos/Smooze Pro等改变鼠标行为软件的用户，请谨慎配置。使用后，鼠标行为模拟Magic鼠标。某些情况下，可能会与滑动增强/平滑滚动冲突。若发生，请仔细排查，找到符合自己鼠标和使用习惯的配置。
+"app_showcase_mouseMosExtTip" = "Users who install and use software that changes mouse behavior such as Mos/Smooze Pro, please Config carefully. Because when mouse behavior simulates to Magic mouse, in some cases, it may conflict with Scroll enhancement/Smooth scrolling. If it happens, please check carefully to find best configuration.";
+
+// 关闭窗口
+"app_showcase_closeWin" = "Close Window";
+
+// 返回到面板
+"app_showcase_winBackToGallery" = "Back to panel";
+
+// 关闭
+"app_showcase_winClose" = "Close";
+
+// 强制返回到面板
+"app_showcase_winForceBackToGallery" = "Force back to panel";
+
+
+// 多窗口浏览
+"album_doubleClick_newWin" = "Multi-window Viewer";
+
+// 钉在桌面
+"album_doubleClick_pinWin" = "Pin on Desktop";
+
+// 单窗口浏览
+"album_doubleClick_singleWin" = "Single Window Viewer";
+
+// 打开方式
+"app_showcase_openAction" = "Open Mode";
+
+
+// 关闭
+"singleM_menu_close" = "Close";
+
+// 复制
+"singleM_menu_copy" = "Copy";
+
+// 编辑
+"singleM_menu_edit" = "Edit";
+
+// 适应窗口
+"singleM_menu_fitWin" = "Fit to Window";
+
+// 水平翻转
+"singleM_menu_flipHorizontal" = "Flip Horizontal";
+
+// 垂直翻转
+"singleM_menu_flipVertical" = "Flip Vertical";
+
+// 钉在桌面
+"singleM_menu_pinOnDesktop" = "Pin on Desktop";
+
+// 向左旋转
+"singleM_menu_rotateLeft" = "Rotate Left";
+
+// 向右旋转
+"singleM_menu_rotateRight" = "Rotate Right";
+
+// 另存为
+"singleM_menu_saveAs" = "Save as";
+
+// 自适应
+"singleM_menu_selfFit" = "Fit to Image";
+
+// 在finder中显示
+"singleM_menu_showInFinder" = "Reveal in Finder";
+
+
+// 关闭
+"pasteM_action_close" = "Close";
+
+// 缩放
+"pasteM_action_zoom" = "Zoom";
+
+// 关闭
+"pasteM_menu_close" = "Close";
+
+// 复制
+"pasteM_menu_copy" = "Copy";
+
+// 编辑
+"pasteM_menu_edit" = "Edit";
+
+// 水平翻转
+"pasteM_menu_flipHorizontal" = "Flip Horizontal";
+
+// 垂直翻转
+"pasteM_menu_flipVertical" = "Flip Vertical";
+
+// 悬浮
+"pasteM_menu_float" = "Float";
+
+// 粘贴
+"pasteM_menu_paste" = "Paste";
+
+// 图像处理
+"pasteM_menu_photoTransform" = "Image Processing";
+
+// 替换为
+"pasteM_menu_replace" = "Replace by File";
+
+// 还原
+"pasteM_menu_restore" = "Restore";
+
+// 向左旋转
+"pasteM_menu_rotateLeft" = "Rotate Left";
+
+// 向右旋转
+"pasteM_menu_rotateRight" = "Rotate Right";
+
+// 另存为
+"pasteM_menu_saveAs" = "Save as";
+
+// 在finder中显示
+"pasteM_menu_showInFinder" = "Reveal in Finder";
+
+// 窗口阴影
+"pasteM_menu_winShadow" = "Window Shadow";
+
+// 双击鼠标
+"pasteM_pfc_labelDoubleClickMouse" = "Item Double-click";
+
+// 贴图
+"pasteM_pfc_paste" = "Paste";
+
+// 剪切板
+"pasteM_pfc_labelClipboard" = "Clipboard";
+
+// 文字转图片
+"pasteM_pfc_checkBtnTextToImage" = "Get text from clipboard automatically";
+
+// 自动获取剪切板中图片并转成待图片
+"pasteM_pfc_checkBtnImageToImage" = "Get image from clipboard automatically";
+
+
+// 确定
+"buy_dialog_btnOK" = "OK";
+
+// 购买失败
+"buy_dialog_msgBuyFailed" = "Failed to purchase";
+
+// 购买成功
+"buy_dialog_msgBuySuccess" = "Purchase successful";
+
+// 恢复失败
+"buy_dialog_msgRestoreFailed" = "Failed to restore";
+
+// 恢复成功
+"buy_dialog_msgRestoreSuccess" = "Restore successful";
+
+// 提示
+"buy_dialog_titleTip" = "Information";
+
+// 购买
+"buy_pfc_btnBuy" = "Purchase";
+
+// 取消
+"buy_pfc_btnCancel" = "Cancel";
+
+// 恢复购买
+"buy_pfc_btnRestore" = "Restore";
+
+// 升级解锁
+"buy_pfc_btnUpgrade" = "Unlock";
+
+// Picsee ***版
+"buy_pfc_labelEntitlement" = "Picsee *** version";
+
+// Picsee 免费版
+"buy_pfc_labelEntitlementFree" = "Picsee Free Version";
+
+// Picsee 专业版
+"buy_pfc_labelEntitlementPro" = "Picsee Pro Version";
+
+// 购买后解锁所有功能
+"buy_pfc_labelProductTip" = "Unlock all features after purchase";
+
+// 账户
+"buy_pfc_title" = "User";
+
+// 隐私政策
+"buy_pfc_btnPrivacy" = "Privacy Policy";
+
+// 用户协议
+"buy_pfc_btnTerms" = "Terms of Use";

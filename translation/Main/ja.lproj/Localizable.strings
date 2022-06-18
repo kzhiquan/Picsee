@@ -1,0 +1,554 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/2.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 浅色外观
+"app_appearace_aqua" = "明るい色の外装";
+
+// 深色外观
+"app_appearace_dark" = "ダークルック";
+
+// 系统默认
+"app_appearace_system" = "システムデフォルト";
+
+// 1. 素材管理最多可管理张数:
+"app_buy_albumThresholdMsg" = "1. 素材管理のための最大枚数: ";
+
+// 3. Finder打开查看素材当天最多可使用次数:
+"app_buy_finderSeeThresholdMsg" = "3. 同日にFinderで開くことができる資料の最大回数を閲覧することができます:";
+
+// 2. 截图当天最多可使用次数:
+"app_buy_snipThresholdMsg" = "2. 当日使用できるスクリーンショットの上限枚数: ";
+
+// 继续试用
+"app_dialog_btnContinueToTry" = "引き続き使用する";
+
+// 确定
+"app_dialog_btnOK" = "確認";
+
+// 存储
+"app_dialog_btnSave" = "ストレージ";
+
+// 升级解锁
+"app_dialog_btnUpgradeToUnlock" = "アップグレード";
+
+// 后台正在导出，请稍后再试!
+"app_dialog_msgBgIsExporting" = "バックエンドはエクスポート中です。後でもう一度試してください。";
+
+// 剪贴版中没有可操作的对象!
+"app_dialog_msgPasteboardNoObjects" = "クリップボードに操作可能なオブジェクトがない!";
+
+// 支持我们开发Picsee,带来更好的用户体验！
+"app_dialog_msgSubcribe" = "当日は無料使用制限を超えましたので、アップグレードしてロックを解除し、Picseeの開発をサポートして、ユーザーエクスペリエンスを向上させてください。";
+
+// 提示
+"app_dialog_titleTip" = "インフォメーション";
+
+// 问题描述
+"app_mail_bugDescription" = "問題の内容";
+
+// 如能重现问题，请给予详细的操作步骤
+"app_mail_detail" = "問題が再現できる場合は、その手順を詳しく教えてください。";
+
+// 设备:
+"app_mail_device" = "装置:";
+
+// 反馈
+"app_mail_feedback" = "フィードバック";
+
+// 系统:
+"app_mail_system" = "システム:";
+
+// 发生错误
+"app_noti_titleErrorHappened" = "エラーが発生しました";
+
+// 关于
+"app_pfc_about" = "について";
+
+// 应用程序
+"app_pfc_app" = "アプリケーション";
+
+// 外观
+"app_pfc_apperance" = "外観";
+
+// 编辑剪切板中的对象
+"app_pfc_editPasteboardObj" = "クリップボード内のオブジェクトを編集する";
+
+// 导出剪切板中的对象
+"app_pfc_exportPasteboardObj" = "クリップボードからオブジェクトをエクスポートする";
+
+// 通用
+"app_pfc_general" = "一般";
+
+// 隐藏Dock图标
+"app_pfc_hideDock" = "Dock アイコンを隠す";
+
+// 隐藏状态栏图标
+"app_pfc_hideStatusBar" = "ステータスバーアイコンの非表示";
+
+// 邮件联系:
+"app_pfc_labelEmail" = "メール:";
+
+// 议题讨论:
+"app_pfc_labelIssue" = "トピックス:";
+
+// 官方站点:
+"app_pfc_labelOfficeSite" = "オフィシャルサイト:";
+
+// QQ群:
+"app_pfc_labelQQGroup" = "QQグループ:";
+
+// 打开面板
+"app_pfc_openPanel" = "オープンパネル";
+
+// 弹出状态栏菜单
+"app_pfc_openStatusBarMenu" = "ポップアップステータスバーメニュー";
+
+// 贴图
+"app_pfc_paste" = "ポスター";
+
+// 所有窗口关闭时退出
+"app_pfc_quitAllWinClose" = "すべてのウィンドウを閉じたときに終了する";
+
+// 开机自启动
+"app_pfc_selfStart" = "単体で起動する";
+
+// 截图
+"app_pfc_snip" = "スクリーンショット";
+
+// 提示授权所在目录读取权限
+"app_showcase_auhtorizedFolderPrivilege" = "現在いるディレクトリの読み込み許可を求めるプロンプトが表示される";
+
+// 授权文件夹
+"app_showcase_authorizedFolder" = "オーソライズドフォルダ";
+
+// 注: 当前输入监听已授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_authorizedMagicMousePageTip" = "注：Magicマウスを上下にスライドしてズームし、左右にスライドしてページをめくり、CommandキーまたはOptionキーを押したままにして画像内を移動します。";
+
+// 注: 当前输入监听已授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_authorizedMagicMouseZoomTip" = "注：Magicマウスを上下にスライドしてズームし、左右にスライドしてページをめくり、CommandキーまたはOptionキーを押したままにして画像内を移動します。";
+
+// 所在目录包含视频文件
+"app_showcase_containsMovie" = "動画ファイル同梱";
+
+// 所在目录包含WORD、PPT等预览文件
+"app_showcase_containsOfficeFile" = "WORD、PPTなどのプレビューファイルを収録。";
+
+// 所在目录包含PDF文件
+"app_showcase_containsPDF" = "PDFファイル付属";
+
+// 编辑
+"app_showcase_edit" = "画像の修正";
+
+// 编辑画布
+"app_showcase_editCanvas" = "キャンバスの編集";
+
+// 辅助选项
+"app_showcase_helpOption" = "補助オプション";
+
+// 隐藏方位导航缩略
+"app_showcase_hideNavThumb" = "オリエンテーションナビゲーションサムネイルの非表示";
+
+// 按住Commad键切换图片
+"app_showcase_holdCommandToSwitch" = "コマンドキーを押したままにして画像を切り替え、Optionキーを押したままにして画像内を移動します";
+
+// 按住Commad键缩放图片
+"app_showcase_holdCommandToZoom" = "Commadキーを押したままにして画像をズームし、Optionキーを押したままにして画像内を移動します";
+
+// 浏览顺序
+"app_showcase_labelBrowserOrder" = "閲覧順";
+
+// 缩放灵敏度
+"app_showcase_labelScrollZoomSensitivity" = "ズーム感度";
+
+// 查看外观
+"app_showcase_labelSeeAppearance" = "外装レイアウト";
+
+// 底栏
+"app_showcase_labelSeeBottomBarPinType" = "ボトムバー";
+
+// 顶栏
+"app_showcase_labelSeeTopBarPinType" = "トップバー";
+
+// 限制Magic鼠标左右滑动翻页(输入监听授权时有效)
+"app_showcase_limitMagicMouseLeftRightScroll" = "Magicマウスによる左右スワイプでのページめくりの制限";
+
+// 输入监听授权时有效
+"app_showcase_limitMagicMouseScrollTip" = "オーソリゼーションのためのリスニングが入力されたときに有効です";
+
+// 限制Magic鼠标上下滑动缩放(输入监听授权时有效)
+"app_showcase_limitMagicMouseTopDownScroll" = "Magicマウスの拡大・縮小を制限する";
+
+// 长图自动定位到顶部
+"app_showcase_longPhotoAutoGotoTop" = "長い画像は自動的に上部に配置されます";
+
+// 鼠标滚轮
+"app_showcase_mouseScroll" = "マウスホイール";
+
+// 打开选项
+"app_showcase_openOption" = "オープンオプション";
+
+// 打开设置
+"app_showcase_openSet" = "オープン設定";
+
+// 翻页方向
+"app_showcase_pageDirection" = "ページめくり方向";
+
+// 滑动方向
+"app_showcase_scrollDirection" = "スライド方向";
+
+// 注：翻页判断方向
+"app_showcase_scrollPageDirectionCalulcateTip" = "注：ページをめくって方向を判断してください";
+
+// 滑动设置
+"app_showcase_scrollSet" = "スライダーの設定";
+
+// 只在输入监听授权时对触摸板有效
+"app_showcase_scrollVerticalTouchpadTip" = "注：ページをめくって方向を判断します。 認証のためのリスニングが入力されている場合、タッチパッドのみ有効です。";
+
+// 滚动鼠标滚轮，在图片内移动
+"app_showcase_scrollWheelToMove" = "マウスホイールをスクロールして画像内を移動できる";
+
+// 查看
+"app_showcase_see" = "表示";
+
+// 橱窗模式
+"app_showcase_showcaseStyle" = "ウィンドウズモデル";
+
+// 悬浮看图窗口
+"app_showcase_trunOnFloatWin" = "ホバリングビューウィンドウ";
+
+// 显示透明网格背景
+"app_showcase_trunOnTransGridBg" = "透明なグリッドの背景を表示する";
+
+// 开启左右方向滑动动画
+"app_showcase_turnOnScrollAnimation" = "左右方向のスワイプアニメーションをONにする";
+
+// 注: 当前输入监听未授权, 请在偏好设置中授权，获取更好的滑动体验: Magic鼠标按住Command键, 在图片内移动.
+"app_showcase_unauthorizedMagicMousePageTip" = "注：スワイプエクスペリエンスを向上させるには、スワイプ拡張機能にチェックマークを付けてください。";
+
+// 注: 当前输入监听未授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_unauthorizedMagicMouseZoomTip" = "注：Magic Mouseを上下にスライドしてズームしたり、ページを左右にめくったりします。 スワイプエクスペリエンスを向上させるには、[スワイプ拡張]にチェックマークを付けます。";
+
+// 看图
+"app_showcase_viewPhoto" = "画像を見る";
+
+// 浏览设置
+"app_showcase_viewSet" = "設定を見る";
+
+// 浏览方式
+"app_showcase_viewStyle" = "ブラウズモード";
+
+// 图床历史
+"app_statusBar_bedHistory" = "アップロード履歴";
+
+// 浏览器扩展
+"app_statusBar_browserExt" = "ブラウザの拡張機能";
+
+// 右键取消当前任务
+"app_statusBar_cancelExportTask" = "右クリックで現在のタスクをキャンセル";
+
+// 检查更新
+"app_statusBar_checkUpgrade" = "アップデートを確認する";
+
+// 清除历史
+"app_statusBar_clearHistory" = "履歴を消去";
+
+// 复制成功
+"app_statusBar_copySuccess" = "コピー成功";
+
+// 编辑
+"app_statusBar_edit" = "画像の修正";
+
+// 导出
+"app_statusBar_export" = "輸出";
+
+// 反馈问题
+"app_statusBar_feedback" = "フィードバックに関する質問";
+
+// 5星好评
+"app_statusBar_fiveStars" = "星5つ";
+
+// 更多
+"app_statusBar_more" = "もっと見る";
+
+// 打开面板
+"app_statusBar_openPanel" = "オープンパネル";
+
+// 贴图
+"app_statusBar_pastePhoto" = "ポスター";
+
+// 图片:
+"app_statusBar_photos" = "画像:";
+
+// 软件介绍
+"app_statusBar_picseeIntroduce" = "ソフトウェア紹介";
+
+// 偏好设置
+"app_statusBar_preference" = "環境設定";
+
+// 退出
+"app_statusBar_quit" = "終了";
+
+// 显示历史
+"app_statusBar_showHistory" = "履歴を表示";
+
+// 开始截图
+"app_statusBar_startSnip" = "スクリーンショット";
+
+// 待处理
+"app_statusBar_waitToProcess" = "処理待ち";
+
+// 待处理0张
+"app_statusBar_waitingToProcess" = "0枚 処理待ち";
+
+// 张
+"app_unit_sheet" = "枚";
+
+// 请及时更新至新版本
+"app_upgrade_msg" = "新しいバージョンへのタイムリーなアップデート";
+
+// 更新提示
+"app_upgrade_title" = "アップデート情報";
+
+// 本地磁盘
+"export_task_localDisk" = "ローカルディスク";
+
+// 注: 超过限制, Picsee还可继续试用，但会不定时提示升级购买！
+"app_buy_alertBuyMsgRule" = "注：制限を超えた場合、Picseeは試用を続行できますが、購入をアップグレードするように求められることがあります。";
+
+// 完全磁盘访问
+"app_showcase_BtnFullDiskAccess" = "フルディスクアクセス";
+
+// 授权磁盘
+"app_showcase_labelFullDiskAccess" = "ディスク";
+
+// 翻页灵敏度
+"app_showcase_pageSensitivity" = "ページめくり感度";
+
+// 非Magic鼠标有效，值越小，翻页越灵敏
+"app_showcase_pageSensitivityTip" = "非マジックマウスは動作します。 値が小さいほど、ページめくりの感度が高くなります。";
+
+// 翻页速度
+"app_showcase_pageSpeed" = "ページめくり速度";
+
+// 非Magic鼠标有效，单位秒，时间越小，翻动越快
+"app_showcase_pageSpeedTip" = "非マジックマウスは動作します。 時間が短いほど、フリッピングは速くなります。";
+
+// 鼠标移进立即显示，移开立即隐藏
+"app_showcase_barShowHideImmediate" = "ポインタを内側に移動して表示し、外側に移動して非表示にします。";
+
+// 鼠标控制
+"app_showcase_mouseControl" = "マウスコントロール";
+
+// 平滑滚动
+"app_showcase_mouseScrollSmooth" = "スムーズにスクロール";
+
+// 非Magic鼠标滚动更加平滑。需先开启滑动增强。建议安装使用Mos/Smooze Pro等软件的用户，不勾选，存在冲突。
+"app_showcase_mouseScrollSmoothTip" = "Non-Magicマウスのスクロールをスムーズにします。Mos/SmoozeProを使用している場合は、チェックしないでください。";
+
+// 滑动增强
+"app_showcase_mouseScrollStrengthen" = "スクロールの強化";
+
+// 增强鼠标控制，需在系统偏好设置中授权Picsee输入监听权限
+"app_showcase_mouseScrollStrengthenTip" = "最初にシステム環境設定でPicsee入力モニターの許可を承認してください";
+
+// 鼠标设置
+"app_showcase_mouseSet" = "マウス設定";
+
+// 请先在系统偏好设置中授予Picsee输入监听权限!
+"app_dialog_mouseScrollStrengthMsg" = "最初にシステム環境設定で入力リスニング権限を付与してください！";
+
+// 当前平滑滚动已在工作。
+"app_showcase_mouseScrollSmoothWorkingTip" = "現在、スムーズなスクロールはすでに機能しています。";
+
+// 当前输入监听已授权。
+"app_showcase_mouseScrollStrengthenAccessGotTip" = "現在の入力リスナーが許可されます。";
+
+// 当前滑动增强已在工作。
+"app_showcase_mouseScrollStrengthenWorkingTip" = "現在のスワイプ拡張機能はすでに機能しています。";
+
+// 安装使用Mos/Smooze Pro等改变鼠标行为软件的用户，请谨慎配置。使用后，鼠标行为模拟Magic鼠标。某些情况下，可能会与滑动增强/平滑滚动冲突。若发生，请仔细排查，找到符合自己鼠标和使用习惯的配置。
+"app_showcase_mouseMosExtTip" = "Mos / Smooze Proなど、マウスの動作を変更するソフトウェアをインストールして使用するユーザーは、慎重に構成してください。 マウスの動作はMagicマウスをシミュレートするため、場合によっては、スワイプ拡張/スムーズスクロールと競合する可能性があります。 その場合は、マウスと使用習慣に一致する構成を見つけるように慎重に調整してください。";
+
+// 关闭窗口
+"app_showcase_closeWin" = "ウィンドウを閉じる";
+
+// 返回到面板
+"app_showcase_winBackToGallery" = "パネルに戻る";
+
+// 关闭
+"app_showcase_winClose" = "閉鎖";
+
+// 强制返回到面板
+"app_showcase_winForceBackToGallery" = "パネルに強制的に戻す";
+
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/2.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 多窗口浏览
+"album_doubleClick_newWin" = "マルチウィンドウブラウジング";
+
+// 钉在桌面
+"album_doubleClick_pinWin" = "デスクトップに固定";
+
+// 单窗口浏览
+"album_doubleClick_singleWin" = "シングルウィンドウブラウジング";
+
+// 打开方式
+"app_showcase_openAction" = "オープンウェイ";
+
+// 关闭
+"singleM_menu_close" = "閉じる";
+
+// 复制
+"singleM_menu_copy" = "コピー";
+
+// 编辑
+"singleM_menu_edit" = "変更";
+
+// 适应窗口
+"singleM_menu_fitWin" = "アダプテーションウィンドウ";
+
+// 水平翻转
+"singleM_menu_flipHorizontal" = "ホリゾンタルフリップ";
+
+// 垂直翻转
+"singleM_menu_flipVertical" = "縦型フリップ";
+
+// 钉在桌面
+"singleM_menu_pinOnDesktop" = "画面へのピン留め";
+
+// 向左旋转
+"singleM_menu_rotateLeft" = "左に回転させる";
+
+// 向右旋转
+"singleM_menu_rotateRight" = "右方向に回転させる";
+
+// 另存为
+"singleM_menu_saveAs" = "名前を付けて保存";
+
+// 自适应
+"singleM_menu_selfFit" = "アダプティブ";
+
+// 在finder中显示
+"singleM_menu_showInFinder" = "Finderに表示する";
+
+// 关闭
+"pasteM_action_close" = "閉じる";
+
+// 缩放
+"pasteM_action_zoom" = "スケーリング";
+
+// 关闭
+"pasteM_menu_close" = "閉じる";
+
+// 复制
+"pasteM_menu_copy" = "コピー";
+
+// 编辑
+"pasteM_menu_edit" = "変更";
+
+// 水平翻转
+"pasteM_menu_flipHorizontal" = "ホリゾンタルフリップ";
+
+// 垂直翻转
+"pasteM_menu_flipVertical" = "縦型フリップ";
+
+// 悬浮
+"pasteM_menu_float" = "レビテーション";
+
+// 粘贴
+"pasteM_menu_paste" = "貼り付け";
+
+// 图像处理
+"pasteM_menu_photoTransform" = "画像処理";
+
+// 替换为
+"pasteM_menu_replace" = "リプレースメント";
+
+// 还原
+"pasteM_menu_restore" = "リストア";
+
+// 向左旋转
+"pasteM_menu_rotateLeft" = "左に回転させる";
+
+// 向右旋转
+"pasteM_menu_rotateRight" = "右方向に回転させる";
+
+// 另存为
+"pasteM_menu_saveAs" = "名前を付けて保存";
+
+// 在finder中显示
+"pasteM_menu_showInFinder" = "Finderに表示する";
+
+// 窗口阴影
+"pasteM_menu_winShadow" = "窓の影";
+
+// 剪切板
+"pasteM_pfc_labelClipboard" = "クリップボード";
+
+// 双击鼠标
+"pasteM_pfc_labelDoubleClickMouse" = "マウスのダブルクリック";
+
+// 贴图
+"pasteM_pfc_paste" = "ポスター";
+
+// 文字转图片
+"pasteM_pfc_checkBtnTextToImage" = "クリップボード内のテキストを自動的に取得し、処理する画像に変換します";
+
+// 自动获取剪切板中图片并转成待图片
+"pasteM_pfc_checkBtnImageToImage" = "クリップボードの画像を自動的に取得し、処理を待ちます";
+
+
+// 确定
+"buy_dialog_btnOK" = "確認";
+
+// 购买失败
+"buy_dialog_msgBuyFailed" = "購入失敗";
+
+// 购买成功
+"buy_dialog_msgBuySuccess" = "購入成功";
+
+// 恢复失败
+"buy_dialog_msgRestoreFailed" = "リカバリー障害";
+
+// 恢复成功
+"buy_dialog_msgRestoreSuccess" = "回復に成功";
+
+// 提示
+"buy_dialog_titleTip" = "インフォメーション";
+
+// 购买
+"buy_pfc_btnBuy" = "購入";
+
+// 取消
+"buy_pfc_btnCancel" = "キャンセル";
+
+// 恢复购买
+"buy_pfc_btnRestore" = "レジュメ購入";
+
+// 升级解锁
+"buy_pfc_btnUpgrade" = "アップグレード";
+
+// Picsee ***版
+"buy_pfc_labelEntitlement" = "Picsee ***版";
+
+// Picsee 免费版
+"buy_pfc_labelEntitlementFree" = "Picsee 無料版";
+
+// Picsee 专业版
+"buy_pfc_labelEntitlementPro" = "Picsee プロフェッショナル版";
+
+// 购买后解锁所有功能
+"buy_pfc_labelProductTip" = "購入すると全機能がアンロックされます";
+
+// 账户
+"buy_pfc_title" = "ユーザー";
+
+// 隐私政策
+"buy_pfc_btnPrivacy" = "プライバシーポリシー";
+
+// 用户协议
+"buy_pfc_btnTerms" = "ユーザー規約";

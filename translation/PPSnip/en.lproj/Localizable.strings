@@ -1,0 +1,123 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/10.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 按C复制颜色值
+"snip_body_labelShortKeyCopyColor" = "Press C to copy color";
+
+// 按F选择全屏区域
+"snip_body_labelShortKeyFullScreen" = "Press F to capture full screen";
+
+// 按Shift截取多个窗口
+"snip_body_labelShortKeyMultiWin" = "Press Shift to capture multiple windows";
+
+// 按Option切换颜色值
+"snip_body_labelShortKeySwitchColor" = "Press option to switch color";
+
+// 确定
+"snip_dialog_btnOK" = "OK";
+
+// 请在系统偏好设置，[安全与隐私]中，授予Picsee[屏幕录制]权限!
+"snip_dialog_msgRecordScreenPrivilegeTip" = "Please grant Picsee [Screen Recording] permission in the System Preferences.";
+
+// 提示
+"snip_dialog_titleTip" = "Information";
+
+// 横向
+"snip_long_scrollHorizontal" = "Horizontal";
+
+// 全景
+"snip_long_scrollPanoramic" = "Panoramic";
+
+// 滚动过快
+"snip_long_scrollToFast" = "Scroll too fast";
+
+// 竖向
+"snip_long_scrollVertical" = "Vertical";
+
+// 试下扩大选区
+"snip_long_tryToExtendSnipArea" = "Try to extend the selected area";
+
+// 截图已保存至剪切板
+"snip_noti_msgSnipHaveSavedToPasteboard" = "Screenshot has been saved to clipboard";
+
+// 截图已保存
+"snip_noti_titleSnipHaveSaved" = "Screenshot has been saved";
+
+// 截图已保存并存档
+"snip_noti_titleSnipHaveSavedAndFiled" = "Screenshot has been saved and filed";
+
+// 修改
+"snip_pfc_btnModify" = "Modify";
+
+// 拖拽截图添加阴影
+"snip_pfc_checkBtnDragSnipShadow" = "Add shadow effect to drag-selected area";
+
+// 透明背景
+"snip_pfc_checkBtnPngTransBg" = "Transparent background";
+
+// 显示
+"snip_pfc_checkBtnShowMagnifier" = "Show";
+
+// 捕捉点位置显示
+"snip_pfc_checkBtnShowMagnifierPosition" = "Show captured point postion";
+
+// 捕捉窗口大小显示
+"snip_pfc_checkBtnShowMagnifierSize" = "Show captured area size";
+
+// 截图完成时通知
+"snip_pfc_checkBtnSnipDoneNoti" = "Show notification when complete";
+
+// 截图完成时播放提示音
+"snip_pfc_checkBtnSnipDoneSound" = "Play sound when complete";
+
+// 窗口截图阴影效果
+"snip_pfc_checkBtnWinShadow" = "Add shadow effect to window-selected area";
+
+// 外观控制
+"snip_pfc_labelApperanceControl" = "Appearance Control";
+
+// 区域阴影颜色
+"snip_pfc_labelAreaShadowColor" = "Area shadow color";
+
+// 颜色值
+"snip_pfc_labelColorValue" = "Color value";
+
+// 拖拽选项
+"snip_pfc_labelDragOption" = "Drag Option";
+
+// 阴影大小
+"snip_pfc_labelDragShadowBlurSize" = "Shadow size";
+
+// 阴影颜色
+"snip_pfc_labelDragShadowColor" = "Shadow color";
+
+// 放大镜
+"snip_pfc_labelMagnifier" = "Magnifier";
+
+// 遮挡背景颜色
+"snip_pfc_labelMaskBgColor" = "Mask background color";
+
+// 选择窗口时，按住Option键切换到拖拽区域
+"snip_pfc_labelOptionToSwitchDragAreaSnip" = "Hold down Option key to switch to drag area when select a window";
+
+// 完成截图时，按下Option键切换
+"snip_pfc_labelOptionToSwitchDragSnipShadow" = "Hold down Option key to switch when complete";
+
+// 窗口选中颜色
+"snip_pfc_labelSelectedWinColor" = "Selected window color";
+
+// 截图保存格式
+"snip_pfc_labelSnipFormat" = "Screenshot File Format";
+
+// 截图保存位置
+"snip_pfc_labelSnipLocation" = "Screenshot Save Location";
+
+// 截图选项
+"snip_pfc_labelSnipOption" = "Snip Option";
+
+// 未指定
+"snip_pfc_locationValueUnset" = "unspecified";
+
+// 截图
+"snip_pfc_snip" = "Snip";

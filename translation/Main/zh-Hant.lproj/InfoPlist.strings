@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Picsee
+
+  Created by kzhiquan on 2021/11/21.
+  Copyright © 2021 zhiquan kong. All rights reserved.
+*/
+
+/* 读取网络文件夹下的照片，以便进行查看和管理。 */
+"NSNetworkVolumesUsageDescription" = "讀取網絡文件夾下的照片，以便進行查看和管理。";
+
+/* 读取本机图库，以便查看和管理。 */
+"NSPhotoLibraryUsageDescription" = "讀取本機圖庫，以便查看和管理。";

@@ -1,0 +1,231 @@
+
+/* Class = "NSMenuItem"; title = "瀏覽"; ObjectID = "1VV-AP-wlX"; */
+"1VV-AP-wlX.title" = "瀏覽";
+
+/* Class = "NSMenuItem"; title = "Picsee"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Picsee";
+
+/* Class = "NSMenuItem"; title = "標註"; ObjectID = "2Nh-wH-mF3"; */
+"2Nh-wH-mF3.title" = "標註";
+
+/* Class = "NSMenuItem"; title = "橢圓"; ObjectID = "3QO-gx-5VD"; */
+"3QO-gx-5VD.title" = "橢圓";
+
+/* Class = "NSMenuItem"; title = "圖片"; ObjectID = "3Tj-95-vce"; */
+"3Tj-95-vce.title" = "圖片";
+
+/* Class = "NSMenuItem"; title = "線條"; ObjectID = "4Ii-Bg-fB4"; */
+"4Ii-Bg-fB4.title" = "線條";
+
+/* Class = "NSMenuItem"; title = "退出 Picsee"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 Picsee";
+
+/* Class = "NSMenu"; title = "線條"; ObjectID = "5d1-fm-B8m"; */
+"5d1-fm-B8m.title" = "線條";
+
+/* Class = "NSMenuItem"; title = "關於 Picsee"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "關於 Picsee";
+
+/* Class = "NSMenu"; title = "瀏覽"; ObjectID = "6ah-oD-yc6"; */
+"6ah-oD-yc6.title" = "瀏覽";
+
+/* Class = "NSMenuItem"; title = "打印"; ObjectID = "6qS-RQ-LND"; */
+"6qS-RQ-LND.title" = "打印";
+
+/* Class = "NSMenuItem"; title = "檢查版本更新"; ObjectID = "7vn-X5-8ZY"; */
+"7vn-X5-8ZY.title" = "檢查版本更新";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenu"; title = "高亮"; ObjectID = "BK7-ge-bnP"; */
+"BK7-ge-bnP.title" = "高亮";
+
+/* Class = "NSMenuItem"; title = "偏好設置…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "偏好設置…";
+
+/* Class = "NSMenuItem"; title = "窗口"; ObjectID = "D08-2q-heO"; */
+"D08-2q-heO.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "在Finder中顯示"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "在Finder中顯示";
+
+/* Class = "NSMenuItem"; title = "選擇"; ObjectID = "DoT-h4-zcM"; */
+"DoT-h4-zcM.title" = "選擇";
+
+/* Class = "NSMenu"; title = "幫助"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "幫助";
+
+/* Class = "NSMenuItem"; title = "Picsee 幫助"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Picsee 幫助";
+
+/* Class = "NSMenuItem"; title = "向右旋轉"; ObjectID = "Fal-I4-PZk"; */
+"Fal-I4-PZk.title" = "向右旋轉";
+
+/* Class = "NSMenuItem"; title = "安裝瀏覽器擴展"; ObjectID = "G4Q-lI-eEV"; */
+"G4Q-lI-eEV.title" = "安裝瀏覽器擴展";
+
+/* Class = "NSMenuItem"; title = "下一張"; ObjectID = "GC3-ul-FFR"; */
+"GC3-ul-FFR.title" = "下一張";
+
+/* Class = "NSMenu"; title = "工具"; ObjectID = "GEO-Iw-cKr"; */
+"GEO-Iw-cKr.title" = "工具";
+
+/* Class = "NSMenuItem"; title = "向左旋轉"; ObjectID = "Gi5-1S-RQB"; */
+"Gi5-1S-RQB.title" = "向左旋轉";
+
+/* Class = "NSMenuItem"; title = "查看"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "查看";
+
+/* Class = "NSMenuItem"; title = "進入全屏"; ObjectID = "J0y-iC-qwW"; */
+"J0y-iC-qwW.title" = "進入全屏";
+
+/* Class = "NSMenu"; title = "窗口"; ObjectID = "KHd-fE-qrz"; */
+"KHd-fE-qrz.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "顯示所有窗口"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "顯示所有窗口";
+
+/* Class = "NSMenuItem"; title = "實際大小"; ObjectID = "Kuh-7o-Egc"; */
+"Kuh-7o-Egc.title" = "實際大小";
+
+/* Class = "NSMenuItem"; title = "形狀"; ObjectID = "Lnk-ki-2jk"; */
+"Lnk-ki-2jk.title" = "形狀";
+
+/* Class = "NSMenuItem"; title = "上一張"; ObjectID = "MPg-hC-NqL"; */
+"MPg-hC-NqL.title" = "上一張";
+
+/* Class = "NSMenuItem"; title = "服務"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "服務";
+
+/* Class = "NSMenuItem"; title = "區域"; ObjectID = "Ncc-4O-rCN"; */
+"Ncc-4O-rCN.title" = "區域";
+
+/* Class = "NSMenuItem"; title = "橢圓"; ObjectID = "OCM-NR-2E6"; */
+"OCM-NR-2E6.title" = "橢圓";
+
+/* Class = "NSMenuItem"; title = "隱藏 Picsee"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "隱藏 Picsee";
+
+/* Class = "NSMenuItem"; title = "圖片信息"; ObjectID = "PHH-gL-2Ho"; */
+"PHH-gL-2Ho.title" = "圖片信息";
+
+/* Class = "NSMenuItem"; title = "文本"; ObjectID = "Q92-yb-qS5"; */
+"Q92-yb-qS5.title" = "文本";
+
+/* Class = "NSMenuItem"; title = "裁剪"; ObjectID = "RTV-ix-FLw"; */
+"RTV-ix-FLw.title" = "裁剪";
+
+/* Class = "NSMenuItem"; title = "顏色"; ObjectID = "S92-er-zEP"; */
+"S92-er-zEP.title" = "顏色";
+
+/* Class = "NSMenuItem"; title = "窗口大小"; ObjectID = "T2i-gD-t02"; */
+"T2i-gD-t02.title" = "窗口大小";
+
+/* Class = "NSMenuItem"; title = "縮小"; ObjectID = "TZ9-Y0-rkq"; */
+"TZ9-Y0-rkq.title" = "縮小";
+
+/* Class = "NSMenuItem"; title = "長度"; ObjectID = "U5W-FP-DNV"; */
+"U5W-FP-DNV.title" = "長度";
+
+/* Class = "NSMenu"; title = "形狀"; ObjectID = "UFD-sW-rso"; */
+"UFD-sW-rso.title" = "形狀";
+
+/* Class = "NSMenuItem"; title = "隱藏其他"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "隱藏其他";
+
+/* Class = "NSMenu"; title = "马赛克"; ObjectID = "WHU-ds-kip"; */
+"WHU-ds-kip.title" = "马赛克";
+
+/* Class = "NSMenuItem"; title = "全選"; ObjectID = "Was-JA-tGl"; */
+"Was-JA-tGl.title" = "全選";
+
+/* Class = "NSMenuItem"; title = "放大"; ObjectID = "YT8-Wt-EQq"; */
+"YT8-Wt-EQq.title" = "放大";
+
+/* Class = "NSMenuItem"; title = "最小化"; ObjectID = "YhO-tz-sSK"; */
+"YhO-tz-sSK.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "橢圓"; ObjectID = "ZSD-GY-2xT"; */
+"ZSD-GY-2xT.title" = "橢圓";
+
+/* Class = "NSMenu"; title = "標註"; ObjectID = "afV-D6-n9s"; */
+"afV-D6-n9s.title" = "標註";
+
+/* Class = "NSMenuItem"; title = "凸箭頭"; ObjectID = "axT-Uj-msM"; */
+"axT-Uj-msM.title" = "凸箭頭";
+
+/* Class = "NSMenuItem"; title = "凹箭頭"; ObjectID = "b6L-ux-J5l"; */
+"b6L-ux-J5l.title" = "凹箭頭";
+
+/* Class = "NSMenuItem"; title = "上下翻轉"; ObjectID = "bOi-HP-Qzk"; */
+"bOi-HP-Qzk.title" = "上下翻轉";
+
+/* Class = "NSMenu"; title = "圖片"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "圖片";
+
+/* Class = "NSMenuItem"; title = "縮放"; ObjectID = "cfy-Wu-QZa"; */
+"cfy-Wu-QZa.title" = "縮放";
+
+/* Class = "NSMenuItem"; title = "圖片"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "圖片";
+
+/* Class = "NSMenuItem"; title = "外殼"; ObjectID = "hJj-kw-4Qr"; */
+"hJj-kw-4Qr.title" = "外殼";
+
+/* Class = "NSMenuItem"; title = "高亮"; ObjectID = "hg9-Nt-1Qq"; */
+"hg9-Nt-1Qq.title" = "高亮";
+
+/* Class = "NSMenu"; title = "服務"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "服務";
+
+/* Class = "NSMenuItem"; title = "马赛克"; ObjectID = "iJn-at-zYF"; */
+"iJn-at-zYF.title" = "马赛克";
+
+/* Class = "NSMenuItem"; title = "塗抹"; ObjectID = "jRX-8B-lBm"; */
+"jRX-8B-lBm.title" = "塗抹";
+
+/* Class = "NSMenuItem"; title = "工具"; ObjectID = "jxT-CU-nIS"; */
+"jxT-CU-nIS.title" = "工具";
+
+/* Class = "NSMenuItem"; title = "直線"; ObjectID = "jz7-KI-JH6"; */
+"jz7-KI-JH6.title" = "直線";
+
+/* Class = "NSMenuItem"; title = "前置所有窗口"; ObjectID = "keE-NE-RXy"; */
+"keE-NE-RXy.title" = "前置所有窗口";
+
+/* Class = "NSMenuItem"; title = "左右旋轉"; ObjectID = "mEc-SR-nfF"; */
+"mEc-SR-nfF.title" = "左右旋轉";
+
+/* Class = "NSMenuItem"; title = "畫筆"; ObjectID = "nAk-r0-9mL"; */
+"nAk-r0-9mL.title" = "畫筆";
+
+/* Class = "NSMenuItem"; title = "塗抹"; ObjectID = "njt-bD-oT7"; */
+"njt-bD-oT7.title" = "塗抹";
+
+/* Class = "NSMenuItem"; title = "文本"; ObjectID = "rLr-9W-D0A"; */
+"rLr-9W-D0A.title" = "文本";
+
+/* Class = "NSMenuItem"; title = "矩形"; ObjectID = "sCa-W9-mPK"; */
+"sCa-W9-mPK.title" = "矩形";
+
+/* Class = "NSMenuItem"; title = "放大鏡"; ObjectID = "sDH-u0-YL6"; */
+"sDH-u0-YL6.title" = "放大鏡";
+
+/* Class = "NSMenuItem"; title = "矩形"; ObjectID = "tMS-J9-e3o"; */
+"tMS-J9-e3o.title" = "矩形";
+
+/* Class = "NSMenuItem"; title = "删除"; ObjectID = "tXI-mr-wws"; */
+"tXI-mr-wws.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "矩形"; ObjectID = "u3F-i4-qUp"; */
+"u3F-i4-qUp.title" = "矩形";
+
+/* Class = "NSMenu"; title = "Picsee"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Picsee";
+
+/* Class = "NSMenuItem"; title = "幫助"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "幫助";
+
+/* Class = "NSMenuItem"; title = "關閉窗口"; ObjectID = "z1k-LE-M2F"; */
+"z1k-LE-M2F.title" = "關閉窗口";

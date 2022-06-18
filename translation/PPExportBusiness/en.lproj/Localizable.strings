@@ -1,0 +1,147 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/10.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 导出
+"export_body_btExport" = "Export";
+
+// 取消
+"export_body_btnCancel" = "Cancel";
+
+// 清除EXIF信息
+"export_body_btnClearExifMeta" = "Clear Exif";
+
+// 全部导出
+"export_body_btnExportAll" = "Export all";
+
+// JPG质量
+"export_body_btnJPGQuality" = "JPG quality";
+
+// 确定
+"export_body_btnOK" = "OK";
+
+// 账户
+"export_body_labelAccount" = "Account";
+
+// 将匿名上传至公共图床
+"export_body_labelAnnoyToUploadTip" = "Upload to public cloud storage anoymously";
+
+// 导出图片
+"export_body_labelExportPhoto" = "Export Media";
+
+// 导出过程
+"export_body_labelExportProgress" = "Export Process";
+
+// 导出到
+"export_body_labelExportTarget" = "Export to";
+
+// 格式
+"export_body_labelFormat" = "Format";
+
+// 请选择需要导出的图片
+"export_body_labelSelectPhotoesToExport" = "Please select media to export";
+
+// 确定
+"export_dialog_btnOK" = "OK";
+
+// 还没有云端账户
+"export_dialog_msgNoAccount" = "There is no cloud storage account";
+
+// 还没有云端账户
+"export_dialog_msgNoAccountTip" = "There is no cloud storage account";
+
+// 未选中导出图元
+"export_dialog_msgNothingSelectedToExport" = "There is nothing to export";
+
+// 错误
+"export_dialog_titleError" = "Error";
+
+// 提示
+"export_dialog_titleTip" = "Information";
+
+// 位置
+"export_his_barAccount" = "Account";
+
+// 批次号
+"export_his_barBatchNum" = "Batch";
+
+// 导出时间
+"export_his_barExportDate" = "Export date";
+
+// 名称
+"export_his_barName" = "Name";
+
+// 图片号
+"export_his_barPhotoNum" = "Media Num";
+
+// 图片预览
+"export_his_barPhotoThumb" = "Thumbnail";
+
+// 搜索
+"export_his_barSearch" = "Search";
+
+// 目标
+"export_his_barTarget" = "Target";
+
+// 清空所有记录
+"export_his_btnClearAllRecord" = "Clear all records";
+
+// 清空选中记录
+"export_his_btnClearSelectedRecord" = "Clear selected records";
+
+// 复制选中链接
+"export_his_btnCopySelectedLink" = "Copy selected links";
+
+// 导出
+"export_his_export" = "Export";
+
+// 所有历史
+"export_his_exportHistory" = "Export History";
+
+// 复制成功
+"export_his_msgCopySuccess" = "Copy success";
+
+// 目标
+"export_his_target" = "Target";
+
+// EXIF元数据将删除
+"export_pfc_btnDeleteExifMeta" = "EXIF metadata will be deleted";
+
+// 导出JPG格式图片时的图片质量
+"export_pfc_btnJPGQualityToExport" = "JPG Quality";
+
+// 选择
+"export_pfc_btnSelect" = "Select";
+
+// 导出
+"export_pfc_export" = "Export";
+
+// 关联账户
+"export_pfc_labelAssociatedAccount" = "Associated Account";
+
+// 位图
+"export_pfc_labelBitmapWeb" = "Bitmap";
+
+// 导出格式
+"export_pfc_labelExportFormat" = "Format";
+
+// 导出样式
+"export_pfc_labelExportStyle" = "Style";
+
+// 导出目标
+"export_pfc_labelExportTarget" = "Target";
+
+// JPG质量
+"export_pfc_labelJPGQuality" = "JPG Quality";
+
+// 存储位置
+"export_pfc_labelSaveLocation" = "Save location";
+
+// 图片将匿名上传至微博公共图床
+"export_pfc_labelWeipoUploadTip" = "Upload to Weibo public cloud storage anonymously";
+
+// 未指定
+"export_pfc_unset" = "unspecified";
+
+// 支持命令行导出，命令行导出时，请务必在[偏好设置->看图->打开设置]中授予完全磁盘访问
+"export_pfc_cmdExportPromptContent" = "Support command line export, but when using, be sure to authorize Picsee full disk access in [Preferences -> Viewer -> Open in Finder]";

@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Picsee
+
+  Created by kzhiquan on 2021/11/10.
+  Copyright © 2021 zhiquan kong. All rights reserved.
+*/
+
+/* 导出完成 */
+"export_task_done" = "导出完成";
+/* 生成图像数据失败 */
+"export_task_exportedImageGenerateFailed" = "生成图像数据失败";
+/* 失败 */
+"export_task_fail" = "失败";
+/* 不支持目标格式导出 */
+"export_task_formatNotSupportToExport" = "不支持目标格式导出";
+/* 图片链接已拷贝到剪切版 */
+"export_task_linkHaveCopyedToPasteboard" = "图片链接已拷贝到剪切版";
+/* 成功 */
+"export_task_success" = "成功";
+/* 总共 */
+"export_task_total" = "总共";

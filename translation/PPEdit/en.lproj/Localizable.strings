@@ -1,0 +1,339 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/10.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 返回
+"edit_bar_back" = "Back";
+
+// 裁剪
+"edit_bar_btnCrop" = "Crop";
+
+// 批量应用
+"edit_bar_checkBtnBatchApply" = "Apply batch";
+
+// 清除元数据
+"edit_bar_checkBtnClearExif" = "Clear EXIF";
+
+// 相对大小
+"edit_bar_checkBtnFactorSize" = "Relative size";
+
+// 导出
+"edit_bar_export" = "Export";
+
+// 适应窗口
+"edit_bar_fitWin" = "Fit to window";
+
+// 布局
+"edit_bar_layout" = "Layout";
+
+// 下一张
+"edit_bar_nextPage" = "Next page";
+
+// 页面
+"edit_bar_page" = "Page";
+
+// 图片名称
+"edit_bar_photoName" = "Media name";
+
+// 上一张
+"edit_bar_previousPage" = "Previous page";
+
+// 属性
+"edit_bar_property" = "Inspector";
+
+// 查看
+"edit_bar_see" = "View";
+
+// 缩略
+"edit_bar_thumb" = "Sidebar";
+
+// 缩放
+"edit_bar_zoom" = "Zoom";
+
+// 缩小
+"edit_bar_zoomIn" = "Zoom out";
+
+// 放大
+"edit_bar_zoomOut" = "Zoom in";
+
+// 关闭操作指引提示
+"edit_body_checkBtnCloseBatchGuide" = "Close guide prompt";
+
+// 已是第一张
+"edit_body_firstPage" = "The first one";
+
+// 操作指引
+"edit_body_labelBatchGuide" = "Operate guide";
+
+// 1. 勾选批量应用，将当前修\n改应用到其他图片。\n\n2. 点击上一张下一张，可预\n览批量应用效果。\n\n3. 点击导出素材，可导出批\n量应用后的图片。
+"edit_body_labelBatchGuideStep" = "1. Check [Apply batch] to apply current modification to other media.\n\n 2. Click the [Previous/Next] button to preview the effect.\n\n 3. Click [Export] button to export.";
+
+// 已是最后一张
+"edit_body_lastPage" = "The last one";
+
+// 请打开右边栏, 查看详细的属性修改信息\n\n属性修改模版
+"edit_body_photoPropertyTemplateEditTip" = "If you want to view detailed attributes, please open the right side bar";
+
+// 浅色画布
+"edit_canvas_aqua" = "Light";
+
+// 深色画布
+"edit_canvas_dark" = "Dark";
+
+// 默认
+"edit_canvas_default" = "Default";
+
+// 取消
+"edit_dialog_btnCancel" = "Cancel";
+
+// 确定
+"edit_dialog_btnOK" = "OK";
+
+// 确定要删除外部设备/网络磁盘上文件，注意：将彻底删除，不进入回收站！
+"edit_dialog_msgDeleteExternalMeidaTip" = "Are your sure to delete the media which is from external device or network disk. They will be deleted completely without going into system trash.";
+
+// 已经添加了外框
+"edit_dialog_msgHadAlreadyAddedExtFrame" = "There is already a shell";
+
+// 没有图像对象存在
+"edit_dialog_msgNoMediaExists" = "There is no media";
+
+// 图片对象不存在
+"edit_dialog_msgNothingToSave" = "There is no media to save";
+
+// 未存在修改条目，可以批量应用
+"edit_dialog_msgNothingToSaveTip" = "There is nothing modification to apply batch.";
+
+// 未进行修改，不存在修改条目
+"edit_dialog_msgNotingToSave" = "There is nothing modification";
+
+// 请先存储为模版
+"edit_dialog_msgSaveAsTemplateFirst" = "Please save as a template first";
+
+// 保存失败:
+"edit_dialog_msgSaveFailed" = "Failed to save";
+
+// 此媒体不支持覆盖保存，试试另存为。
+"edit_dialog_msgSaveFailedTrySaveAs" = "The media does not support overwrited save, try save as.";
+
+// 正在使用模版，不能删除
+"edit_dialog_msgUsingTemplateDeleteFailed" = "The template is in use, can not be deleted";
+
+// 保存
+"edit_dialog_promptSave" = "Save";
+
+// 裁剪发生错误
+"edit_dialog_titleCropFailed" = "Failed to crop";
+
+// 提示
+"edit_dialog_titleTip" = "Information";
+
+// 复制文件
+"edit_menu_copyFile" = "Copy File";
+
+// 复制文件路径
+"edit_menu_copyFilePath" = "Copy File Path";
+
+// 删除
+"edit_menu_delete" = "Delete";
+
+// 删除文件
+"edit_menu_deleteFile" = "Delete File";
+
+// 编辑
+"edit_menu_edit" = "Edit";
+
+// 导出
+"edit_menu_export" = "Export...";
+
+// 导出素材
+"edit_menu_exportMedia" = "Export";
+
+// 导出到图床
+"edit_menu_exportToBed" = "Quick export";
+
+// 鼠标滚轮移动图片
+"edit_menu_mouseScrollToMove" = "Mouse Scroll to Move";
+
+// 鼠标滚轮左右翻页
+"edit_menu_mouseScrollToPage" = "Mouse Scroll to Page";
+
+// 鼠标滚轮缩放图片
+"edit_menu_mouseScrollToZoom" = "Mouse Scroll to Zoom";
+
+// 在默认应用中打开
+"edit_menu_openInDefaultApp" = "Open with Default App";
+
+// 在新窗口中打开
+"edit_menu_openInNewWin" = "Open in New Window";
+
+// 在其他应用中打开
+"edit_menu_openInOtherApp" = "Open with Other App";
+
+// 钉在桌面
+"edit_menu_pinOnDesktop" = "Pin on Desktop";
+
+// 保存
+"edit_menu_save" = "Save";
+
+// 设置为桌面
+"edit_menu_setAsDesktop" = "Set Desktop";
+
+// 在Finder中显示
+"edit_menu_showInFinder" = "Reveal in Finder";
+
+// 开启/关闭滑动动画
+"edit_menu_togglePageScrollAnimation" = "Enable Scroll Animation";
+
+// 上传到
+"edit_menu_uploadTo" = "Upload to ";
+
+// 角度
+"edit_pro_arrowAngle" = "Angle";
+
+// 默认模版
+"edit_pro_btnDefaultTemplate" = "Default template";
+
+// 重命名
+"edit_pro_btnRename" = "Rename";
+
+// 存为模版
+"edit_pro_btnSaveAsTemplate" = "Save as template";
+
+// 保存模版
+"edit_pro_btnSaveTemplate" = "Save template";
+
+// 选择
+"edit_pro_btnSelect" = "Select";
+
+// 半径
+"edit_pro_cornerRadius" = "Radius";
+
+// 描述
+"edit_pro_labelDescription" = "Content";
+
+// 尺寸调整
+"edit_pro_labelAdjustSize" = "Strategy";
+
+// 锚点
+"edit_pro_labelAnchorPoint" = "Anchor";
+
+// 角度°
+"edit_pro_labelAngle" = "Angle";
+
+// 弧点
+"edit_pro_labelArcPos" = "Arc";
+
+// 箭头
+"edit_pro_labelArrow" = "Arrow";
+
+// 圆心
+"edit_pro_labelCirclePos" = "Circle";
+
+// 颜色
+"edit_pro_labelColor" = "Color";
+
+// 半径
+"edit_pro_labelCornerRadius" = "Radius";
+
+// 嵌入位置
+"edit_pro_labelEmbedPosition" = "Inner pos";
+
+// 嵌入大小
+"edit_pro_labelEmbedSize" = "Inner size";
+
+// 终点
+"edit_pro_labelEndPos" = "End";
+
+// 填充
+"edit_pro_labelFill" = "Fill";
+
+// 字体
+"edit_pro_labelFont" = "Font";
+
+// 高度
+"edit_pro_labelHeight" = "Height";
+
+// 平长
+"edit_pro_labelHorizontalLength" = "Horizontal len";
+
+// 长度
+"edit_pro_labelLength" = "Length";
+
+// 边线
+"edit_pro_labelLine" = "Sideline";
+
+// 聚点
+"edit_pro_labelMagnifierPos" = "Magnifier";
+
+// 位置
+"edit_pro_labelPosition" = "Position";
+
+// 旋转
+"edit_pro_labelRotate" = "Rotate";
+
+// 倍数
+"edit_pro_labelScale" = "Scale";
+
+// 大小
+"edit_pro_labelSize" = "Size";
+
+// 斜长
+"edit_pro_labelSlopeLenght" = "Slope len";
+
+// 水平间距
+"edit_pro_labelSpanH" = "Horizontal gap";
+
+// 垂直间距
+"edit_pro_labelSpanV" = "Vertical gap";
+
+// 起点
+"edit_pro_labelStartPos" = "Start";
+
+// 样式
+"edit_pro_labelStyle" = "Style";
+
+// 粗细
+"edit_pro_labelThick" = "Thickness";
+
+// 水印
+"edit_pro_labelWaterMark" = "Image";
+
+// 宽度
+"edit_pro_labelWidth" = "Width";
+
+// 原高
+"edit_pro_nativeHeight" = "H";
+
+// 原宽
+"edit_pro_nativeWidth" = "W";
+
+// 重命名
+"edit_pro_rename" = "Rename";
+
+// 重命名模版
+"edit_pro_renameTemplate" = "Rename template";
+
+// 存为模版
+"edit_pro_saveAsTemplate" = "Save as template";
+
+// 存储在模版库中，以便应用在其他图元上
+"edit_pro_saveInTemplateLib" = "Save in template library, it can be applied to other media easily";
+
+// 保存模版
+"edit_pro_saveTemplate" = "Save template";
+
+// 样式
+"edit_pro_style" = "Style";
+
+// 改变模版在模版库中名称
+"edit_pro_updateNameInTemplateLib" = "Update name in template library";
+
+// 原始大小
+"edit_toolTip_fitSelf" = "Fit to image";
+
+// 适应窗口
+"edit_toolTip_fitWin" = "Fit to window";
+
+// 项
+"edit_unit_item" = " Count";

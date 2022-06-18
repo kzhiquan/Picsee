@@ -1,0 +1,231 @@
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "1VV-AP-wlX"; */
+"1VV-AP-wlX.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Picsee"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Picsee";
+
+/* Class = "NSMenuItem"; title = "Label"; ObjectID = "2Nh-wH-mF3"; */
+"2Nh-wH-mF3.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "Ellipse"; ObjectID = "3QO-gx-5VD"; */
+"3QO-gx-5VD.title" = "Ellipse";
+
+/* Class = "NSMenuItem"; title = "Mark"; ObjectID = "3Tj-95-vce"; */
+"3Tj-95-vce.title" = "Mark";
+
+/* Class = "NSMenuItem"; title = "Line"; ObjectID = "4Ii-Bg-fB4"; */
+"4Ii-Bg-fB4.title" = "Line";
+
+/* Class = "NSMenuItem"; title = "Quit Picsee"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit Picsee";
+
+/* Class = "NSMenu"; title = "Line"; ObjectID = "5d1-fm-B8m"; */
+"5d1-fm-B8m.title" = "Line";
+
+/* Class = "NSMenuItem"; title = "About Picsee"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About Picsee";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "6ah-oD-yc6"; */
+"6ah-oD-yc6.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Print..."; ObjectID = "6qS-RQ-LND"; */
+"6qS-RQ-LND.title" = "Print...";
+
+/* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "7vn-X5-8ZY"; */
+"7vn-X5-8ZY.title" = "Check for Updates";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenu"; title = "Highlight"; ObjectID = "BK7-ge-bnP"; */
+"BK7-ge-bnP.title" = "Highlight";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "D08-2q-heO"; */
+"D08-2q-heO.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "Show in Finder";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "DoT-h4-zcM"; */
+"DoT-h4-zcM.title" = "Select";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Picsee Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Picsee Help";
+
+/* Class = "NSMenuItem"; title = "Rotate Right"; ObjectID = "Fal-I4-PZk"; */
+"Fal-I4-PZk.title" = "Rotate Right";
+
+/* Class = "NSMenuItem"; title = "Install Extensions"; ObjectID = "G4Q-lI-eEV"; */
+"G4Q-lI-eEV.title" = "Install Extensions";
+
+/* Class = "NSMenuItem"; title = "Next"; ObjectID = "GC3-ul-FFR"; */
+"GC3-ul-FFR.title" = "Next";
+
+/* Class = "NSMenu"; title = "Tools"; ObjectID = "GEO-Iw-cKr"; */
+"GEO-Iw-cKr.title" = "Tools";
+
+/* Class = "NSMenuItem"; title = "Rotate Left"; ObjectID = "Gi5-1S-RQB"; */
+"Gi5-1S-RQB.title" = "Rotate Left";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "J0y-iC-qwW"; */
+"J0y-iC-qwW.title" = "Enter Full Screen";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "KHd-fE-qrz"; */
+"KHd-fE-qrz.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "Kuh-7o-Egc"; */
+"Kuh-7o-Egc.title" = "Actual Size";
+
+/* Class = "NSMenuItem"; title = "Area"; ObjectID = "Lnk-ki-2jk"; */
+"Lnk-ki-2jk.title" = "Area";
+
+/* Class = "NSMenuItem"; title = "Previous"; ObjectID = "MPg-hC-NqL"; */
+"MPg-hC-NqL.title" = "Previous";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Area"; ObjectID = "Ncc-4O-rCN"; */
+"Ncc-4O-rCN.title" = "Area";
+
+/* Class = "NSMenuItem"; title = "Ellipse"; ObjectID = "OCM-NR-2E6"; */
+"OCM-NR-2E6.title" = "Ellipse";
+
+/* Class = "NSMenuItem"; title = "Hide Picsee"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide Picsee";
+
+/* Class = "NSMenuItem"; title = "Infomation"; ObjectID = "PHH-gL-2Ho"; */
+"PHH-gL-2Ho.title" = "Infomation";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "Q92-yb-qS5"; */
+"Q92-yb-qS5.title" = "Text";
+
+/* Class = "NSMenuItem"; title = "Crop"; ObjectID = "RTV-ix-FLw"; */
+"RTV-ix-FLw.title" = "Crop";
+
+/* Class = "NSMenuItem"; title = "Color"; ObjectID = "S92-er-zEP"; */
+"S92-er-zEP.title" = "Color";
+
+/* Class = "NSMenuItem"; title = "Fit Window"; ObjectID = "T2i-gD-t02"; */
+"T2i-gD-t02.title" = "Fit Window";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "TZ9-Y0-rkq"; */
+"TZ9-Y0-rkq.title" = "Zoom Out";
+
+/* Class = "NSMenuItem"; title = "Length"; ObjectID = "U5W-FP-DNV"; */
+"U5W-FP-DNV.title" = "Length";
+
+/* Class = "NSMenu"; title = "Area"; ObjectID = "UFD-sW-rso"; */
+"UFD-sW-rso.title" = "Area";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSMenu"; title = "Mosaic"; ObjectID = "WHU-ds-kip"; */
+"WHU-ds-kip.title" = "Mosaic";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Was-JA-tGl"; */
+"Was-JA-tGl.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "YT8-Wt-EQq"; */
+"YT8-Wt-EQq.title" = "Zoom In";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "YhO-tz-sSK"; */
+"YhO-tz-sSK.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Ellipse"; ObjectID = "ZSD-GY-2xT"; */
+"ZSD-GY-2xT.title" = "Ellipse";
+
+/* Class = "NSMenu"; title = "Label"; ObjectID = "afV-D6-n9s"; */
+"afV-D6-n9s.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "Flat Arrow"; ObjectID = "axT-Uj-msM"; */
+"axT-Uj-msM.title" = "Flat Arrow";
+
+/* Class = "NSMenuItem"; title = "Sink Arrow"; ObjectID = "b6L-ux-J5l"; */
+"b6L-ux-J5l.title" = "Sink Arrow";
+
+/* Class = "NSMenuItem"; title = "Flip Vertial"; ObjectID = "bOi-HP-Qzk"; */
+"bOi-HP-Qzk.title" = "Flip Vertial";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "cfy-Wu-QZa"; */
+"cfy-Wu-QZa.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Shell"; ObjectID = "hJj-kw-4Qr"; */
+"hJj-kw-4Qr.title" = "Shell";
+
+/* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "hg9-Nt-1Qq"; */
+"hg9-Nt-1Qq.title" = "Highlight";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Mosaic"; ObjectID = "iJn-at-zYF"; */
+"iJn-at-zYF.title" = "Mosaic";
+
+/* Class = "NSMenuItem"; title = "Pencil"; ObjectID = "jRX-8B-lBm"; */
+"jRX-8B-lBm.title" = "Pencil";
+
+/* Class = "NSMenuItem"; title = "Tools"; ObjectID = "jxT-CU-nIS"; */
+"jxT-CU-nIS.title" = "Tools";
+
+/* Class = "NSMenuItem"; title = "Line"; ObjectID = "jz7-KI-JH6"; */
+"jz7-KI-JH6.title" = "Line";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "keE-NE-RXy"; */
+"keE-NE-RXy.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Flip Horizontal"; ObjectID = "mEc-SR-nfF"; */
+"mEc-SR-nfF.title" = "Flip Horizontal";
+
+/* Class = "NSMenuItem"; title = "Pencel"; ObjectID = "nAk-r0-9mL"; */
+"nAk-r0-9mL.title" = "Pencel";
+
+/* Class = "NSMenuItem"; title = "Pencil"; ObjectID = "njt-bD-oT7"; */
+"njt-bD-oT7.title" = "Pencil";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "rLr-9W-D0A"; */
+"rLr-9W-D0A.title" = "Text";
+
+/* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "sCa-W9-mPK"; */
+"sCa-W9-mPK.title" = "Rectangle";
+
+/* Class = "NSMenuItem"; title = "Magnifier"; ObjectID = "sDH-u0-YL6"; */
+"sDH-u0-YL6.title" = "Magnifier";
+
+/* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "tMS-J9-e3o"; */
+"tMS-J9-e3o.title" = "Rectangle";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "tXI-mr-wws"; */
+"tXI-mr-wws.title" = "Delete";
+
+/* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "u3F-i4-qUp"; */
+"u3F-i4-qUp.title" = "Rectangle";
+
+/* Class = "NSMenu"; title = "Picsee"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Picsee";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "z1k-LE-M2F"; */
+"z1k-LE-M2F.title" = "Close";

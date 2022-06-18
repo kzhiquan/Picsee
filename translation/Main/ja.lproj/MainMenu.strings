@@ -1,0 +1,231 @@
+
+/* Class = "NSMenuItem"; title = "ブラウズ"; ObjectID = "1VV-AP-wlX"; */
+"1VV-AP-wlX.title" = "ブラウズ";
+
+/* Class = "NSMenuItem"; title = "Picsee"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Picsee";
+
+/* Class = "NSMenuItem"; title = "マーキング"; ObjectID = "2Nh-wH-mF3"; */
+"2Nh-wH-mF3.title" = "マーキング";
+
+/* Class = "NSMenuItem"; title = "オーバル"; ObjectID = "3QO-gx-5VD"; */
+"3QO-gx-5VD.title" = "オーバル";
+
+/* Class = "NSMenuItem"; title = "画像"; ObjectID = "3Tj-95-vce"; */
+"3Tj-95-vce.title" = "画像";
+
+/* Class = "NSMenuItem"; title = "ライン"; ObjectID = "4Ii-Bg-fB4"; */
+"4Ii-Bg-fB4.title" = "ライン";
+
+/* Class = "NSMenuItem"; title = "終了"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "終了";
+
+/* Class = "NSMenu"; title = "ライン"; ObjectID = "5d1-fm-B8m"; */
+"5d1-fm-B8m.title" = "ライン";
+
+/* Class = "NSMenuItem"; title = "Picseeについて"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Picseeについて";
+
+/* Class = "NSMenu"; title = "ブラウズ"; ObjectID = "6ah-oD-yc6"; */
+"6ah-oD-yc6.title" = "ブラウズ";
+
+/* Class = "NSMenuItem"; title = "プリント"; ObjectID = "6qS-RQ-LND"; */
+"6qS-RQ-LND.title" = "プリント";
+
+/* Class = "NSMenuItem"; title = "バージョンアップの確認"; ObjectID = "7vn-X5-8ZY"; */
+"7vn-X5-8ZY.title" = "バージョンアップの確認";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenu"; title = "ハイライト"; ObjectID = "BK7-ge-bnP"; */
+"BK7-ge-bnP.title" = "ハイライト";
+
+/* Class = "NSMenuItem"; title = "環境設定…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "環境設定…";
+
+/* Class = "NSMenuItem"; title = "ウィンドウズ"; ObjectID = "D08-2q-heO"; */
+"D08-2q-heO.title" = "ウィンドウズ";
+
+/* Class = "NSMenuItem"; title = "Finderに表示する"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "Finderに表示する";
+
+/* Class = "NSMenuItem"; title = "選択"; ObjectID = "DoT-h4-zcM"; */
+"DoT-h4-zcM.title" = "選択";
+
+/* Class = "NSMenu"; title = "ヘルプ"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "ヘルプ";
+
+/* Class = "NSMenuItem"; title = "Picsee ヘルプ"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Picsee ヘルプ";
+
+/* Class = "NSMenuItem"; title = "右方向に回転させる"; ObjectID = "Fal-I4-PZk"; */
+"Fal-I4-PZk.title" = "右方向に回転させる";
+
+/* Class = "NSMenuItem"; title = "ブラウザの拡張機能をインストールする"; ObjectID = "G4Q-lI-eEV"; */
+"G4Q-lI-eEV.title" = "ブラウザの拡張機能をインストールする";
+
+/* Class = "NSMenuItem"; title = "次のページ"; ObjectID = "GC3-ul-FFR"; */
+"GC3-ul-FFR.title" = "次のページ";
+
+/* Class = "NSMenu"; title = "ツール"; ObjectID = "GEO-Iw-cKr"; */
+"GEO-Iw-cKr.title" = "ツール";
+
+/* Class = "NSMenuItem"; title = "左に回転させる"; ObjectID = "Gi5-1S-RQB"; */
+"Gi5-1S-RQB.title" = "左に回転させる";
+
+/* Class = "NSMenuItem"; title = "表示"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "表示";
+
+/* Class = "NSMenuItem"; title = "フルスクリーンで見る"; ObjectID = "J0y-iC-qwW"; */
+"J0y-iC-qwW.title" = "フルスクリーンで見る";
+
+/* Class = "NSMenu"; title = "ウィンドウズ"; ObjectID = "KHd-fE-qrz"; */
+"KHd-fE-qrz.title" = "ウィンドウズ";
+
+/* Class = "NSMenuItem"; title = "すべてのウィンドウを表示する"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "すべてのウィンドウを表示する";
+
+/* Class = "NSMenuItem"; title = "実寸大"; ObjectID = "Kuh-7o-Egc"; */
+"Kuh-7o-Egc.title" = "実寸大";
+
+/* Class = "NSMenuItem"; title = "形状"; ObjectID = "Lnk-ki-2jk"; */
+"Lnk-ki-2jk.title" = "形状";
+
+/* Class = "NSMenuItem"; title = "前"; ObjectID = "MPg-hC-NqL"; */
+"MPg-hC-NqL.title" = "前";
+
+/* Class = "NSMenuItem"; title = "サービス内容"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "サービス内容";
+
+/* Class = "NSMenuItem"; title = "地域"; ObjectID = "Ncc-4O-rCN"; */
+"Ncc-4O-rCN.title" = "地域";
+
+/* Class = "NSMenuItem"; title = "オーバル"; ObjectID = "OCM-NR-2E6"; */
+"OCM-NR-2E6.title" = "オーバル";
+
+/* Class = "NSMenuItem"; title = "Picsee隠す"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Picsee隠す";
+
+/* Class = "NSMenuItem"; title = "画像情報"; ObjectID = "PHH-gL-2Ho"; */
+"PHH-gL-2Ho.title" = "画像情報";
+
+/* Class = "NSMenuItem"; title = "テキスト"; ObjectID = "Q92-yb-qS5"; */
+"Q92-yb-qS5.title" = "テキスト";
+
+/* Class = "NSMenuItem"; title = "作物"; ObjectID = "RTV-ix-FLw"; */
+"RTV-ix-FLw.title" = "作物";
+
+/* Class = "NSMenuItem"; title = "カラー"; ObjectID = "S92-er-zEP"; */
+"S92-er-zEP.title" = "カラー";
+
+/* Class = "NSMenuItem"; title = "窓の大きさ"; ObjectID = "T2i-gD-t02"; */
+"T2i-gD-t02.title" = "窓の大きさ";
+
+/* Class = "NSMenuItem"; title = "削減"; ObjectID = "TZ9-Y0-rkq"; */
+"TZ9-Y0-rkq.title" = "削減";
+
+/* Class = "NSMenuItem"; title = "長さ"; ObjectID = "U5W-FP-DNV"; */
+"U5W-FP-DNV.title" = "長さ";
+
+/* Class = "NSMenu"; title = "形状"; ObjectID = "UFD-sW-rso"; */
+"UFD-sW-rso.title" = "形状";
+
+/* Class = "NSMenuItem"; title = "その他を隠す"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "その他を隠す";
+
+/* Class = "NSMenu"; title = "モザイク"; ObjectID = "WHU-ds-kip"; */
+"WHU-ds-kip.title" = "モザイク";
+
+/* Class = "NSMenuItem"; title = "全選択"; ObjectID = "Was-JA-tGl"; */
+"Was-JA-tGl.title" = "全選択";
+
+/* Class = "NSMenuItem"; title = "拡大する"; ObjectID = "YT8-Wt-EQq"; */
+"YT8-Wt-EQq.title" = "拡大する";
+
+/* Class = "NSMenuItem"; title = "ミニマム"; ObjectID = "YhO-tz-sSK"; */
+"YhO-tz-sSK.title" = "ミニマム";
+
+/* Class = "NSMenuItem"; title = "オーバル"; ObjectID = "ZSD-GY-2xT"; */
+"ZSD-GY-2xT.title" = "オーバル";
+
+/* Class = "NSMenu"; title = "マーキング"; ObjectID = "afV-D6-n9s"; */
+"afV-D6-n9s.title" = "マーキング";
+
+/* Class = "NSMenuItem"; title = "コンベックスアロー"; ObjectID = "axT-Uj-msM"; */
+"axT-Uj-msM.title" = "コンベックスアロー";
+
+/* Class = "NSMenuItem"; title = "凹型の矢印"; ObjectID = "b6L-ux-J5l"; */
+"b6L-ux-J5l.title" = "凹型の矢印";
+
+/* Class = "NSMenuItem"; title = "上下に反転させる"; ObjectID = "bOi-HP-Qzk"; */
+"bOi-HP-Qzk.title" = "上下に反転させる";
+
+/* Class = "NSMenu"; title = "イメージ"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "イメージ";
+
+/* Class = "NSMenuItem"; title = "スケーリング"; ObjectID = "cfy-Wu-QZa"; */
+"cfy-Wu-QZa.title" = "スケーリング";
+
+/* Class = "NSMenuItem"; title = "イメージ"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "イメージ";
+
+/* Class = "NSMenuItem"; title = "シェル"; ObjectID = "hJj-kw-4Qr"; */
+"hJj-kw-4Qr.title" = "シェル";
+
+/* Class = "NSMenuItem"; title = "ハイライト"; ObjectID = "hg9-Nt-1Qq"; */
+"hg9-Nt-1Qq.title" = "ハイライト";
+
+/* Class = "NSMenu"; title = "サービス内容"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "サービス内容";
+
+/* Class = "NSMenuItem"; title = "モザイク"; ObjectID = "iJn-at-zYF"; */
+"iJn-at-zYF.title" = "モザイク";
+
+/* Class = "NSMenuItem"; title = "スメア"; ObjectID = "jRX-8B-lBm"; */
+"jRX-8B-lBm.title" = "スメア";
+
+/* Class = "NSMenuItem"; title = "ツール"; ObjectID = "jxT-CU-nIS"; */
+"jxT-CU-nIS.title" = "ツール";
+
+/* Class = "NSMenuItem"; title = "ストレートライン"; ObjectID = "jz7-KI-JH6"; */
+"jz7-KI-JH6.title" = "ストレートライン";
+
+/* Class = "NSMenuItem"; title = "フロント全窓"; ObjectID = "keE-NE-RXy"; */
+"keE-NE-RXy.title" = "フロント全窓";
+
+/* Class = "NSMenuItem"; title = "左右回転"; ObjectID = "mEc-SR-nfF"; */
+"mEc-SR-nfF.title" = "左右回転";
+
+/* Class = "NSMenuItem"; title = "ペイントブラシ"; ObjectID = "nAk-r0-9mL"; */
+"nAk-r0-9mL.title" = "ペイントブラシ";
+
+/* Class = "NSMenuItem"; title = "スメア"; ObjectID = "njt-bD-oT7"; */
+"njt-bD-oT7.title" = "スメア";
+
+/* Class = "NSMenuItem"; title = "テキスト"; ObjectID = "rLr-9W-D0A"; */
+"rLr-9W-D0A.title" = "テキスト";
+
+/* Class = "NSMenuItem"; title = "長方形"; ObjectID = "sCa-W9-mPK"; */
+"sCa-W9-mPK.title" = "長方形";
+
+/* Class = "NSMenuItem"; title = "拡大鏡"; ObjectID = "sDH-u0-YL6"; */
+"sDH-u0-YL6.title" = "拡大鏡";
+
+/* Class = "NSMenuItem"; title = "長方形"; ObjectID = "tMS-J9-e3o"; */
+"tMS-J9-e3o.title" = "長方形";
+
+/* Class = "NSMenuItem"; title = "削除"; ObjectID = "tXI-mr-wws"; */
+"tXI-mr-wws.title" = "削除";
+
+/* Class = "NSMenuItem"; title = "長方形"; ObjectID = "u3F-i4-qUp"; */
+"u3F-i4-qUp.title" = "長方形";
+
+/* Class = "NSMenu"; title = "Picsee"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Picsee";
+
+/* Class = "NSMenuItem"; title = "ヘルプ"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "ヘルプ";
+
+/* Class = "NSMenuItem"; title = "ウィンドウを閉じる"; ObjectID = "z1k-LE-M2F"; */
+"z1k-LE-M2F.title" = "ウィンドウを閉じる";

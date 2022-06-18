@@ -1,0 +1,1956 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/2.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 删除
+"album_bar_delete" = "刪除";
+
+// 入口
+"album_bar_entry" = "入口";
+
+// 导出
+"album_bar_export" = "導出";
+
+// 标题
+"album_bar_head" = "標題";
+
+// 布局
+"album_bar_layout" = "佈局";
+
+// 操作
+"album_bar_operate" = "操作";
+
+// 定位
+"album_bar_route" = "定位";
+
+// 搜索
+"album_bar_search" = "搜索";
+
+// 大小
+"album_bar_size" = "大小";
+
+// 添加关联文件夹
+"album_body_btnAddLinkedFolder" = "添加關聯文件夾";
+
+// 安装浏览器插件
+"album_body_btnInstallBrowserExt" = "安裝瀏覽器插件";
+
+// 拖放文件到这里
+"album_body_labelDragFileHere" = "拖放文件到這裡";
+
+// 查看更多功能...
+"album_body_labelSeeMoreFeature" = "查看更多功能...";
+
+// 支持jpg, png, gif, sketch, psd, ai, webp, mp4, raw,
+"album_body_labelSupportFormatOne" = "支持jpg, png, gif, sketch, psd, ai, webp, mp4, raw,";
+
+// pdf, eps, svg等格式文件,
+"album_body_labelSupportFormatTwo" = "pdf, eps, svg等格式文件,";
+
+// 请确保链接的设备解锁
+"album_body_msgGuaranteeToUnlockDevice" = "請確保连接的設備解鎖";
+
+// 请在系统偏好设置[安全与隐私]中，授予Picsee[读取照片]权限
+"album_body_msgPhotoLibPrivilege" = "請在系統偏好設置[安全與隱私]中，授予Picsee[讀取照片]權限";
+
+// 未绑定文件夹，请在文件夹上右键点击，重新绑定位置！
+"album_body_msgUnlinkLocalFolderTip" = "未綁定文件夾，請在文件夾上右鍵點擊，重新綁定位置！";
+
+// 返回
+"album_btn_back" = "返回";
+
+// 取消
+"album_btn_cancel" = "取消";
+
+// 确定
+"album_btn_ok" = "確定";
+
+// 操作失败，可能: 1.名称冲突 2.移动或拷贝的文件不存在 3. 外部设备与系统图库中的素材不支持移动，需要先导出  4.管理的子文件不支持直接设置为管理文件夹 5. 不支持此项操作。\n
+"album_config_moveCopyMsgTip" = "操作失敗，可能: 1.名稱衝突 2.移動或拷貝的文件不存在 3. 外部設備與系統圖庫中的素材不支持移動，需要先導出  4.管理的子文件不支持直接設置為關聯文件夾 5. 不支持此項操作。 \n";
+
+// 未标签
+"album_config_untag" = "未標籤";
+
+// 全部媒体
+"album_container_allMedia" = "全部媒體";
+
+// 全部标签
+"album_container_allTag" = "全部標籤";
+
+// 默认资源束
+"album_container_defaulBundle" = "默認資源束";
+
+// 收藏标签
+"album_container_favoriteTag" = "收藏標籤";
+
+// 文件夹
+"album_container_folder" = "文件夾";
+
+// 历史
+"album_container_history" = "歷史";
+
+// 关联文件夹
+"album_container_linkedFolder" = "關聯文件夾";
+
+// 本机图库
+"album_container_localPhotoLib" = "本機圖庫";
+
+// 快速入口
+"album_container_quickEntry" = "快速入口";
+
+// 最近
+"album_container_recent" = "最近";
+
+// 最近使用
+"album_container_recentUseTag" = "最近使用";
+
+// 个选中对象
+"album_container_selectedCount" = "個選中對象";
+
+// 相似组
+"album_container_similarityGroupPrefix" = "相似組";
+
+// 智能筛选
+"album_container_smartFolder" = "智能篩選";
+
+// 智能任务
+"album_container_smartTask" = "智能任務";
+
+// 汇总条目
+"album_container_synopsis" = "匯總條目";
+
+// 标签
+"album_container_tag" = "標籤";
+
+// 标签树组
+"album_container_tagHierarchy" = "標籤樹組";
+
+// 标签管理
+"album_container_tagManage" = "標籤管理";
+
+// 标签类别
+"album_container_tagSynposis" = "標籤類別";
+
+// 回收站
+"album_container_trash" = "回收站";
+
+// 未分类
+"album_container_unclassified" = "未分類";
+
+// 未知设备
+"album_container_unknowDevice" = "未知設備";
+
+// 独立标签
+"album_container_unlinkTag" = "獨立標籤";
+
+// 未命名
+"album_container_unname" = "未命名";
+
+// 未命名文件夹
+"album_container_unnameFolder" = "未命名文件夾";
+
+// 未命名标签
+"album_container_unnameTag" = "未命名標籤";
+
+// 未标签
+"album_container_untag" = "未標籤";
+
+// 取消
+"album_dialog_btnCancel" = "取消";
+
+// 确定
+"album_dialog_btnOK" = "確定";
+
+// 添加失败
+"album_dialog_msgAddFailed" = "添加失敗";
+
+// 请先取消当前资源束中的导入任务，再创建新的资源束！
+"album_dialog_msgCancelDownloadTaskFirstThenCreateBundle" = "請先取消當前資源束中的導入任務，再創建新的資源束！";
+
+// 请先取消当前资源束中的导入任务，再打开其他资源束！
+"album_dialog_msgCancelDownloadTaskFirstThenOpenBundle" = "請先取消當前資源束中的導入任務，再打開其他資源束！";
+
+// 条件不能为空或者非法
+"album_dialog_msgConditionIsEmptyOrInvalid" = "條件不能為空或者非法";
+
+// 确定需要清空本地历史备份
+"album_dialog_msgConfirmToClearBackup" = "確定需要清空本地歷史備份";
+
+// 确定需要恢复到该时间节点，恢复后当前数据会抹除(不包括素材)，包括云端上的数据!
+"album_dialog_msgConfirmToGitRestoreTip" = "確定需要恢復到該時間節點，恢復後當前數據會抹除(不包括素材)，包括雲端上的數據!";
+
+// 确定推送本地数据到云端? 请耐心等待，可能需要比较长的时间！
+"album_dialog_msgConfirmToPushToICloud" = "確定推送本地數據到雲端? 請耐心等待，可能需要比較長的時間！";
+
+// 确定要重新绑定回收站？重新绑定前，请确保回收站中已无素材，重新绑定后，回收站中旧有的素材会清空！
+"album_dialog_msgConfirmToRebindTrashTip" = "確定要重新綁定回收站？重新綁定前，請確保回收站中已無素材，重新綁定後，回收站中舊有的素材會清空！";
+
+// 确定要重新绑定未分类？重新绑定前，请确保未分类中已无素材，重新绑定后，未分类中旧有的素材会清空！
+"album_dialog_msgConfirmToRebindUnclassifiedFolderTip" = "確定要重新綁定未分類？重新綁定前，請確保未分類中已無素材，重新綁定後，未分類中舊有的素材會清空！";
+
+// 确定需要移除关联文件夹，移除关联文件夹将不进入Picsee回收站，素材注释、标星等信息将会删除！
+"album_dialog_msgConfirmToRemoveLinkFolderTip" = "確定需要移除關聯文件夾，移除關聯文件夾將不進入Picsee回收站，素材註釋、標星等信息將會刪除！";
+
+// 确定需要开启或关闭？操作后本地备份会重置!
+"album_dialog_msgConfirmToTrunGitBackup" = "確定需要開啟或關閉？操作後本地備份會重置!";
+
+// 创建失败
+"album_dialog_msgCreateFailed" = "創建失敗";
+
+// 操作失败
+"album_dialog_msgDoneFailed" = "操作失敗";
+
+// 操作成功
+"album_dialog_msgDoneSuccess" = "操作成功";
+
+// 错误:
+"album_dialog_msgErrorPrefix" = "錯誤:";
+
+// 已存在包名称的文件夹
+"album_dialog_msgExitedPakcageName" = "已存在包名稱的文件夾";
+
+// 系统限制，不能添加整个磁盘
+"album_dialog_msgForbidToAddEntireDisk" = "系統限制，不能添加整個磁盤";
+
+// 有媒体文件来源于系统相册，建议它们在相册中删除
+"album_dialog_msgIMacItemDeleteTip" = "有媒體文件來源於系統相冊，建議它們在相冊中刪除";
+
+// 请指定导入素材的放置位置
+"album_dialog_msgImportLocation" = "請指定導入素材的放置位置";
+
+// 输入数字范围错误，请输入例如: 123,456
+"album_dialog_msgInputNumErrorTip" = "輸入數字範圍錯誤，請輸入例如: 123,456";
+
+// 资源束名称不能为空
+"album_dialog_msgLibBundleNameIsEmpty" = "資源束名稱不能為空";
+
+// 名称不能为空
+"album_dialog_msgNameIsEmpty" = "名稱不能為空";
+
+// 没有可导出对象
+"album_dialog_msgNoneExportableObj" = "沒有可導出對象";
+
+// 确定拉取云端数据？请耐心等待，可能需要比较长的时间!
+"album_dialog_msgPullICloudTip" = "確定拉取雲端數據？請耐心等待，可能需要比較長的時間!";
+
+// 记录版本历史数据失败, 请检查是否打开了多个Picsee, 若没有，建议在Picsee偏好设置中重置本地备份！
+"album_dialog_msgRecordGitBackupFailedTip" = "記錄版本歷史數據失敗, 請檢查是否打開了多個Picsee, 若沒有，建議在Picsee偏好設置中重置本地備份！";
+
+// 命名失败，请检查是否有重复名称！
+"album_dialog_msgRenameFailedTip" = "命名失敗，請檢查是否有重複名稱！";
+
+// 媒体文件来源于系统相册，没有重命名权限
+"album_dialog_msgRenameIMacItemTip" = "媒體文件來源於系統相冊，沒有重命名權限";
+
+// 恢复失败
+"album_dialog_msgRestoreFailed" = "恢復失敗";
+
+// 恢复成功!
+"album_dialog_msgRestoreSuccess" = "恢復成功";
+
+// 范围不能为空
+"album_dialog_msgScopeIsEmpty" = "範圍不能為空";
+
+// 请选择导入素材包
+"album_dialog_msgSelectEaglePackageToImport" = "請選擇導入素材包";
+
+// 请指定导入花瓣素材的放置位置
+"album_dialog_msgSelectFolderToSaveMediaFromHuaban" = "請指定導入花瓣素材的放置位置";
+
+// 请指定批量采集素材的放置位置
+"album_dialog_msgSelectFolderToSaveMediaToCollect" = "請指定批量採集素材的放置位置";
+
+// 请选择导入素材包
+"album_dialog_msgSelectPicseePackageToImport" = "請選擇導入素材包";
+
+// 请输入正确的格式，例如： 8
+"album_dialog_msgSimilarityInputInvalid" = "請輸入正確的格式，例如： 8";
+
+// 修改失败，已经存在标签：
+"album_dialog_msgTagRenameTip" = "修改失敗，已經存在標籤：";
+
+// 回收站不能删除
+"album_dialog_msgTrashDeleteTip" = "回收站不能刪除";
+
+// 未分类不能删除
+"album_dialog_msgUnclassifiedFolderDeleteTip" = "未分類不能刪除";
+
+// 打开
+"album_dialog_open" = "打開";
+
+// 导出
+"album_dialog_promptExport" = "導出";
+
+// 导入
+"album_dialog_promptImport" = "導入";
+
+// 打开
+"album_dialog_promptOpen" = "打開";
+
+// 选择
+"album_dialog_promptSelect" = "選擇";
+
+// 修改失败，已经存在标签:
+"album_dialog_renameTagFailedTip" = "修改失敗，已經存在標籤:";
+
+// 先删除云端数据，再推送!
+"album_dialog_supBtnFirstDeleteICloudThenPush" = "先刪除雲端數據，再推送!";
+
+// 先删除本地数据，再拉取!
+"album_dialog_supBtnFirstDeleteThenPull" = "先刪除本地數據，再拉取!";
+
+// 重命名失败
+"album_dialog_titleRenameFailed" = "重命名失敗";
+
+// 提示
+"album_dialog_titleTip" = "提示";
+
+// 背景色
+"album_field_backgroundColor" = "背景色";
+
+// 图床
+"album_field_bedUrl" = "圖床";
+
+// 子个数
+"album_field_childCount" = "子個數";
+
+// 城市
+"album_field_city" = "城市";
+
+// 颜色
+"album_field_color" = "顏色";
+
+// 国家
+"album_field_country" = "國家";
+
+// 创建时间
+"album_field_createDate" = "創建時間";
+
+// 日期
+"album_field_day" = "日期";
+
+// 可分解
+"album_field_decomposable" = "可分解";
+
+// 详细色
+"album_field_detailColor" = "詳細色";
+
+// 尺寸
+"album_field_dimension" = "尺寸";
+
+// 相似
+"album_field_duplicate" = "相似";
+
+// 时间长度
+"album_field_duration" = "時間長度";
+
+// EXIF
+"album_field_exif" = "EXIF";
+
+// 曝光偏移值
+"album_field_exifExposureBiasValue" = "曝光偏移值";
+
+// 曝光模式
+"album_field_exifExposureMode" = "曝光模式";
+
+// 曝光时间
+"album_field_exifExposureTime" = "曝光時間";
+
+// 光圈
+"album_field_exifFNumber" = "光圈";
+
+// 焦距
+"album_field_exifFocalLength" = "焦距";
+
+// 镜头制造商
+"album_field_exifLensMaker" = "鏡頭製造商";
+
+// 镜头型号
+"album_field_exifLensModel" = "鏡頭型號";
+
+// 拍摄时间
+"album_field_exifTakeDate" = "拍攝時間";
+
+// 拍摄日
+"album_field_exifTakeDay" = "拍攝日";
+
+// 拍摄月
+"album_field_exifTakeMonth" = "拍攝月";
+
+// 拍摄年
+"album_field_exifTakeYear" = "拍攝年";
+
+// 大小
+"album_field_fileSize" = "大小";
+
+// 大小
+"album_field_fileSizeLevel" = "大小";
+
+// 格式
+"album_field_format" = "格式";
+
+// 来自
+"album_field_fromUrl" = "來源";
+
+// 图标颜色
+"album_field_iconColor" = "圖標顏色";
+
+// 图标名称
+"album_field_iconName" = "圖標名稱";
+
+// 面积
+"album_field_imageArea" = "面積";
+
+// 长度
+"album_field_imageHeight" = "長度";
+
+// 大小
+"album_field_imageSize" = "大小";
+
+// 宽度
+"album_field_imageWidth" = "寬度";
+
+// IPTC
+"album_field_iptc" = "IPTC";
+
+// 简介
+"album_field_iptcCaptionAbstract" = "簡介";
+
+// 版权
+"album_field_iptcCopyrightNotice" = "版權";
+
+// 作者
+"album_field_iptcCreator" = "作者";
+
+// 合法使用者
+"album_field_iptcCredit" = "合法使用者";
+
+// 创建日期
+"album_field_iptcDateCreated" = "創建日期";
+
+// 标题描述
+"album_field_iptcHeadline" = "標題描述";
+
+// 关键字
+"album_field_iptcKeywords" = "關鍵字";
+
+// 版权说明
+"album_field_iptcRightsUsageTerms" = "版權說明";
+
+// 使用说明
+"album_field_iptcSpecialInstructions" = "使用說明";
+
+// 标注
+"album_field_mark" = "標註";
+
+// 修改时间
+"album_field_modificationDate" = "修改時間";
+
+// 月份
+"album_field_month" = "月份";
+
+// 名称
+"album_field_name" = "名稱";
+
+// 首字母
+"album_field_nameFirstLetter" = "首字母";
+
+// 名称
+"album_field_nameForSort" = "名稱";
+
+// 默认
+"album_field_none" = "默認";
+
+// 注释
+"album_field_note" = "註釋";
+
+// 主要色
+"album_field_primaryColor" = "主要色";
+
+// 评分
+"album_field_score" = "評分";
+
+// 次要色
+"album_field_secondaryColor" = "次要色";
+
+// 形状
+"album_field_shape" = "形狀";
+
+// 标签
+"album_field_tag" = "標籤";
+
+// TIFF
+"album_field_tiff" = "Tiff";
+
+// 拍摄时间
+"album_field_tiffDateTime" = "拍攝時間";
+
+// 制造商
+"album_field_tiffMake" = "製造商";
+
+// 型号
+"album_field_tiffModel" = "型號";
+
+// 拍摄方向
+"album_field_tiffOrientation" = "拍攝方向";
+
+// 分辨率单位
+"album_field_tiffResolutionUnit" = "分辨率單位";
+
+// 软件
+"album_field_tiffSoftware" = "軟件";
+
+// X分辨率
+"album_field_tiffXResolution" = "X分辨率";
+
+// Y分辨率
+"album_field_tiffYResolution" = "Y分辨率";
+
+// 年份
+"album_field_year" = "年份";
+
+// 有图床链接
+"album_filter_bed" = "有圖床鏈接";
+
+// 输入关键字(使用英文逗号,隔开)
+"album_filter_bedKeyWordsTip" = "輸入關鍵字(使用英文逗號,隔開)";
+
+// 自定范围
+"album_filter_customDayRange" = "自定範圍";
+
+// 最大值
+"album_filter_fileSizeMax" = "最大值";
+
+// 最小值
+"album_filter_fileSizeMin" = "最小值";
+
+// 5星
+"album_filter_fiveStar" = "5星";
+
+// 4星
+"album_filter_foueStar" = "4星";
+
+// 最大值
+"album_filter_holderMaxValue" = "最大值";
+
+// 最小值
+"album_filter_holderMinValue" = "最小值";
+
+// 时
+"album_filter_hour" = "時";
+
+// 高
+"album_filter_labelHeight" = "高";
+
+// 宽
+"album_filter_labelWidth" = "寬";
+
+// 近30日
+"album_filter_latest30Day" = "近30日";
+
+// 近365日
+"album_filter_latest365Day" = "近365日";
+
+// 近7日
+"album_filter_latest7Day" = "近7日";
+
+// 近90日
+"album_filter_latest90Day" = "近90日";
+
+// 分
+"album_filter_minute" = "分";
+
+// 没有找到相关类型条目
+"album_filter_noneItem" = "沒有找到相關類型條目";
+
+// 输入关键字(使用英文逗号,隔开)
+"album_filter_noteKeyWordsTip" = "輸入關鍵字(使用英文逗號,隔開)";
+
+// 有标注
+"album_filter_noted" = "有標註";
+
+// 1星
+"album_filter_oneStar" = "1星";
+
+// 秒
+"album_filter_second" = "秒";
+
+// 3星
+"album_filter_threeStar" = "3星";
+
+// 今日
+"album_filter_today" = "今日";
+
+// 2星
+"album_filter_twoStar" = "2星";
+
+// 尚未评分
+"album_filter_unStar" = "尚未評分";
+
+// 没有图床链接
+"album_filter_unbeded" = "沒有圖床鏈接";
+
+// 未标注
+"album_filter_unnoted" = "未標註";
+
+// 昨日
+"album_filter_yesterday" = "昨日";
+
+// 不支持删除PDF页面
+"album_item_pdfPageDeleteTip" = "不支持刪除PDF頁面";
+
+// 此媒体来源于系统相册，建议在相册中删除
+"album_item_photoLibDeleteTip" = "此媒體來源於系統相冊，建議在相冊中刪除";
+
+// 网格正切布局
+"album_layout_grid" = "網格正切佈局";
+
+// 网格自适布局
+"album_layout_gridFit" = "網格自適佈局";
+
+// 自适应布局
+"album_layout_selfFit" = "自適應佈局";
+
+// 瀑布流布局
+"album_layout_waterFall" = "瀑布流佈局";
+
+// 手册
+"album_lib_handbook" = "手冊";
+
+// 排除扩展名(输入以/分割的扩展名，例如zip/doc)
+"album_lib_ignoreExtsHolder" = "排除擴展名(輸入以/分割的擴展名，例如zip/doc)";
+
+// 管理资源束
+"album_lib_manageBundle" = "管理資源束";
+
+// 删除
+"album_lib_menuDelete" = "刪除";
+
+// 显示
+"album_lib_menuShow" = "顯示";
+
+// 名称
+"album_lib_nameHolder" = "名稱";
+
+// 新建
+"album_lib_new" = "新建";
+
+// 新建束
+"album_lib_newBundle" = "新建束";
+
+// 描述
+"album_lib_noteHolder" = "描述";
+
+// 横向
+"album_mediaShape_horizontal" = "橫向";
+
+// 方形
+"album_mediaShape_square" = "方形";
+
+// 竖向
+"album_mediaShape_vertical" = "豎向";
+
+// 添加到[快速入口]
+"album_menu_addInQuickEntry" = "添加到[快速入口]";
+
+// 添加关联文件夹
+"album_menu_addLinkedFolder" = "添加關聯文件夾";
+
+// 升序
+"album_menu_ascend" = "升序";
+
+// 返回
+"album_menu_back" = "返回";
+
+// 批量重命名...
+"album_menu_batchRename" = "批量重命名...";
+
+// 清除该条目所有链接
+"album_menu_clearAllBedItemLink" = "清除該條目所有鏈接";
+
+// 清空回收站
+"album_menu_clearTrash" = "清空回收站";
+
+// 拷贝...
+"album_menu_copy" = "拷貝...";
+
+// 复制html
+"album_menu_copyBedHtml" = "複製html";
+
+// 复制markdown
+"album_menu_copyBedMarkdown" = "複製markdown";
+
+// 复制ubb
+"album_menu_copyBedUbb" = "複製ubb";
+
+// 复制url
+"album_menu_copyBedUrl" = "複製url";
+
+// 复制文件
+"album_menu_copyFile" = "複製文件";
+
+// 复制文件路径
+"album_menu_copyFilePath" = "複製文件路徑";
+
+// 复制标签
+"album_menu_copyTag" = "複製標籤";
+
+// 新建资源束
+"album_menu_createBundle" = "新建資源束";
+
+// 创建智能筛选
+"album_menu_createSmartFolder" = "創建智能篩選";
+
+// 创建筛选群组
+"album_menu_createSmartFolderGroup" = "創建篩選群組";
+
+// 创建智能任务
+"album_menu_createSmartTask" = "創建智能任務";
+
+// 创建任务群组
+"album_menu_createSmartTaskGroup" = "創建任務群組";
+
+// 创建子文件夹
+"album_menu_createSubFolder" = "創建子文件夾";
+
+// 创建子标签
+"album_menu_createSubTag" = "創建子標籤";
+
+// 删除
+"album_menu_delete" = "刪除";
+
+// 从侧边栏移除
+"album_menu_deleteFromNavBar" = "從側邊欄移除";
+
+// 降序
+"album_menu_descend" = "降序";
+
+// 导出...
+"album_menu_export" = "導出...";
+
+// 导出素材
+"album_menu_exportMedia" = "導出素材";
+
+// 导出到素材包(.picseepack)
+"album_menu_exportPicseePackage" = "導出到素材包(.picseepack)";
+
+// 导出到素材包(.picseepack)
+"album_menu_exportPicseepack" = "導出到素材包(.picseepack)";
+
+// 上传到
+"album_menu_exportTo" = "上傳到";
+
+// 过滤
+"album_menu_filter" = "過濾";
+
+// 前进
+"album_menu_forward" = "前進";
+
+// 收藏标签
+"album_menu_groupToFavorite" = "收藏標籤";
+
+// 归组为堆栈
+"album_menu_groupToStack" = "歸組為堆棧";
+
+// 导入Eagle包(.eaglepack)
+"album_menu_importEaglePackage" = "導入Eagle包(.eaglepack)";
+
+// 导入花瓣网图片
+"album_menu_importHuaban" = "導入花瓣網圖片";
+
+// 导入素材包(.picseepack)
+"album_menu_importPicseePackage" = "導入素材包(.picseepack)";
+
+// 移动...
+"album_menu_move" = "移動...";
+
+// 名称
+"album_menu_name" = "名稱";
+
+// 在默认应用中打开
+"album_menu_openInDefaultApp" = "在默認應用中打開";
+
+// 在新窗口中打开
+"album_menu_openInNewWin" = "在新窗口中打開";
+
+// 在其他应用中打开
+"album_menu_openInOtherApp" = "在其他應用中打開";
+
+// 打开其它...
+"album_menu_openOtherBundle" = "打開其他資源束...";
+
+// 粘贴标签
+"album_menu_pasteTag" = "粘貼標籤";
+
+// 钉在桌面
+"album_menu_pinOnDesk" = "釘在桌面";
+
+// 快速导出
+"album_menu_quickExport" = "快速導出";
+
+// 重新绑定位置
+"album_menu_rebindFolder" = "重新綁定位置";
+
+// 重建当前资源束索引
+"album_menu_rebuildCurrentBundle" = "重建當前資源束索引";
+
+// 重新计算
+"album_menu_recalculate" = "重新計算";
+
+// 刷新
+"album_menu_refresh" = "刷新";
+
+// 移除
+"album_menu_remove" = "移除";
+
+// 从[快速入口]移除
+"album_menu_removeFromQuickEntry" = "從[快速入口]移除";
+
+// 重命名
+"album_menu_rename" = "重命名";
+
+// 重新扫描分析
+"album_menu_rescan" = "新掃描分析";
+
+// 重置图标
+"album_menu_resetIcon" = "重置圖標";
+
+// 存储到...
+"album_menu_saveTo" = "存儲到...";
+
+// 分栏
+"album_menu_section" = "分欄";
+
+// 选择文件夹...
+"album_menu_selectFolder" = "選擇文件夾...";
+
+// 设置当前资源束
+"album_menu_setCurrentBundle" = "設置當前資源束";
+
+// 设置图标
+"album_menu_setIcon" = "設置圖標";
+
+// 设置参数
+"album_menu_setParameter" = "設置參數";
+
+// 在浏览器中显示
+"album_menu_showInBrowser" = "在瀏覽器中顯示";
+
+// 在Finder中显示
+"album_menu_showInFinder" = "在Finder中顯示";
+
+// 显示信息
+"album_menu_showNames" = "顯示信息";
+
+// 排序
+"album_menu_sort" = "排序";
+
+// 排序方式
+"album_menu_sortBy" = "排序方式";
+
+// 依据名称排列
+"album_menu_sortByName" = "依據名稱排列";
+
+// 子链接到
+"album_menu_sublinkTo" = "子鏈接到";
+
+// 查看标签的媒体
+"album_menu_taggedMedia" = "查看標籤的媒體";
+
+// 分离文件夹与素材
+"album_menu_toggleSeparateFolder" = "分離文件夾與素材";
+
+// 显示/隐藏文件夹
+"album_menu_toggleShowFolder" = "顯示/隱藏文件夾";
+
+// 显示/隐藏左边栏
+"album_menu_toggleShowLeftBar" = "顯示/隱藏左邊欄";
+
+// 显示/隐藏左侧栏
+"album_menu_toggleShowLeftSidebar" = "顯示/隱藏左側欄";
+
+// 显示/隐藏右边栏
+"album_menu_toggleShowRightBar" = "顯示/隱藏右邊欄";
+
+// 显示/隐藏右侧栏
+"album_menu_toggleShowRightSidebar" = "顯示/隱藏右側欄";
+
+// 显示/隐藏所有侧栏
+"album_menu_toggleShowSidebars" = "显示/隐藏所有侧栏";
+
+// 显示/隐藏子容器内容
+"album_menu_toggleShowSubcontainer" = "顯示/隱藏子容器內容";
+
+// 取消收藏
+"album_menu_ungroupFromFavorite" = "取消收藏";
+
+// 上传到
+"album_menu_uploadTo" = "上傳到";
+
+// 其他信息
+"album_name_other" = "其他信息";
+
+// 索引文件大于10G，建议空闲时，退出重启Picsee！
+"album_noti_msgPicseeIndexFileTooBigSuggestToRebootPicsee" = "索引文件大於10G，建議空閒時，退出重啟Picsee！";
+
+// Picsee索引文件过大
+"album_noti_titlePicseeIndexFileTooBig" = "Picsee索引文件過大";
+
+// 几乎一致
+"album_operator_almostSame" = "幾乎一致";
+
+// 任一项
+"album_operator_anyItem" = "任一項";
+
+// 包含
+"album_operator_contain" = "包含";
+
+// 早于
+"album_operator_earlyThan" = "早於";
+
+// 结尾为
+"album_operator_endWith" = "結尾為";
+
+// 相等
+"album_operator_equal" = "相等";
+
+// 全包含
+"album_operator_fullContain" = "全包含";
+
+// 大于
+"album_operator_greater" = "大於";
+
+// 大于等于
+"album_operator_greaterAndEqual" = "大於等於";
+
+// 在日期范围内
+"album_operator_inDayRanage" = "在日期範圍內";
+
+// 在范围内
+"album_operator_inNumRange" = "在範圍內";
+
+// 不是
+"album_operator_isNotTheOne" = "不是";
+
+// 是
+"album_operator_isTheOne" = "是";
+
+// 晚于
+"album_operator_laterThan" = "晚於";
+
+// 小于
+"album_operator_less" = "小於";
+
+// 小于等于
+"album_operator_lessAndEqual" = "小於等於";
+
+// 不包含
+"album_operator_notContain" = "不包含";
+
+// 全不包含
+"album_operator_notContainAny" = "全不包含";
+
+// 相似
+"album_operator_similar" = "相似";
+
+// 开头为
+"album_operator_startWith" = "開頭為";
+
+// 浏览历史版本
+"album_pfc_btcOpenHisVer" = "瀏覽歷史版本";
+
+// 清除
+"album_pfc_btnClear" = "清除";
+
+// 关闭
+"album_pfc_btnClose" = "關閉";
+
+// 打开其他库文件
+"album_pfc_btnOpenOtherLib" = "打開其他庫文件";
+
+// 拉取云端数据
+"album_pfc_btnPullICloud" = "拉取雲端數據";
+
+// 推送本地数据
+"album_pfc_btnPullLocal" = "推送本地數據";
+
+// 重置
+"album_pfc_btnReset" = "重置";
+
+// 恢复
+"album_pfc_btnRestore" = "恢復";
+
+// 在访达中显示
+"album_pfc_btnShowInFinder" = "在訪達中顯示";
+
+// 全部媒体
+"album_pfc_checkBtnAllMedia" = "全部媒體";
+
+// 收集完成时播放提示音
+"album_pfc_checkBtnColDoneMusic" = "收集完成時播放提示音";
+
+// 收集完成时通知
+"album_pfc_checkBtnColDoneNoti" = "收集完成時通知";
+
+// 包含
+"album_pfc_checkBtnContain" = "包含";
+
+// 外部设备
+"album_pfc_checkBtnExternalDevice" = "外部設備";
+
+// 收藏标签
+"album_pfc_checkBtnFavoriteTag" = "收藏標籤";
+
+// 文件夹
+"album_pfc_checkBtnFolder" = "文件夾";
+
+// 显示文件夹名称在缩略图上
+"album_pfc_checkBtnFolderNameOnThumb" = "顯示文件夾名稱在縮略圖上";
+
+// iCloud
+"album_pfc_checkBtnICloud" = "iCloud";
+
+// 开启索引文件过大提示
+"album_pfc_checkBtnIndexFileBigNoti" = "開啟索引文件過大提示";
+
+// 关联文件夹
+"album_pfc_checkBtnLinkFolder" = "關聯文件夾";
+
+// 鼠标悬停自动播放视频
+"album_pfc_checkBtnMouseHoverPlay" = "鼠標懸停自動播放視頻";
+
+// 开启浏览鼠标悬停效果
+"album_pfc_checkBtnMouseOverEffect" = "開啟瀏覽鼠標懸停效果";
+
+// 快速入口
+"album_pfc_checkBtnQuickEntry" = "快速入口";
+
+// 分离文件夹和素材
+"album_pfc_checkBtnSeparateFolder" = "分離文件夾和素材";
+
+// 显示文件夹
+"album_pfc_checkBtnShowFolder" = "顯示文件夾";
+
+// 智能筛选
+"album_pfc_checkBtnSmartFolder" = "智能篩選";
+
+// 智能任务
+"album_pfc_checkBtnSmartTask" = "智能任務";
+
+// 显示星标在缩略图上
+"album_pfc_checkBtnStarOnThumb" = "顯示星標在縮略圖上";
+
+// 开启
+"album_pfc_checkBtnStart" = "開啟";
+
+// 标签管理
+"album_pfc_checkBtnTagManage" = "標籤管理";
+
+// 显示透明网格背景
+"album_pfc_checkBtnTransGridBg" = "顯示透明網格背景";
+
+// 回收站
+"album_pfc_checkBtnTrash" = "回收站";
+
+// 未分类
+"album_pfc_checkBtnUnclassifiedFolder" = "未分類";
+
+// 未标签
+"album_pfc_checkBtnUntag" = "未標籤";
+
+// 当前图束
+"album_pfc_curBundle" = "當前圖束";
+
+// 当前图库
+"album_pfc_curLib" = "當前圖庫";
+
+// 输入2021-11-12 14:34格式查找备份节点
+"album_pfc_holderBackupNodeSearchTip" = "輸入2021-11-12 14:34格式查找備份節點";
+
+// zip/doc(输入以/分割的扩展名)[对于已添加的素材，需重新加载，才能剔除]
+"album_pfc_holderIgnoreExtTip" = "zip/doc(輸入以/分割的擴展名)[對於已添加的素材，需重新加載，才能剔除]";
+
+// [当所占空间过大时,试试退出重启Picsee!]
+"album_pfc_indexFileTip" = "[當所佔空間過大時,試試退出重啟Picsee!]";
+
+// 账户状态:
+"album_pfc_labelAccountStatus" = "賬戶狀態:";
+
+// 注：开启后，将在本地自动备份云端iCloud中的数据，以防数据丢失时，进行恢复。
+"album_pfc_labelBackupExplain" = "注：開啟後，將在本地自動備份雲端iCloud中的數據，以防數據丟失時，進行恢復。當佔用空間過大，可適當時進行重置！";
+
+// 采集插件
+"album_pfc_labelBrowserExt" = "採集插件";
+
+// 目录
+"album_pfc_labelFolder" = "目錄";
+
+// 占用空间:0M
+"album_pfc_labelGitBackTakeup" = "佔用空間:0M";
+
+// 本地备份
+"album_pfc_labelGitBackup" = "本地備份";
+
+// 占用空间:
+"album_pfc_labelGitBackupTakeup" = "佔用空間:";
+
+// iCloud同步
+"album_pfc_labelICloud" = "iCloud同步";
+
+// 注：开启iCloud的图束，将在多机之间使用iCloud，同步标签、注释、标星、群组、管理的关联文件夹等，但不同步图片、视频等媒体文件本身。
+"album_pfc_labelICloudExplain" = "注：開啟iCloud的圖束，將在多機之間使用iCloud，同步標籤、註釋、標星、群組、管理的關聯文件夾等，但不同步圖片、視頻等媒體文件本身。";
+
+// 排除扩展名
+"album_pfc_labelIgnoreExt" = "排除擴展名";
+
+// 索引文件
+"album_pfc_labelIndexFile" = "索引文件";
+
+// 显示条目
+"album_pfc_labelLeftNavShowItem" = "顯示條目";
+
+// 库文件
+"album_pfc_labelLib" = "庫文件";
+
+// 图库
+"album_pfc_labelLocalPhotoLib" = "本機圖庫";
+
+// 名称
+"album_pfc_labelName" = "名稱";
+
+// 描述
+"album_pfc_labelNote" = "描述";
+
+// 同步
+"album_pfc_labelSync" = "同步";
+
+// 缩略图缓存
+"album_pfc_labelThumbCache" = "縮略圖緩存";
+
+// 左导航栏
+"album_pfc_leftNav" = "左導航欄";
+
+// 资源库
+"album_pfc_library" = "資源庫";
+
+// 相册面板
+"album_pfc_panel" = "相冊面板";
+
+// 重新绑定
+"album_pfc_toolTopRebindFolder" = "重新綁定";
+
+// 异常
+"album_pfc_valueAbnormal" = "異常";
+
+// 填写名称
+"album_pfc_valueName" = "填寫名稱";
+
+// 正常
+"album_pfc_valueNormal" = "正常";
+
+// 填写描述
+"album_pfc_valueNote" = "填寫描述";
+
+// 0M
+"album_pfc_valueZeroThumbCache" = "0M";
+
+// 尺寸
+"album_pro_LabelDimension" = "尺寸";
+
+// 添加
+"album_pro_add" = "添加";
+
+// 添加注释
+"album_pro_addNote" = "添加註釋";
+
+// 添加标签
+"album_pro_addTag" = "添加標籤";
+
+// 图床链接
+"album_pro_bedLink" = "圖床鏈接";
+
+// 复制
+"album_pro_copy" = "複製";
+
+// 复制RGB
+"album_pro_copyRGB" = "複製RGB";
+
+// 拷贝...
+"album_pro_copyTo" = "拷貝...";
+
+// 当前:
+"album_pro_curBed" = "當前:";
+
+// 存在多个链接
+"album_pro_exitMoreThanOneLink" = "存在多個鏈接";
+
+// 多个媒体对象
+"album_pro_exitMoreThanOneMedia" = "多個媒體對象";
+
+// 存在多个注释
+"album_pro_exitMoreThanOneNote" = "存在多個註釋";
+
+// 存在多个标签
+"album_pro_exitMoreThanOneTag" = "存在多個標籤";
+
+// 添加注释
+"album_pro_holderAddNote" = "添加註釋";
+
+// 填写名称
+"album_pro_holderInputName" = "填寫名稱";
+
+// 正在解析，可能还未解析到
+"album_pro_isParsingWaitMoment" = "正在解析，可能還未解析到";
+
+// 创建时间
+"album_pro_labelCreateDate" = "創建時間";
+
+// 时间长度
+"album_pro_labelDuration" = "時間長度";
+
+// 文件数
+"album_pro_labelFileCount" = "文件數";
+
+// 文件大小
+"album_pro_labelFileSize" = "文件大小";
+
+// 类型
+"album_pro_labelFormat" = "類型";
+
+// 修改时间
+"album_pro_labelModifyDate" = "修改時間";
+
+// 名称
+"album_pro_labelName" = "名稱";
+
+// 页码
+"album_pro_labelPageNum" = "页码";
+
+// 寻找相似颜色
+"album_pro_lookupSimilarityColor" = "尋找相似顏色";
+
+// 移动...
+"album_pro_moveTo" = "移動...";
+
+// 未解析到颜色，请扫描分析
+"album_pro_parseColorFailedRescanAgain" = "未解析到顏色，請掃描分析";
+
+// 切换显示图床:
+"album_pro_switchShowBed" = "切換顯示圖床:";
+
+// 移动...
+"album_pro_tipMoveTo" = "移動...";
+
+// 上传到图床生成链接:
+"album_pro_uploadNetToGetUrl" = "上傳到圖床生成鏈接:";
+
+// 未解析到时长
+"album_pro_valueParsedDurationFailed" = "未解析到時長";
+
+// 确定
+"album_progress_DoneConfirm" = "確定";
+
+// 个链接下载失败
+"album_progress_downloadFailedCount" = "個鏈接下載失敗";
+
+// 下载第0个条目
+"album_progress_downloadingTheZeroItem" = "下載第0個條目";
+
+// 正在下载图片...（0/0）
+"album_progress_labelDownloadingMsgTip" = "正在下載圖片...（0/0）";
+
+// 正在执行（0/0）
+"album_progress_labelZeroTaskProgress" = "正在執行（0/0）";
+
+// 个文件导入失败
+"album_progress_parseFailedCount" = "個文件導入失敗";
+
+// 应用
+"album_rename_btnApply" = "應用";
+
+// 取消
+"album_rename_btnCancel" = "取消";
+
+// 忽略大小写
+"album_rename_checkBtnCaseSensitive" = "忽略大小寫";
+
+// 创建日期
+"album_rename_createDate" = "創建日期";
+
+// 日期时间
+"album_rename_date" = "日期時間";
+
+// 曝光补偿
+"album_rename_exposureBiasValue" = "曝光補償";
+
+// 曝光时间
+"album_rename_exposureTime" = "曝光時間";
+
+// 光圈值
+"album_rename_fNumber" = "光圈值";
+
+// 当前文件名
+"album_rename_fileName" = "當前文件名";
+
+// 查找替换
+"album_rename_findReplace" = "查找替換";
+
+// 5位数
+"album_rename_fiveDigit" = "5位數";
+
+// 焦距
+"album_rename_focalLength" = "焦距";
+
+// 文件夹名称
+"album_rename_folderName" = "文件夾名稱";
+
+// 格式模版
+"album_rename_formatTemplate" = "格式模板";
+
+// 4位数
+"album_rename_fourDigit" = "4位數";
+
+// 高度
+"album_rename_height" = "高度";
+
+// 填入查找的内容
+"album_rename_holderInputFindWord" = "填入查找的內容";
+
+// 填入替换的内容
+"album_rename_holderInputReplaceWord" = "填入替換的內容";
+
+// 填入具体值
+"album_rename_holderInputValue" = "填入具體值";
+
+// 批量重命名
+"album_rename_labelBatchRename" = "批量重命名";
+
+// 当前文件名:
+"album_rename_labelCurFileName" = "當前文件名:";
+
+// 编写文件名模版，批量应用
+"album_rename_labelEditNameTepmlateToApply" = "編寫文件名模版，批量應用";
+
+// 处理文件数:
+"album_rename_labelFileCount" = "處理文件數:";
+
+// 查找
+"album_rename_labelFind" = "查找";
+
+// 新文件名:
+"album_rename_labelNewFileName" = "新文件名:";
+
+// 预览
+"album_rename_labelPreview" = "預覽";
+
+// 替换
+"album_rename_labelReplace" = "替換";
+
+// 规则
+"album_rename_labelRule" = "規則";
+
+// 方式
+"album_rename_labelStyle" = "方式";
+
+// 镜头
+"album_rename_lensMaker" = "鏡頭";
+
+// 小写
+"album_rename_lowercase" = "小寫";
+
+// 元数据
+"album_rename_metaData" = "元數據";
+
+// 毫秒
+"album_rename_milliSecond" = "毫秒";
+
+// 修改日期
+"album_rename_modifyDate" = "修改日期";
+
+// 1位数
+"album_rename_oneDigit" = "1位數";
+
+// 原始大小写
+"album_rename_originalCase" = "原始大小寫";
+
+// 序列字母
+"album_rename_sequenceChar" = "序列字母";
+
+// 序列数字
+"album_rename_sequenceNum" = "序列數字";
+
+// 6位数
+"album_rename_sixDigit" = "6位數";
+
+// 文本
+"album_rename_text" = "文本";
+
+// 3位数
+"album_rename_threeDigit" = "3位數";
+
+// 今天
+"album_rename_today" = "今天";
+
+// 2位数
+"album_rename_twoDigit" = "2位數";
+
+// 大写
+"album_rename_uppercase" = "大寫";
+
+// 宽度
+"album_rename_width" = "寬度";
+
+// 昨天
+"album_rename_yesterday" = "昨天";
+
+// 升序
+"album_section_ascend" = "升序";
+
+// 降序
+"album_section_descend" = "降序";
+
+// 其他信息
+"album_section_other" = "其他信息";
+
+// 取消
+"album_sf_btnCancel" = "取消";
+
+// 确定
+"album_sf_btnOK" = "確定";
+
+// 填入具体值
+"album_sf_holderInputDefiniteValue" = "填入具體值";
+
+// 输入扩展名, 例如: png
+"album_sf_holderInputExtTip" = "輸入擴展名, 例如: png";
+
+// 填入名称
+"album_sf_holderInputName" = "填入名稱";
+
+// 例如: 123
+"album_sf_holderNumInputTip" = "例如: 123";
+
+// 例如: 123,456
+"album_sf_holderNumRangeInputTip" = "例如: 123,456";
+
+// 自动归类满足条件的媒体文件
+"album_sf_labelAutoGroupMedia" = "自動歸類滿足條件的媒體文件";
+
+// 条件
+"album_sf_labelCondition" = "條件";
+
+// 创建智能文件夹
+"album_sf_labelCreateSmartFolder" = "創建智能文件夾";
+
+// 名称
+"album_sf_labelName" = "名稱";
+
+// 范围
+"album_sf_labelScope" = "範圍";
+
+// 添加应用范围
+"album_smart_applyScope" = "添加應用範圍";
+
+// 升序
+"album_sort_ascend" = "升序";
+
+// 降序
+"album_sort_descend" = "降序";
+
+// 取消
+"album_st_btnCancel" = "取消";
+
+// 确定
+"album_st_btnOK" = "确定";
+
+// 归类满足条件的媒体文件
+"album_st_labelAutoGroupMedia" = "歸類滿足條件的媒體文件";
+
+// 创建智能任务
+"album_st_labelCreateSmartTask" = "創建智能任務";
+
+// 名称
+"album_st_labelName" = "名稱";
+
+// 范围
+"album_st_labelScope" = "範圍";
+
+// 相异性
+"album_st_labelSimilarity" = "相異性";
+
+// 类型
+"album_st_labelTaskType" = "類型";
+
+// 创建
+"album_tagMag_create" = "創建";
+
+// 删除
+"album_tagMag_delete" = "刪除";
+
+// 收藏标签
+"album_tagMag_groupToFavorite" = "收藏標籤";
+
+// 移除
+"album_tagMag_remove" = "移除";
+
+// 修改名称
+"album_tagMag_rename" = "修改名稱";
+
+// 修改标签的名称
+"album_tagMag_renameTag" = "修改標籤的名稱";
+
+// 重置图标
+"album_tagMag_resetIcon" = "重置圖標";
+
+// 根标签
+"album_tagMag_rootTag" = "根標籤";
+
+// 搜索/创建树组根标签
+"album_tagMag_searchAndCreateRootTag" = "搜索/創建樹組根標籤";
+
+// 搜索/创建标签
+"album_tagMag_searchAndCreateTag" = "搜索/創建標籤";
+
+// 设置图标
+"album_tagMag_setIcon" = "設置圖標";
+
+// 子链接到
+"album_tagMag_sublinkTo" = "子鏈接到";
+
+// 标签
+"album_tagMag_tag" = "標籤";
+
+// 标签已存在, 且已关联至
+"album_tagMag_tagExistedAndLinkedTo" = "標籤已存在, 且已關聯至";
+
+// 标签已存在,但已关联
+"album_tagMag_tagExistedButLinked" = "標籤已存在,但已關聯";
+
+// 标签已存在,设置为根标签
+"album_tagMag_tagExistedSetAsRootTag" = "標籤已存在,設置為根標籤";
+
+// 标签已存在, 子连接到
+"album_tagMag_tagExistedSublinkTo" = "標籤已存在, 子連接到";
+
+// 标签树组
+"album_tagMag_tagHierarchy" = "標籤樹組";
+
+// 标签已连接
+"album_tagMag_tagLinked" = "標籤已連接";
+
+// 查看标签的媒体
+"album_tagMag_taggedMedia" = "查看標籤的媒體";
+
+// 取消收藏
+"album_tagMag_ungroupFromFavorite" = "取消收藏";
+
+// 添加标签
+"album_tag_addTag" = "添加標籤";
+
+// 取消
+"album_task_btnCancel" = "取消";
+
+// 导入
+"album_task_btnImport" = "導入";
+
+// 确定
+"album_task_btnOK" = "確定";
+
+// 全部选择
+"album_task_btnSelectAll" = "全部選擇";
+
+// 未分类
+"album_task_btnUnclassified" = "未分類";
+
+// 去除标签
+"album_task_clearTag" = "去除標籤";
+
+// 已收集
+"album_task_collected" = "已收集";
+
+// 复制
+"album_task_copy" = "複製";
+
+// 下载
+"album_task_dowloading" = "下載";
+
+// Picsee已打开，但未打开资源束
+"album_task_errorBundleNotOpen" = "Picsee已打開，但未打開資源束";
+
+// 个项目拖拽失败，请检查名称是否冲突
+"album_task_errorDragFailedCheckNameConflict" = "個項目拖拽失敗，請檢查名稱是否衝突";
+
+// 未找到版本号
+"album_task_errorVersionFieldNotFound" = "未找到版本號";
+
+// 获取localFolderPath失败
+"album_task_getLocalFolderPathFailed" = "獲取localFolderPath失敗";
+
+// 获取managedFolderM失败
+"album_task_getManagedFolderFailed" = "獲取managedFolderM失敗";
+
+// 像素
+"album_task_holderPixel" = "像素";
+
+// 文件导入失败数
+"album_task_importFailedNum" = "文件導入失敗數";
+
+// 导入到:
+"album_task_importTo" = "導入到:";
+
+// 导入
+"album_task_importing" = "導入";
+
+// 正在导入花瓣面板到
+"album_task_importingHuabanBoard" = "正在導入花瓣面板到";
+
+// 高度
+"album_task_labelHeight" = "高度";
+
+// 导入花瓣
+"album_task_labelImportHuaban" = "導入花瓣";
+
+// 输入花瓣面板链接，载入后，点选需要导入的图片，进行导入
+"album_task_labelImportHuabanStep" = "輸入花瓣面板鏈接，載入後，點選需要導入的圖片，進行導入";
+
+// 将花瓣面板中图片导入Picsee
+"album_task_labelImportMediaFromHuabanPanel" = "將花瓣面板中圖片導入Picsee";
+
+// 将网页中图片导入Picsee
+"album_task_labelImportPhotosInWebpage" = "將網頁中圖片導入Picsee";
+
+// 导入到:
+"album_task_labelImportTo" = "導入到:";
+
+// 导入网页
+"album_task_labelImportWebpage" = "導入網頁";
+
+// 面板地址:
+"album_task_labelPanelAddress" = "面板地址:";
+
+// 宽度
+"album_task_labelWidth" = "寬度";
+
+// 素材已收集到
+"album_task_mediaHasCollectedTo" = "素材已收集到";
+
+// 移动
+"album_task_move" = "移動";
+
+// 构建正则失败
+"album_task_msgBuildRegexFailed" = "構建正則失敗";
+
+// 载入
+"album_task_btnLoad" = "載入";
+
+// 创建粘贴临时文件夹失败
+"album_task_msgCreateTempFolderFailedForPaste" = "創建粘貼臨時文件夾失敗";
+
+// 创建临时解压文件夹失败
+"album_task_msgCreateTempFolderFailedForUnzip" = "創建臨時解壓文件夾失敗";
+
+// 正在导出
+"album_task_msgExportProgress" = "正在導出";
+
+// 失败文件数
+"album_task_msgFailedFileNum" = "失敗文件數";
+
+// 失败项目数
+"album_task_msgFailedMediaNum" = "失敗項目數";
+
+// 失败项目数
+"album_task_msgFailedNum" = "失敗項目數";
+
+// 正则未找到模式
+"album_task_msgFindModeFailedForRegex" = "正則未找到模式";
+
+// 获取失败
+"album_task_msgGetFailed" = "獲取失敗";
+
+// 输入花瓣面板链接错误，请输入正确的格式
+"album_task_msgHuabanPanelAddressInvalid" = "輸入花瓣面板鏈接錯誤，請輸入正確的格式";
+
+// 正在移动
+"album_task_msgMoveProgress" = "正在移動";
+
+// 构建花瓣面板对象失败
+"album_task_msgNewHuabanBoardFailed" = "構建花瓣面闆對象失敗";
+
+// 正在将项目打包
+"album_task_msgPackageProgress" = "正在將項目打包";
+
+// 解析包失败
+"album_task_msgParseEalgePackageFailed" = "解析包失敗";
+
+// 解压picseepack包失败
+"album_task_msgParsePicseePackageFailed" = "解壓picseepack包失敗";
+
+// 正在解析
+"album_task_msgParsing" = "正在解析";
+
+// 粘贴第0个条目...
+"album_task_msgPasteMediaProgress" = "粘貼第0個條目...";
+
+// 正在粘贴
+"album_task_msgPasteProgress" = "正在粘貼";
+
+// , 失败, 请检查文件名是否重复!
+"album_task_msgRenameFailedCheckConflict" = ", 失敗, 請檢查文件名是否重複!";
+
+// 正在重命名项目数
+"album_task_msgRenameProgress" = "正在重命名項目數";
+
+// 请求花瓣面板地址失败
+"album_task_msgRequestHuanbanFailed" = "請求花瓣面板地址失敗";
+
+// 正在解包
+"album_task_msgUnpackageProgress" = "正在解包";
+
+// 解压eaglepack包失败
+"album_task_msgUnzipEalgePackageFailed" = "解壓eaglepack包失敗";
+
+// 解析粘贴失败数
+"album_task_parseFailedNum" = "解析粘貼失敗數";
+
+// 相似
+"album_task_similarity" = "相似";
+
+// 打标签
+"album_task_toTag" = "打標籤";
+
+// 返回
+"album_toolTip_back" = "返回";
+
+// 过滤
+"album_toolTip_filter" = "過濾";
+
+// 前进
+"album_toolTip_forward" = "前進";
+
+// 名称
+"album_toolTip_name" = "名稱";
+
+// 分栏
+"album_toolTip_section" = "分欄";
+
+// 排序
+"album_toolTip_sort" = "排序";
+
+// 项
+"album_unit_item" = "項";
+
+// 张
+"album_unit_sheet" = "張";
+
+// 名称
+"album_st_holderInputName" = "名稱";
+
+// 建议关联的文件夹内只放置图片、视频等管理素材文件，以提高监控时的解析扫描速度。
+"album_dialog_msgLinkFolderTip" = "建議關聯的文件夾內只放置圖片、視頻等管理素材文件，以提高監控時的解析掃描速度。";
+
+// 数值越小越相似, 例如：2.0
+"album_st_similarityInputTip" = "數值越小越相似, 例如：2.0";
+
+// 建议添加的范围足够小，并且不用时，删除该智能任务，从而提高软件的处理速度。
+"album_st_similarityTaskTip" = "建議添加的範圍足夠小，並且不用時，刪除該智能任務，從而提高軟件的處理速度。";
+
+// 创建入口群组
+"album_menu_createQuickAccessGroup" = "創建入口群組";
+
+// 重复
+"album_task_repeated" = "重複";
+
+// 解散堆栈
+"album_menu_dissolveStack" = "解散堆棧";
+
+// 删除并撤销标签
+"album_menu_deleteAndUntag" = "刪除並撤銷標籤";
+
+// 重新加载
+"album_menu_reload" = "重新加載";
+
+// 方向定位原实体
+"album_menu_reverseAnchorToEntry" = "反向定位原實體";
+
+// 策略
+"album_st_labelTaskStrategy" = "策略";
+
+// 检测变动并自动重新计算
+"album_task_runStrategyAuto" = "檢測變動並自動重新計算";
+
+// 手动重新计算
+"album_task_runStrategyManual" = "手動重新計算";
+
+// 图片分析中...
+"album_menu_libAnalysing" = "圖片分析中...";
+
+// 确定要删除该标签
+"album_dialog_msgConfirmToDeleteTag" = "確定要刪除該標籤";
+
+// 素材收集失败
+"album_task_mediaCollectFailedBody" = "素材收集失敗";
+
+// 收集提示
+"album_task_mediaCollectFailedTip" = "收集提示";
+
+// 确定需要关闭颜色分析，以提高解析速度？关闭后，颜色筛选等功能将无法使用！
+"album_dialog_msgConfirmToCloseColorAnalysis" = "確定需要關閉顏色分析，以提高解析速度？關閉後，顏色篩選等功能將無法使用！";
+
+// 开启素材颜色分析
+"album_pfc_checkBtnColorAnalysis" = "開啟素材顏色分析";
+
+// 任务控制
+"album_pfc_labelTaskControl" = "任務控制";
+
+// 新指定的路径与原路径不一致，不能进行修复！
+"album_dialog_msgRepairFolderFailed" = "新指定的路徑與原路徑不一致，不能進行修復！";
+
+// 修复绑定位置
+"album_menu_repairFolder" = "修復綁定位置";
+
+// 绑定路径丢失, 请重新指定路径，进行授权!\n原绑定路径:
+"see_dialog_msgRepairFolderTip" = "綁定路徑丟失, 請重新指定路徑，進行授權!\n原綁定路徑:";
+
+// 绑定路径丢失，请重新指定文件夹位置！
+"album_nav_lostLinkedFolderTip" = "綁定路徑丟失，請修復綁定位置！";
+
+// 未绑定文件夹，请右键点击，重新绑定位置！
+"album_nav_unlinkToFolderTip" = "未綁定文件夾，請右鍵點擊，重新綁定位置！";
+
+// 同步与备份
+"album_pfc_syncBackup" = "同步與備份";
+
+// 相对于应用文件夹
+"album_pathSpecify_relativeAppSupport" = "相對於應用文件夾";
+
+// 相对于资源库文件
+"album_pathSpecify_relativeToLibrary" = "相對於資源庫";
+
+// 索引文件位置
+"album_pfc_labelLocalIndexPath" = "索引文件位置";
+
+// 在保存路径下创建资源库失败!
+"album_dialog_msgLibraryCreateFailed" = "在保存路徑下創建資源庫失敗!";
+
+// 迁移失败:
+"album_dialog_msgLocalIndexMigrateFailed" = "遷移失敗:";
+
+// 确定迁移本地图束索引等文件, 它会清空本地备份! 可能需要比较长时间，请耐心等待！
+"album_dialog_msgLocalIndexMigrateStart" = "確定遷移本地圖束索引等文件, 它會清空本地備份! 可能需要比較長時間，請耐心等待！";
+
+// 选择保存路径
+"album_library_createNameSpecifyPath" = "選擇保存路徑";
+
+// 输入资源库的名称
+"album_library_createNameSubtitle" = "輸入資源庫的名稱";
+
+// 创建资源库
+"album_library_createNameTitle" = "創建資源庫";
+
+// 创建资源库
+"album_menu_newLibrary" = "創建資源庫";
+
+// 打开其他资源库
+"album_menu_openOtherLibrary" = "打開其他資源庫";
+
+// 请确保存在资源库并且有足够的磁盘空间！
+"album_library_loadFailedMsg" = "加載上次打開的資源庫失敗，可能沒有足夠的磁盤空間或者資源庫進行了移動刪除等操作！";
+
+// 资源库加载失败
+"album_library_loadFailedTip" = "資源庫加載提示";
+
+// 近30天
+"album_operator_latest30Day" = "近30日";
+
+// 近7天
+"album_operator_latest7Day" = "近7天";
+
+// 删除
+"album_dialog_btnDelete" = "刪除";
+
+// 找不到资源库，可能已经移除。
+"album_dialog_msgLibraryOpenFailed" = "找不到資源庫，可能已經移除。";
+
+// 删除
+"album_rename_btnDelete" = "刪除";
+
+// 保存
+"album_rename_btnSave" = "保存";
+
+// 名称
+"album_rename_name" = "名稱";
+
+// 未命名
+"album_rename_nameDefault" = "未命名";
+
+// 保存模版
+"album_rename_templateSave" = "保存模板";
+
+// 保存批量重命名的规则
+"album_rename_templateSaveRules" = "保存批量重命名的規則";
+
+// 更新
+"album_rename_btnUpdate" = "更新";
+
+// 更新模版
+"album_rename_templateUpdate" = "更新模板";
+
+// 更新批量重命名的规则
+"album_rename_templateUpdateRules" = "更新批量重命名的規則";
+
+// 正在加载外部设备
+"album_damon_progress_device" = "正在加載外部設備";
+
+// 正在颜色分析文件夹{folderName}的第{count}文件...
+"album_damon_progress_longTimeParse" = "正在顏色分析文件夾 {folderName} 的第 {count} 文件...";
+
+// 正在解析文件夹{folderName}的第{count}文件的属性...
+"album_damon_progress_parse" = "正在解析文件夾 {folderName} 的第 {count} 文件的屬性...";
+
+// 正在扫描文件夹{folderName}...
+"album_damon_progress_scan" = "正在掃描文件夾 {folderName}...";
+
+// 正在{folderName}中扫描重复文件...
+"album_damon_progress_taskCalculate" = "正在 {folderName} 中掃描重複文件...";
+
+// 默认应用打开
+"album_doubleClick_defaultApp" = "默認應用打開";
+
+// 多窗口浏览
+"album_doubleClick_newWin" = "多窗口瀏覽";
+
+// 钉在桌面
+"album_doubleClick_pinWin" = "釘在桌面";
+
+// 单窗口浏览
+"album_doubleClick_singleWin" = "單窗口瀏覽";
+
+// 双击文件
+"album_pfc_doubleClickFileLabel" = "雙擊文件";
+
+// 辅助选项
+"album_pfc_helpOption" = "輔助選項";
+
+// 空格键
+"album_pfc_spaceKeyFileLabel" = "空格鍵";
+
+// 单窗口浏览
+"album_spaceKey_singleWin" = "單窗口瀏覽";
+
+// quickLook
+"album_spaceKey_quickLook" = "quickLook";
+
+// 经度
+"album_field_longitude" = "經度";
+
+// 纬度
+"album_field_latitude" = "緯度";
+
+// 命名规则
+"album_pfc_labelNameStrategy" = "命名規則";
+
+// 采集时间
+"album_webextension_nameStrategyAutoTime" = "採集時間";
+
+// 网页提取
+"album_webextension_nameStrategyWebPickup" = "網頁提取";

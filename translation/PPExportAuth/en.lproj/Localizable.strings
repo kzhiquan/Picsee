@@ -1,0 +1,99 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/10.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 阿里云
+"export_auth_aliyun" = "Aliyun";
+
+// 匿名公开
+"export_auth_anony" = "Anony";
+
+// 自定义
+"export_auth_custom" = "Custom";
+
+// 未找到返回消息
+"export_auth_errorCannotFindReturnInfo" = "There is no response";
+
+// 域名绑定信息有误
+"export_auth_errorDomainBoundWrong" = "There is an error for the domain bound";
+
+// 文件名不符合URL编码规范
+"export_auth_errorFileNameNotConfirmToSpecification" = "The file name does not conform to the URL encoding specification";
+
+// 获取URL失败
+"export_auth_errorGetUrlFailed" = "Failed to get URL";
+
+// HTML解析失败
+"export_auth_errorHTMLParseFailed" = "Failed to parse HTML";
+
+// 计算请求头失败，请检查所填信息是否正确
+"export_auth_errorMakeRequestHeaderFailedTip" = "Failed to make request header, please check whetch the fields inputed is all right";
+
+// 计算请求路径失败，请检查所填信息是否正确
+"export_auth_errorMakeRequestUrlFailedTip" = "Failed to make request URL, please check whetch the field filled in is right";
+
+// 未能解析etag
+"export_auth_errorParseEtagFailed" = "Failed to parse etag";
+
+// 解析PhotoId失败
+"export_auth_errorParsePhotoIdFailed" = "Failed to parse PhotoId";
+
+// 解析XML数据失败
+"export_auth_errorParseXMLFailed" = "Failed to parse XML data";
+
+// 请求对象已释放
+"export_auth_errorRequestObjHaveReleased" = "The requested object has been released";
+
+// 返回数据为空
+"export_auth_errorReturnDataIsEmpty" = "It is empty for the response";
+
+// 返回信息为空
+"export_auth_errorReturnInfoEmpty" = "It is empty for the response";
+
+// 测试数据准备失败
+"export_auth_errorTestDataPrepareFailed" = "Failed to prepare test data";
+
+// 未知错误
+"export_auth_errorUnknownError" = "Unknown error";
+
+// 上传成功，但是解析URL数据失败
+"export_auth_errorUploadSuccessButParseUrlFailed" = "Upload successful, but failed to parse URL";
+
+// url 字符串初始化失败
+"export_auth_errorUrlInitFailed" = "Failed to initialize URL string";
+
+// 原格式
+"export_auth_formatNative" = "Native";
+
+// 码云
+"export_auth_gitee" = "Gitee";
+
+// GitHub
+"export_auth_github" = "Github";
+
+// 本地磁盘
+"export_auth_local" = "Local disk";
+
+// 七牛
+"export_auth_qiniu" = "Qiniu";
+
+// SM.MS
+"export_auth_smms" = "SM.MS";
+
+// 腾讯云
+"export_auth_tencent" = "Tencent";
+
+// 又拍
+"export_auth_upyun" = "Upyun";
+
+// 微博
+"export_auth_weibo" = "Weibo";
+
+// 未知的地域节点
+"export_auth_errorQiniuRegionUnknown" = "unknown zone node";
+
+// http response 为空
+"export_auth_errorHttpResponseIsEmpty" = "http response is empty";
+
+// 请求失败
+"export_auth_errorRequestFailed" = "Request failed";

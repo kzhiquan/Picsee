@@ -14,3 +14,8 @@
 ---
 
 
+## Contributing
+Picsee is looking for contributions, you can report bugs, new issues and do translation here. 
+
+
+## Translation

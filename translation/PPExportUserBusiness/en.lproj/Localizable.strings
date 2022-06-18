@@ -1,0 +1,147 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/10.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 验证失败, 请检查所填字段是否正确
+"bedUesr_dialog_msgValidFailedCheckFieldInputedAgain" = "Failed to verify, please check whetch the all fields filled are right";
+
+// 确定
+"bedUser_dialog_btnOK" = "OK";
+
+// 字段不能为空
+"bedUser_dialog_msgConfirmFieldIsNotEmpty" = "Field can not be empty";
+
+// 请输入合法的域名
+"bedUser_dialog_msgDomainInputInvalid" = "Please enter a valid domain";
+
+// 只准许字母数字
+"bedUser_dialog_msgOnlyAllowToInputNum" = "Only Number and Alpha allow";
+
+// 保存失败，与现有账户重名
+"bedUser_dialog_msgSaveFailedExisted" = "Failed to save, because the name already exists";
+
+// 保存成功
+"bedUser_dialog_msgSaveSuccess" = "Save success";
+
+// 验证失败, 请检查所填字段是否为空
+"bedUser_dialog_msgValidFailedCheckFieldIsNotEmpty" = "Failed to verify, please check whetch the field filled is empty";
+
+// 错误
+"bedUser_dialog_titleError" = "Error";
+
+// 提示
+"bedUser_dialog_titleTip" = "Information";
+
+// 账户
+"bedUser_pfc_account" = "Cloud";
+
+// 取消
+"bedUser_pfc_btnCancel" = "Cancel";
+
+// 确定
+"bedUser_pfc_btnOK" = "OK";
+
+// 其他字段
+"bedUser_pfc_btnOtherField" = "Other fields";
+
+// 保存
+"bedUser_pfc_btnSave" = "Save";
+
+// 必填[以https:或http:开头]
+"bedUser_pfc_holderDomainInputTip" = "Required[begins with https:// or http://]";
+
+// 填空, 将匿名上传到SMMS
+"bedUser_pfc_holderInputEmptyAnonyUploadToSMMS" = "Upload to SMMS anony if fill in empty";
+
+// 选填
+"bedUser_pfc_holderInputNoRequired" = "Optional";
+
+// 填入具体值
+"bedUser_pfc_holderInputValue" = "enter a specific value";
+
+// 可选
+"bedUser_pfc_holderNotRequired" = "Optional";
+
+// 选填,当填写时,URL=前缀+URL路径值
+"bedUser_pfc_holderNotRequiredDomainTip" = "Optinal, when filled, UR";
+
+// 选填,有默认域名
+"bedUser_pfc_holderNotRequiredHasDefaultDomain" = "Optinal, there is a default domain";
+
+// 必填
+"bedUser_pfc_holderRequiredInput" = "Required";
+
+// 必填[只准许字母数字]
+"bedUser_pfc_holderRequiredToInputNumAndAlphabetOnly" = "Required[Only Number and Alpha allow]";
+
+// 返回JSON中的URL字段的路径
+"bedUser_pfc_holderResultPathTip" = "The return path of the URL field in JSON ";
+
+// 支持Github、码云、七牛、Imgur、又拍等10种云端存储用作图床。
+"bedUser_pfc_labelAccountTip" = "Support Github, Gitee, Qiniu, Imgur, Upyun, etc. as Cloud Storage Service";
+
+// body数据
+"bedUser_pfc_labelBodyData" = "Body data";
+
+// 分支
+"bedUser_pfc_labelBranch" = "Branch";
+
+// 分支
+"bedUser_pfc_labelBranchName" = "Branch name";
+
+// 存储空间
+"bedUser_pfc_labelBucket" = "Bucket";
+
+// 目录
+"bedUser_pfc_labelDirectory" = "Directory";
+
+// 域名
+"bedUser_pfc_labelDomain" = "Domain";
+
+// 文件字段名
+"bedUser_pfc_labelFileFieldName" = "File field name";
+
+// header数据
+"bedUser_pfc_labelHeaderData" = "Header data";
+
+// 请求方式
+"bedUser_pfc_labelHttpRequestMothod" = "Request method";
+
+// 名称
+"bedUser_pfc_labelName" = "Name";
+
+// 密码
+"bedUser_pfc_labelPassword" = "Password";
+
+// 地域节点
+"bedUser_pfc_labelRegion" = "Region";
+
+// 地域节点
+"bedUser_pfc_labelRegionNode" = "Region node";
+
+// 仓库名
+"bedUser_pfc_labelRepositoryName" = "Repository";
+
+// URL路径
+"bedUser_pfc_labelResultPath" = "Result path";
+
+// 保存路径
+"bedUser_pfc_labelSavePath" = "Save path";
+
+// 服务名称
+"bedUser_pfc_labelServiceName" = "Service name";
+
+// 空间
+"bedUser_pfc_labelSpace" = "Space";
+
+// 用户名
+"bedUser_pfc_labelUserName" = "User name";
+
+// 仓库名
+"bedUser_pfc_titleRepositoryName" = "Repository name";
+
+// 未命名
+"bedUser_pfc_uname" = "untitled";
+
+// 必填[us-east-2]
+"bedUser_pfc_valueRequiredExample" = "Required[us-east-2]";

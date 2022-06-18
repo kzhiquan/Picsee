@@ -1,0 +1,183 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/10.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 光圈系数
+"draw_exif_aperture" = "Aperture";
+
+// 批量应用
+"draw_exif_batch" = "Batch";
+
+// Camero
+"draw_exif_cameroInfo" = "Camero info";
+
+// 清除元信息
+"draw_exif_clear" = "Clear EXIF";
+
+// 色彩模型
+"draw_exif_colofSpace" = "Color space";
+
+// 创建时间
+"draw_exif_createDate" = "Create date";
+
+// 曝光时间
+"draw_exif_exposureTime" = "Exposure time";
+
+// 名称
+"draw_exif_fileName" = "File name";
+
+// 大小
+"draw_exif_fileSize" = "File size";
+
+// 闪光灯
+"draw_exif_flash" = "Flash";
+
+// 焦距
+"draw_exif_focalLen" = "Focal length";
+
+// 格式
+"draw_exif_format" = "Format";
+
+// Image Information
+"draw_exif_imageInfo" = "Image info";
+
+// 尺寸
+"draw_exif_imageSize" = "Image size";
+
+// ISO感光度
+"draw_exif_iso" = "ISO";
+
+// 访问时间
+"draw_exif_lastAccessDate" = "Access date";
+
+// 纬度
+"draw_exif_latitude" = "Latitude";
+
+// 镜头制造商
+"draw_exif_lensMaker" = "Lens maker";
+
+// 镜头
+"draw_exif_lensModel" = "Lens model";
+
+// Location
+"draw_exif_locationInfo" = "Location";
+
+// 经度
+"draw_exif_longitude" = "Longitude";
+
+// 制造商
+"draw_exif_maker" = "Maker";
+
+// 测光模式
+"draw_exif_meteringMode" = "Metering mode";
+
+// 相机型号
+"draw_exif_model" = "Model";
+
+// 修改时间
+"draw_exif_modifyDate" = "Modify date";
+
+// 信息
+"draw_exif_seeImageInfo" = "Infomation";
+
+// 软件
+"draw_exif_software" = "Software";
+
+// 拍摄时间
+"draw_exif_takeDate" = "Take date";
+
+// 白平衡
+"draw_exif_whiteBalance" = "White balance";
+
+// 单体
+"draw_markLayout_center" = "Single";
+
+// 平铺
+"draw_markLayout_tile" = "Tile";
+
+// 晶体
+"draw_mosaicStyle_crystal" = "Crystal";
+
+// 模糊
+"draw_mosaicStyle_gaussionBlur" = "Gaussion blur";
+
+// 菱形
+"draw_mosaicStyle_hexagon" = "Hexagon";
+
+// 方形
+"draw_mosaicStyle_square" = "Square";
+
+// 固定高度
+"draw_sizeAdjust_fixedHeight" = "Fixed height";
+
+// 固定宽度
+"draw_sizeAdjust_fixedWidth" = "Fixed width";
+
+// 比率缩放
+"draw_sizeAdjust_proportionSize" = "Scale";
+
+// 区域标注
+"draw_type_areaLabel" = "Label area";
+
+// 颜色标注
+"draw_type_colorLabel" = "Label color";
+
+// 裁剪
+"draw_type_crop" = "Crop";
+
+// 椭圆
+"draw_type_ellipse" = "Ellipse";
+
+// 外壳
+"draw_type_extFrame" = "Shell";
+
+// 平箭头
+"draw_type_flatArrow" = "Flat arrow";
+
+// 高亮椭圆
+"draw_type_highlightEllipse" = "Highlight ellipse";
+
+// 高亮笔
+"draw_type_highlightPencil" = "Highlight pencil";
+
+// 高亮矩形
+"draw_type_highlightSquare" = "Highlight square";
+
+// 图片
+"draw_type_image" = "Image";
+
+// 图片属性
+"draw_type_imageProperty" = "Image property";
+
+// 长度标注
+"draw_type_lengthLabel" = "Label length";
+
+// 直线
+"draw_type_line" = "Line";
+
+// 放大镜
+"draw_type_magnifer" = "Magnifier";
+
+// 马赛椭圆
+"draw_type_mosaicEllipse" = "Mosaic ellipse";
+
+// 马赛笔
+"draw_type_mosaicPencil" = "Mosaic pencil";
+
+// 马赛矩形
+"draw_type_mosaicSquare" = "Mosaic square";
+
+// 画笔
+"draw_type_pencil" = "Pencil";
+
+// 凹箭头
+"draw_type_snikArrow" = "Snik arrow";
+
+// 矩形
+"draw_type_square" = "Square";
+
+// 文本
+"draw_type_text" = "Text";
+
+// 文本标注
+"draw_type_textLabel" = "Label text";

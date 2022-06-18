@@ -1,0 +1,406 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/2.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+
+/* 多窗口浏览 */
+"album_doubleClick_newWin" = "多窗口浏览";
+/* 钉在桌面 */
+"album_doubleClick_pinWin" = "钉在桌面";
+/* 单窗口浏览 */
+"album_doubleClick_singleWin" = "单窗口浏览";
+/* 浅色外观 */
+"app_appearace_aqua" = "浅色外观";
+/* 深色外观 */
+"app_appearace_dark" = "深色外观";
+/* 系统默认 */
+"app_appearace_system" = "系统默认";
+/* 1. 素材管理最多可管理张数:  */
+"app_buy_albumThresholdMsg" = "1. 素材管理最多可管理张数: ";
+/* 注: 超过限制, Picsee还可继续试用，但会不定时提示升级购买！ */
+"app_buy_alertBuyMsgRule" = "注: 超过限制, Picsee还可继续试用，但会不定时提示升级购买！";
+/* 3. Finder打开查看素材当天最多可使用次数:  */
+"app_buy_finderSeeThresholdMsg" = "3. Finder打开查看素材当天最多可使用次数: ";
+/* 2. 截图当天最多可使用次数:  */
+"app_buy_snipThresholdMsg" = "2. 截图当天最多可使用次数: ";
+/* 继续试用 */
+"app_dialog_btnContinueToTry" = "继续试用";
+/* 确定 */
+"app_dialog_btnOK" = "确定";
+/* 存储 */
+"app_dialog_btnSave" = "存储";
+/* 升级解锁 */
+"app_dialog_btnUpgradeToUnlock" = "升级解锁";
+/* 请先在系统偏好设置中授予Picsee输入监听权限! */
+"app_dialog_mouseScrollStrengthMsg" = "请先在系统偏好设置中授予Picsee输入监听权限!";
+/* 后台正在导出，请稍后再试! */
+"app_dialog_msgBgIsExporting" = "后台正在导出，请稍后再试!";
+/* 剪贴版中没有可操作的对象! */
+"app_dialog_msgPasteboardNoObjects" = "剪贴版中没有可操作的对象!";
+/* 超出当天免费使用额度，请升级解锁，以支持我们开发Picsee, 带来更好的用户体验！ */
+"app_dialog_msgSubcribe" = "超出当天免费使用额度，请升级解锁，以支持我们开发Picsee, 带来更好的用户体验！";
+/* 提示 */
+"app_dialog_titleTip" = "提示";
+/* 问题描述 */
+"app_mail_bugDescription" = "问题描述";
+/* 如能重现问题，请给予详细的操作步骤 */
+"app_mail_detail" = "如能重现问题，请给予详细的操作步骤";
+/* 设备: */
+"app_mail_device" = "设备:";
+/* 反馈 */
+"app_mail_feedback" = "反馈";
+/* 系统: */
+"app_mail_system" = "系统:";
+/* 发生错误 */
+"app_noti_titleErrorHappened" = "发生错误";
+/* 关于 */
+"app_pfc_about" = "关于";
+/* 应用程序 */
+"app_pfc_app" = "应用程序";
+/* 外观 */
+"app_pfc_apperance" = "外观";
+/* 编辑剪切板中的对象 */
+"app_pfc_editPasteboardObj" = "编辑剪切板中的对象";
+/* 导出剪切板中的对象 */
+"app_pfc_exportPasteboardObj" = "导出剪切板中的对象";
+/* 通用 */
+"app_pfc_general" = "通用";
+/* 隐藏Dock图标 */
+"app_pfc_hideDock" = "隐藏Dock图标";
+/* 隐藏状态栏图标 */
+"app_pfc_hideStatusBar" = "隐藏状态栏图标";
+/* 邮件联系: */
+"app_pfc_labelEmail" = "邮件联系:";
+/* 议题讨论: */
+"app_pfc_labelIssue" = "议题讨论:";
+/* 官方站点: */
+"app_pfc_labelOfficeSite" = "官方站点:";
+/* QQ群: */
+"app_pfc_labelQQGroup" = "QQ群:";
+/* 打开面板 */
+"app_pfc_openPanel" = "打开面板";
+/* 弹出状态栏菜单 */
+"app_pfc_openStatusBarMenu" = "弹出状态栏菜单";
+/* 贴图 */
+"app_pfc_paste" = "贴图";
+/* 所有窗口关闭时退出 */
+"app_pfc_quitAllWinClose" = "所有窗口关闭时退出";
+/* 开机自启动 */
+"app_pfc_selfStart" = "开机自启动";
+/* 截图 */
+"app_pfc_snip" = "截图";
+/* 完全磁盘访问 */
+"app_showcase_BtnFullDiskAccess" = "完全磁盘访问";
+/* 提示授权所在目录读取权限 */
+"app_showcase_auhtorizedFolderPrivilege" = "提示授权所在目录读取权限";
+/* 授权文件夹 */
+"app_showcase_authorizedFolder" = "授权文件夹";
+/* 注: Magic鼠标上下滑动可缩放，左右可翻页, 按住Command或Option键, 在图片内移动。 */
+"app_showcase_authorizedMagicMousePageTip" = "注: Magic鼠标上下滑动可缩放，左右可翻页, 按住Command或Option键, 在图片内移动。";
+/* 注: Magic鼠标上下滑动可缩放，左右可翻页, 按住Command或Option键, 在图片内移动。 */
+"app_showcase_authorizedMagicMouseZoomTip" = "注: Magic鼠标上下滑动可缩放，左右可翻页, 按住Command或Option键, 在图片内移动。";
+/* 鼠标移进立即显示，移开立即隐藏 */
+"app_showcase_barShowHideImmediate" = "鼠标移进立即显示，移开立即隐藏";
+/* 关闭窗口 */
+"app_showcase_closeWin" = "关闭窗口";
+/* 所在目录包含视频文件 */
+"app_showcase_containsMovie" = "所在目录包含视频文件";
+/* 所在目录包含WORD、PPT等预览文件 */
+"app_showcase_containsOfficeFile" = "所在目录包含WORD、PPT等预览文件";
+/* 所在目录包含PDF文件 */
+"app_showcase_containsPDF" = "所在目录包含PDF文件";
+/* 编辑 */
+"app_showcase_edit" = "编辑";
+/* 编辑画布 */
+"app_showcase_editCanvas" = "编辑画布";
+/* 辅助选项 */
+"app_showcase_helpOption" = "辅助选项";
+/* 隐藏方位导航缩略 */
+"app_showcase_hideNavThumb" = "隐藏方位导航缩略";
+/* 按住Commad键切换图片，按住Option键在图片内移动 */
+"app_showcase_holdCommandToSwitch" = "按住Commad键切换图片，按住Option键在图片内移动";
+/* 按住Commad键缩放图片，按住Option键在图片内移动 */
+"app_showcase_holdCommandToZoom" = "按住Commad键缩放图片，按住Option键在图片内移动";
+/* 浏览顺序 */
+"app_showcase_labelBrowserOrder" = "浏览顺序";
+/* 授权磁盘 */
+"app_showcase_labelFullDiskAccess" = "授权磁盘";
+/* 缩放灵敏度 */
+"app_showcase_labelScrollZoomSensitivity" = "缩放灵敏度";
+/* 查看外观 */
+"app_showcase_labelSeeAppearance" = "查看外观";
+/* 底栏 */
+"app_showcase_labelSeeBottomBarPinType" = "底栏";
+/* 顶栏 */
+"app_showcase_labelSeeTopBarPinType" = "顶栏";
+/* 限制Magic鼠标左右滑动翻页 */
+"app_showcase_limitMagicMouseLeftRightScroll" = "限制Magic鼠标左右滑动翻页";
+/* 输入监听授权时有效 */
+"app_showcase_limitMagicMouseScrollTip" = "输入监听授权时有效";
+/* 限制Magic鼠标上下滑动缩放 */
+"app_showcase_limitMagicMouseTopDownScroll" = "限制Magic鼠标上下滑动缩放";
+/* 长图自动定位到顶部 */
+"app_showcase_longPhotoAutoGotoTop" = "长图自动定位到顶部";
+/* 鼠标控制 */
+"app_showcase_mouseControl" = "鼠标控制";
+/* 安装使用Mos/Smooze Pro等改变鼠标行为软件的用户，请谨慎配置。使用后，鼠标行为模拟Magic鼠标。某些情况下，可能会与滑动增强/平滑滚动冲突。若发生，请仔细排查，找到符合自己鼠标和使用习惯的配置。 */
+"app_showcase_mouseMosExtTip" = "安装使用Mos/Smooze Pro等改变鼠标行为软件的用户，请谨慎配置。使用后，鼠标行为模拟Magic鼠标。某些情况下，可能会与滑动增强/平滑滚动冲突。若发生，请仔细排查，找到符合自己鼠标和使用习惯的配置。";
+/* 鼠标滚轮 */
+"app_showcase_mouseScroll" = "鼠标滚轮";
+/* 平滑滚动 */
+"app_showcase_mouseScrollSmooth" = "平滑滚动";
+/* 非Magic鼠标滚动更加平滑。需先开启滑动增强。建议安装使用Mos/Smooze Pro等软件的用户，不勾选，存在冲突。 */
+"app_showcase_mouseScrollSmoothTip" = "非Magic鼠标滚动更加平滑。需先开启滑动增强。建议安装使用Mos/Smooze Pro等软件的用户，不勾选，存在冲突。";
+/* 当前平滑滚动已在工作。 */
+"app_showcase_mouseScrollSmoothWorkingTip" = "当前平滑滚动已在工作。";
+/* 滑动增强 */
+"app_showcase_mouseScrollStrengthen" = "滑动增强";
+/* 当前输入监听已授权。 */
+"app_showcase_mouseScrollStrengthenAccessGotTip" = "当前输入监听已授权。";
+/* 增强鼠标控制，需先在系统偏好设置中授权Picsee输入监听权限。 */
+"app_showcase_mouseScrollStrengthenTip" = "增强鼠标控制，需先在系统偏好设置中授权Picsee输入监听权限。";
+/* 当前滑动增强已在工作。 */
+"app_showcase_mouseScrollStrengthenWorkingTip" = "当前滑动增强已在工作。";
+/* 鼠标设置 */
+"app_showcase_mouseSet" = "鼠标设置";
+/* 打开方式 */
+"app_showcase_openAction" = "打开方式";
+/* 打开选项 */
+"app_showcase_openOption" = "打开选项";
+/* 打开设置 */
+"app_showcase_openSet" = "打开设置";
+/* 翻页方向 */
+"app_showcase_pageDirection" = "翻页方向";
+/* 翻页灵敏度 */
+"app_showcase_pageSensitivity" = "翻页灵敏度";
+/* 非Magic鼠标有效，值越小，翻页越灵敏 */
+"app_showcase_pageSensitivityTip" = "非Magic鼠标有效，值越小，翻页越灵敏";
+/* 翻页速度 */
+"app_showcase_pageSpeed" = "翻页速度";
+/* 非Magic鼠标有效，单位秒，时间越小，翻动越快 */
+"app_showcase_pageSpeedTip" = "非Magic鼠标有效，单位秒，时间越小，翻动越快";
+/* 滑动方向 */
+"app_showcase_scrollDirection" = "滑动方向";
+/* 注：翻页判断方向 */
+"app_showcase_scrollPageDirectionCalulcateTip" = "注：翻页判断方向";
+/* 滑动设置 */
+"app_showcase_scrollSet" = "滑动设置";
+/* 注：翻页判断方向, 只在输入监听授权时对触摸板有效 */
+"app_showcase_scrollVerticalTouchpadTip" = "注：翻页判断方向, 只在输入监听授权时对触摸板有效";
+/* 滚动鼠标滚轮，在图片内移动 */
+"app_showcase_scrollWheelToMove" = "滚动鼠标滚轮，在图片内移动";
+/* 查看 */
+"app_showcase_see" = "查看";
+/* 橱窗模式 */
+"app_showcase_showcaseStyle" = "橱窗模式";
+/* 悬浮看图窗口 */
+"app_showcase_trunOnFloatWin" = "悬浮看图窗口";
+/* 显示透明网格背景 */
+"app_showcase_trunOnTransGridBg" = "显示透明网格背景";
+/* 开启左右方向滑动动画 */
+"app_showcase_turnOnScrollAnimation" = "开启左右方向滑动动画";
+/* 注: 为获取更好的滑动体验，请勾选滑动增强。 */
+"app_showcase_unauthorizedMagicMousePageTip" = "注: 为获取更好的滑动体验，请勾选滑动增强。";
+/* 注: Magic鼠标上下滑动可缩放，左右可翻页。为获取更好的滑动体验，请勾选滑动增强。 */
+"app_showcase_unauthorizedMagicMouseZoomTip" = "注: Magic鼠标上下滑动可缩放，左右可翻页。为获取更好的滑动体验，请勾选滑动增强。";
+/* 看图 */
+"app_showcase_viewPhoto" = "看图";
+/* 浏览设置 */
+"app_showcase_viewSet" = "浏览设置";
+/* 浏览方式 */
+"app_showcase_viewStyle" = "浏览方式";
+/* 返回到面板 */
+"app_showcase_winBackToGallery" = "返回到面板";
+/* 关闭 */
+"app_showcase_winClose" = "关闭";
+/* 强制返回到面板 */
+"app_showcase_winForceBackToGallery" = "强制返回到面板";
+/* 图床历史 */
+"app_statusBar_bedHistory" = "图床历史";
+/* 浏览器扩展 */
+"app_statusBar_browserExt" = "浏览器扩展";
+/* 右键取消当前任务 */
+"app_statusBar_cancelExportTask" = "右键取消当前任务";
+/* 检查更新 */
+"app_statusBar_checkUpgrade" = "检查更新";
+/* 清除历史 */
+"app_statusBar_clearHistory" = "清除历史";
+/* 复制成功 */
+"app_statusBar_copySuccess" = "复制成功";
+/* 编辑 */
+"app_statusBar_edit" = "编辑";
+/* 导出 */
+"app_statusBar_export" = "导出";
+/* 反馈问题 */
+"app_statusBar_feedback" = "反馈问题";
+/* 5星好评 */
+"app_statusBar_fiveStars" = "5星好评";
+/* 更多 */
+"app_statusBar_more" = "更多";
+/* 打开面板 */
+"app_statusBar_openPanel" = "打开面板";
+/* 贴图 */
+"app_statusBar_pastePhoto" = "贴图";
+/* 图片: */
+"app_statusBar_photos" = "图片:";
+/* 软件介绍 */
+"app_statusBar_picseeIntroduce" = "软件介绍";
+/* 偏好设置 */
+"app_statusBar_preference" = "偏好设置";
+/* 退出 */
+"app_statusBar_quit" = "退出";
+/* 显示历史 */
+"app_statusBar_showHistory" = "显示历史";
+/* 开始截图 */
+"app_statusBar_startSnip" = "开始截图";
+/* 待处理 */
+"app_statusBar_waitToProcess" = "待处理";
+/* 待处理0张 */
+"app_statusBar_waitingToProcess" = "待处理0张";
+/* 张 */
+"app_unit_sheet" = "张";
+/* 请及时更新至新版本 */
+"app_upgrade_msg" = "请及时更新至新版本";
+/* 更新提示 */
+"app_upgrade_title" = "更新提示";
+/* 本地磁盘 */
+"export_task_localDisk" = "本地磁盘";
+
+
+// 关闭
+"singleM_menu_close" = "关闭";
+
+// 复制
+"singleM_menu_copy" = "复制";
+
+// 编辑
+"singleM_menu_edit" = "编辑";
+
+// 适应窗口
+"singleM_menu_fitWin" = "适应窗口";
+
+// 水平翻转
+"singleM_menu_flipHorizontal" = "水平翻转";
+
+// 垂直翻转
+"singleM_menu_flipVertical" = "垂直翻转";
+
+// 钉在桌面
+"singleM_menu_pinOnDesktop" = "钉在桌面";
+
+// 向左旋转
+"singleM_menu_rotateLeft" = "向左旋转";
+
+// 向右旋转
+"singleM_menu_rotateRight" = "向右旋转";
+
+// 另存为
+"singleM_menu_saveAs" = "另存为";
+
+// 自适应
+"singleM_menu_selfFit" = "自适应";
+
+// 在finder中显示
+"singleM_menu_showInFinder" = "在Finder中显示";
+
+
+// 关闭
+"pasteM_action_close" = "关闭";
+
+// 缩放
+"pasteM_action_zoom" = "缩放";
+
+// 关闭
+"pasteM_menu_close" = "关闭";
+
+// 复制
+"pasteM_menu_copy" = "复制";
+
+// 编辑
+"pasteM_menu_edit" = "编辑";
+
+// 水平翻转
+"pasteM_menu_flipHorizontal" = "水平翻转";
+
+// 垂直翻转
+"pasteM_menu_flipVertical" = "垂直翻转";
+
+// 悬浮
+"pasteM_menu_float" = "悬浮";
+
+// 粘贴
+"pasteM_menu_paste" = "粘贴";
+
+// 图像处理
+"pasteM_menu_photoTransform" = "图像处理";
+
+// 替换为
+"pasteM_menu_replace" = "替换为";
+
+// 还原
+"pasteM_menu_restore" = "还原";
+
+// 向左旋转
+"pasteM_menu_rotateLeft" = "向左旋转";
+
+// 向右旋转
+"pasteM_menu_rotateRight" = "向右旋转";
+
+// 另存为
+"pasteM_menu_saveAs" = "另存为";
+
+// 在finder中显示
+"pasteM_menu_showInFinder" = "在finder中显示";
+
+// 窗口阴影
+"pasteM_menu_winShadow" = "窗口阴影";
+
+// 自动获取剪切板中图片并转成待图片
+"pasteM_pfc_checkBtnImageToImage" = "自动获取剪切板中图片并等待处理";
+
+// 文字转图片
+"pasteM_pfc_checkBtnTextToImage" = "自动获取剪切板中文字并转成待处理图片";
+
+// 剪切板
+"pasteM_pfc_labelClipboard" = "剪切板";
+
+// 双击鼠标
+"pasteM_pfc_labelDoubleClickMouse" = "双击鼠标";
+
+// 贴图
+"pasteM_pfc_paste" = "贴图";
+
+/* 确定 */
+"buy_dialog_btnOK" = "确定";
+/* 购买失败 */
+"buy_dialog_msgBuyFailed" = "购买失败";
+/* 购买成功 */
+"buy_dialog_msgBuySuccess" = "购买成功";
+/* 恢复失败 */
+"buy_dialog_msgRestoreFailed" = "恢复失败";
+/* 恢复成功 */
+"buy_dialog_msgRestoreSuccess" = "恢复成功";
+/* 提示 */
+"buy_dialog_titleTip" = "提示";
+/* 购买 */
+"buy_pfc_btnBuy" = "购买";
+/* 取消 */
+"buy_pfc_btnCancel" = "取消";
+/* 隐私政策 */
+"buy_pfc_btnPrivacy" = "隐私政策";
+/* 恢复购买 */
+"buy_pfc_btnRestore" = "恢复购买";
+/* 用户协议 */
+"buy_pfc_btnTerms" = "用户协议";
+/* 升级解锁 */
+"buy_pfc_btnUpgrade" = "升级解锁";
+/* Picsee ***版 */
+"buy_pfc_labelEntitlement" = "Picsee ***版";
+/* Picsee 免费版 */
+"buy_pfc_labelEntitlementFree" = "Picsee 免费版";
+/* Picsee 专业版 */
+"buy_pfc_labelEntitlementPro" = "Picsee 专业版";
+/* 购买后解锁所有功能 */
+"buy_pfc_labelProductTip" = "购买后解锁所有功能";
+/* 账户 */
+"buy_pfc_title" = "账户";

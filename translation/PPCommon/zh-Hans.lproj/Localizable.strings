@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  Picsee
+
+  Created by kzhiquan on 2021/11/10.
+  Copyright © 2021 zhiquan kong. All rights reserved.
+*/
+
+
+/* 确定 */
+"public_alert_btnOK" = "确定";
+/* 文件大小 */
+"public_browserOrder_byFileSize" = "文件大小";
+/* 文件大小倒序 */
+"public_browserOrder_byFileSizeReverse" = "文件大小倒序";
+/* 修改时间 */
+"public_browserOrder_byModfication" = "修改时间";
+/* 修改时间倒序 */
+"public_browserOrder_byModficationReverse" = "修改时间倒序";
+/* 名称 */
+"public_browserOrder_byName" = "名称";
+/* 名称倒序 */
+"public_browserOrder_byNameReverse" = "名称倒序";
+/* 授权 */
+"public_dialog_authorize" = "授权";
+/* 名称为空 */
+"public_dialog_msgNameIsEmpty" = "名称为空";
+/* 提示 */
+"public_dialog_titleTip" = "提示";
+/* 移动图片 */
+"public_mouseScroll_moveInPhoto" = "移动图片";
+/* 左右翻页 */
+"public_mouseScroll_pagePhoto" = "左右翻页";
+/* 缩放图片 */
+"public_mouseScroll_zoomPhoto" = "缩放图片";
+/* 与滑动方向相反 */
+"public_pageDirection_reverseToScrollDirection" = "与滑动方向相反";
+/* 与滑动方向一致 */
+"public_pageDirection_sameToScrollDirection" = "与滑动方向一致";
+/* 水平 */
+"public_scrollDirection_horizontal" = "水平";
+/* 无限制 */
+"public_scrollDirection_nolimit" = "无限制";
+/* 垂直 */
+"public_scrollDirection_vertical" = "垂直";
+/* 取消 */
+"public_vc_btnCancel" = "取消";
+/* 保存 */
+"public_vc_btnSave" = "保存";
+/* 名称 */
+"public_vc_labelName" = "名称";
+

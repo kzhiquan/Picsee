@@ -1,0 +1,339 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/10.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 返回
+"edit_bar_back" = "前回";
+
+// 裁剪
+"edit_bar_btnCrop" = "カッティング";
+
+// 批量应用
+"edit_bar_checkBtnBatchApply" = "一括使用";
+
+// 清除元数据
+"edit_bar_checkBtnClearExif" = "メタデータをクリアする";
+
+// 相对大小
+"edit_bar_checkBtnFactorSize" = "相対的な大きさ";
+
+// 导出
+"edit_bar_export" = "輸出";
+
+// 适应窗口
+"edit_bar_fitWin" = "アダプテーションウィンドウ";
+
+// 布局
+"edit_bar_layout" = "レイアウト";
+
+// 下一张
+"edit_bar_nextPage" = "次のページ";
+
+// 页面
+"edit_bar_page" = "ページ";
+
+// 图片名称
+"edit_bar_photoName" = "画像名";
+
+// 上一张
+"edit_bar_previousPage" = "前";
+
+// 属性
+"edit_bar_property" = "特徴";
+
+// 查看
+"edit_bar_see" = "表示";
+
+// 缩略
+"edit_bar_thumb" = "サムネイル";
+
+// 缩放
+"edit_bar_zoom" = "スケーリング";
+
+// 缩小
+"edit_bar_zoomIn" = "ズームアウト";
+
+// 放大
+"edit_bar_zoomOut" = "拡大する";
+
+// 关闭操作指引提示
+"edit_body_checkBtnCloseBatchGuide" = "閉じる";
+
+// 已是第一张
+"edit_body_firstPage" = "すでに1枚目";
+
+// 操作指引
+"edit_body_labelBatchGuide" = "操作説明書";
+
+// 1. 勾选批量应用，将当前修\n改应用到其他图片。\n\n2. 点击上一张下一张，可预\n览批量应用效果。\n\n3. 点击导出素材，可导出批\n量应用后的图片。
+"edit_body_labelBatchGuideStep" = "1. 一括適用をチェックすると、現在の操作を他の画像に適用することができます。\n\n2. 前の次をクリックすると、バッチアプリケーションの効果をプレビューすることができます。\n\n3. 一括適用後に画像を書き出す場合は、「書き出し」をクリックします。";
+
+// 已是最后一张
+"edit_body_lastPage" = "これが最後の1枚";
+
+// 请打开右边栏, 查看详细的属性修改信息\n\n属性修改模版
+"edit_body_photoPropertyTemplateEditTip" = "機能変更の詳細については、右側のコラムを開いてください\n\n属性変更用テンプレート";
+
+// 浅色画布
+"edit_canvas_aqua" = "ライトカラー・キャンバス";
+
+// 深色画布
+"edit_canvas_dark" = "ダークキャンバス";
+
+// 默认
+"edit_canvas_default" = "デフォルト";
+
+// 取消
+"edit_dialog_btnCancel" = "キャンセル";
+
+// 确定
+"edit_dialog_btnOK" = "確認";
+
+// 确定要删除外部设备/网络磁盘上文件，注意：将彻底删除，不进入回收站！
+"edit_dialog_msgDeleteExternalMeidaTip" = "外付けデバイス/ネットワークディスクのファイルを削除することを確認してください。注：ごみ箱に入れずに完全に削除されます。";
+
+// 已经添加了外框
+"edit_dialog_msgHadAlreadyAddedExtFrame" = "エンクロージャーが追加されました";
+
+// 没有图像对象存在
+"edit_dialog_msgNoMediaExists" = "画像オブジェクトが存在しない";
+
+// 图片对象不存在
+"edit_dialog_msgNothingToSave" = "画像オブジェクトが存在しない";
+
+// 未存在修改条目，可以批量应用
+"edit_dialog_msgNothingToSaveTip" = "修正エントリーは存在せず、一括して使用可能";
+
+// 未进行修改，不存在修改条目
+"edit_dialog_msgNotingToSave" = "変更は行われておらず、変更エントリーは存在しない";
+
+// 请先存储为模版
+"edit_dialog_msgSaveAsTemplateFirst" = "まずはテンプレートとして保存してください";
+
+// 保存失败:
+"edit_dialog_msgSaveFailed" = "保存に失敗しました:";
+
+// 此媒体不支持覆盖保存，试试另存为。
+"edit_dialog_msgSaveFailedTrySaveAs" = "このメディアは上書きに対応していませんので、「名前を付けて保存」をお試しください。";
+
+// 正在使用模版，不能删除
+"edit_dialog_msgUsingTemplateDeleteFailed" = "使用中のテンプレート、削除不可";
+
+// 保存
+"edit_dialog_promptSave" = "セーブ";
+
+// 裁剪发生错误
+"edit_dialog_titleCropFailed" = "クロッピングエラー";
+
+// 提示
+"edit_dialog_titleTip" = "インフォメーション";
+
+// 复制文件
+"edit_menu_copyFile" = "コピー原稿";
+
+// 复制文件路径
+"edit_menu_copyFilePath" = "ファイルパスのコピー";
+
+// 删除
+"edit_menu_delete" = "削除";
+
+// 删除文件
+"edit_menu_deleteFile" = "ドキュメントを削除する";
+
+// 编辑
+"edit_menu_edit" = "変更";
+
+// 导出
+"edit_menu_export" = "輸出";
+
+// 导出素材
+"edit_menu_exportMedia" = "メディアの書き出し";
+
+// 导出到图床
+"edit_menu_exportToBed" = "クラウドストレージへの書き出し";
+
+// 鼠标滚轮移动图片
+"edit_menu_mouseScrollToMove" = "マウスホイールによる絵の移動";
+
+// 鼠标滚轮左右翻页
+"edit_menu_mouseScrollToPage" = "マウスホイールで左右にページをめくることができる";
+
+// 鼠标滚轮缩放图片
+"edit_menu_mouseScrollToZoom" = "マウスホイールで画像の拡大・縮小が可能";
+
+// 在默认应用中打开
+"edit_menu_openInDefaultApp" = "デフォルトのアプリケーションで開く";
+
+// 在新窗口中打开
+"edit_menu_openInNewWin" = "新しいウィンドウで開く";
+
+// 在其他应用中打开
+"edit_menu_openInOtherApp" = "他のアプリケーションで開く";
+
+// 钉在桌面
+"edit_menu_pinOnDesktop" = "画面へのピン留め";
+
+// 保存
+"edit_menu_save" = "セーブ";
+
+// 设置为桌面
+"edit_menu_setAsDesktop" = "デスクトップの背景に設定する";
+
+// 在Finder中显示
+"edit_menu_showInFinder" = "Finderに表示する";
+
+// 开启/关闭滑动动画
+"edit_menu_togglePageScrollAnimation" = "スライドアニメーションのON/OFF";
+
+// 上传到
+"edit_menu_uploadTo" = "にアップロードしてください";
+
+// 角度
+"edit_pro_arrowAngle" = "アングル";
+
+// 默认模版
+"edit_pro_btnDefaultTemplate" = "デフォルトのテンプレート";
+
+// 重命名
+"edit_pro_btnRename" = "リネーム";
+
+// 存为模版
+"edit_pro_btnSaveAsTemplate" = "テンプレートとして保存する";
+
+// 保存模版
+"edit_pro_btnSaveTemplate" = "テンプレートの保存";
+
+// 选择
+"edit_pro_btnSelect" = "選択";
+
+// 半径
+"edit_pro_cornerRadius" = "半径";
+
+// 描述
+"edit_pro_labelDescription" = "商品説明";
+
+// 尺寸调整
+"edit_pro_labelAdjustSize" = "調整";
+
+// 锚点
+"edit_pro_labelAnchorPoint" = "アンカー";
+
+// 角度°
+"edit_pro_labelAngle" = "アングル";
+
+// 弧点
+"edit_pro_labelArcPos" = "円弧点";
+
+// 箭头
+"edit_pro_labelArrow" = "アローズ";
+
+// 圆心
+"edit_pro_labelCirclePos" = "円の中心";
+
+// 颜色
+"edit_pro_labelColor" = "カラー";
+
+// 半径
+"edit_pro_labelCornerRadius" = "半径";
+
+// 嵌入位置
+"edit_pro_labelEmbedPosition" = "挿入位置";
+
+// 嵌入大小
+"edit_pro_labelEmbedSize" = "内部サイズ";
+
+// 终点
+"edit_pro_labelEndPos" = "終わり";
+
+// 填充
+"edit_pro_labelFill" = "フィリング";
+
+// 字体
+"edit_pro_labelFont" = "フォント";
+
+// 高度
+"edit_pro_labelHeight" = "高さ";
+
+// 平长
+"edit_pro_labelHorizontalLength" = "水平方向の長さ";
+
+// 长度
+"edit_pro_labelLength" = "長さ";
+
+// 边线
+"edit_pro_labelLine" = "スレッド";
+
+// 聚点
+"edit_pro_labelMagnifierPos" = "ズームイン";
+
+// 位置
+"edit_pro_labelPosition" = "持ち場";
+
+// 旋转
+"edit_pro_labelRotate" = "スピン";
+
+// 倍数
+"edit_pro_labelScale" = "拡大縮小率";
+
+// 大小
+"edit_pro_labelSize" = "サイズ";
+
+// 斜长
+"edit_pro_labelSlopeLenght" = "斜めの長さ";
+
+// 水平间距
+"edit_pro_labelSpanH" = "水平方向スペーシング";
+
+// 垂直间距
+"edit_pro_labelSpanV" = "垂直方向のスペーシング";
+
+// 起点
+"edit_pro_labelStartPos" = "出発点";
+
+// 样式
+"edit_pro_labelStyle" = "様式";
+
+// 粗细
+"edit_pro_labelThick" = "粗目・細目";
+
+// 水印
+"edit_pro_labelWaterMark" = "透かし";
+
+// 宽度
+"edit_pro_labelWidth" = "幅";
+
+// 原高
+"edit_pro_nativeHeight" = "H";
+
+// 原宽
+"edit_pro_nativeWidth" = "W";
+
+// 重命名
+"edit_pro_rename" = "リネーム";
+
+// 重命名模版
+"edit_pro_renameTemplate" = "テンプレートのリネーム";
+
+// 存为模版
+"edit_pro_saveAsTemplate" = "テンプレートとして保存する";
+
+// 存储在模版库中，以便应用在其他图元上
+"edit_pro_saveInTemplateLib" = "他の図面要素に適用するためにテンプレートライブラリに保存される";
+
+// 保存模版
+"edit_pro_saveTemplate" = "テンプレートの保存";
+
+// 样式
+"edit_pro_style" = "様式";
+
+// 改变模版在模版库中名称
+"edit_pro_updateNameInTemplateLib" = "テンプレートライブラリのテンプレート名を変更する";
+
+// 原始大小
+"edit_toolTip_fitSelf" = "オリジナルサイズ";
+
+// 适应窗口
+"edit_toolTip_fitWin" = "アダプテーションウィンドウ";
+
+// 项
+"edit_unit_item" = "項";

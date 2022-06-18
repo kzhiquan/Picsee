@@ -1,0 +1,553 @@
+// Localizable.strings
+// Picsee
+// Created by kzhiquan on 2021/11/2.
+// Copyright © 2021 zhiquan kong. All rights reserved.
+// 浅色外观
+"app_appearace_aqua" = "淺色外觀";
+
+// 深色外观
+"app_appearace_dark" = "深色外觀";
+
+// 系统默认
+"app_appearace_system" = "系統默認";
+
+// 存储
+"app_dialog_btnSave" = "存儲";
+
+// 后台正在导出，请稍后再试!
+"app_dialog_msgBgIsExporting" = "後台正在導出，請稍後再試!";
+
+// 剪贴版中没有可操作的对象!
+"app_dialog_msgPasteboardNoObjects" = "剪貼版中沒有可操作的對象!";
+
+// 提示
+"app_dialog_titleTip" = "提示";
+
+// 问题描述
+"app_mail_bugDescription" = "問題描述";
+
+// 如能重现问题，请给予详细的操作步骤
+"app_mail_detail" = "如能重現問題，請給予詳細的操作步驟";
+
+// 设备:
+"app_mail_device" = "設備:";
+
+// 反馈
+"app_mail_feedback" = "反饋";
+
+// 系统:
+"app_mail_system" = "系統:";
+
+// 发生错误
+"app_noti_titleErrorHappened" = "發生錯誤";
+
+// 应用程序
+"app_pfc_app" = "應用程序";
+
+// 外观
+"app_pfc_apperance" = "外觀";
+
+// 编辑剪切板中的对象
+"app_pfc_editPasteboardObj" = "編輯剪切板中的對象";
+
+// 导出剪切板中的对象
+"app_pfc_exportPasteboardObj" = "導出剪切板中的對象";
+
+// 通用
+"app_pfc_general" = "通用";
+
+// 隐藏Dock图标
+"app_pfc_hideDock" = "隱藏Dock圖標";
+
+// 隐藏状态栏图标
+"app_pfc_hideStatusBar" = "隱藏狀態欄圖標";
+
+// 打开面板
+"app_pfc_openPanel" = "打開面板";
+
+// 弹出状态栏菜单
+"app_pfc_openStatusBarMenu" = "彈出狀態欄菜單";
+
+// 贴图
+"app_pfc_paste" = "貼圖";
+
+// 所有窗口关闭时退出
+"app_pfc_quitAllWinClose" = "所有窗口關閉時退出";
+
+// 开机自启动
+"app_pfc_selfStart" = "開機自啟動";
+
+// 截图
+"app_pfc_snip" = "截圖";
+
+// 提示授权所在目录读取权限
+"app_showcase_auhtorizedFolderPrivilege" = "提示授權所在目錄讀取權限";
+
+// 授权文件夹
+"app_showcase_authorizedFolder" = "授權文件夾";
+
+// 注: 当前输入监听已授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_authorizedMagicMousePageTip" = "注:  Magic鼠標上下滑動可縮放，左右可翻頁, 按住Command或Option鍵, 在圖片內移動.";
+
+// 注: 当前输入监听已授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_authorizedMagicMouseZoomTip" = "注:  Magic鼠標上下滑動可縮放，左右可翻頁, 按住Command或Option鍵, 在圖片內移動.";
+
+// 所在目录包含视频文件
+"app_showcase_containsMovie" = "所在目錄包含視頻文件";
+
+// 所在目录包含WORD、PPT等预览文件
+"app_showcase_containsOfficeFile" = "所在目錄包含WORD、PPT等預覽文件";
+
+// 所在目录包含PDF文件
+"app_showcase_containsPDF" = "所在目錄包含PDF文件";
+
+// 编辑
+"app_showcase_edit" = "編輯";
+
+// 编辑画布
+"app_showcase_editCanvas" = "編輯畫布";
+
+// 辅助选项
+"app_showcase_helpOption" = "輔助選項";
+
+// 隐藏方位导航缩略
+"app_showcase_hideNavThumb" = "隱藏方位導航縮略";
+
+// 按住Commad键切换图片
+"app_showcase_holdCommandToSwitch" = "按住Command鍵切換圖片,按住Option鍵在圖片內移動";
+
+// 按住Commad键缩放图片
+"app_showcase_holdCommandToZoom" = "按住Commad键缩放图片，按住Option键在图片内移动";
+
+// 限制Magic鼠标左右滑动翻页(输入监听授权时有效)
+"app_showcase_limitMagicMouseLeftRightScroll" = "限制Magic鼠標左右滑動翻頁";
+
+// 限制Magic鼠标上下滑动缩放(输入监听授权时有效)
+"app_showcase_limitMagicMouseTopDownScroll" = "限制Magic鼠標上下滑動縮放";
+
+// 长图自动定位到顶部
+"app_showcase_longPhotoAutoGotoTop" = "長圖自動定位到頂部";
+
+// 鼠标滚轮
+"app_showcase_mouseScroll" = "鼠標滾輪";
+
+// 滑动方向
+"app_showcase_scrollDirection" = "滑動方向";
+
+// 只在输入监听授权时对触摸板有效
+"app_showcase_scrollVerticalTouchpadTip" = "注：翻頁判斷方向, 只在輸入監聽授權時對觸摸板有效";
+
+// 查看
+"app_showcase_see" = "查看";
+
+// 橱窗模式
+"app_showcase_showcaseStyle" = "櫥窗模式";
+
+// 悬浮看图窗口
+"app_showcase_trunOnFloatWin" = "懸浮看圖窗口";
+
+// 显示透明网格背景
+"app_showcase_trunOnTransGridBg" = "顯示透明網格背景";
+
+// 开启左右方向滑动动画
+"app_showcase_turnOnScrollAnimation" = "開啟左右方向滑動動畫";
+
+// 注: 当前输入监听未授权, 请在偏好设置中授权，获取更好的滑动体验: Magic鼠标按住Command键, 在图片内移动.
+"app_showcase_unauthorizedMagicMousePageTip" = "注: 為獲取更好的滑動體驗，請勾選滑動增強。";
+
+// 注: 当前输入监听未授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
+"app_showcase_unauthorizedMagicMouseZoomTip" = "注: Magic鼠標上下滑動可縮放，左右可翻頁。為獲取更好的滑動體驗，請勾選滑動增強。";
+
+// 看图
+"app_showcase_viewPhoto" = "看圖";
+
+// 浏览设置
+"app_showcase_viewSet" = "瀏覽設置";
+
+// 浏览方式
+"app_showcase_viewStyle" = "瀏覽方式";
+
+// 图床历史
+"app_statusBar_bedHistory" = "圖床歷史";
+
+// 浏览器扩展
+"app_statusBar_browserExt" = "瀏覽器擴展";
+
+// 右键取消当前任务
+"app_statusBar_cancelExportTask" = "右鍵取消當前任務";
+
+// 检查更新
+"app_statusBar_checkUpgrade" = "檢查更新";
+
+// 清除历史
+"app_statusBar_clearHistory" = "清除歷史";
+
+// 复制成功
+"app_statusBar_copySuccess" = "複製成功";
+
+// 编辑
+"app_statusBar_edit" = "編輯";
+
+// 导出
+"app_statusBar_export" = "導出";
+
+// 反馈问题
+"app_statusBar_feedback" = "反饋問題";
+
+// 5星好评
+"app_statusBar_fiveStars" = "5星好評";
+
+// 更多
+"app_statusBar_more" = "更多";
+
+// 打开面板
+"app_statusBar_openPanel" = "打開面板";
+
+// 贴图
+"app_statusBar_pastePhoto" = "貼圖";
+
+// 图片:
+"app_statusBar_photos" = "圖片:";
+
+// 软件介绍
+"app_statusBar_picseeIntroduce" = "軟件介紹";
+
+// 偏好设置
+"app_statusBar_preference" = "偏好設置";
+
+// 退出
+"app_statusBar_quit" = "退出";
+
+// 显示历史
+"app_statusBar_showHistory" = "顯示歷史";
+
+// 开始截图
+"app_statusBar_startSnip" = "開始截圖";
+
+// 待处理
+"app_statusBar_waitToProcess" = "待處理";
+
+// 待处理0张
+"app_statusBar_waitingToProcess" = "待處理0張";
+
+// 张
+"app_unit_sheet" = "張";
+
+// 请及时更新至新版本
+"app_upgrade_msg" = "請及時更新至新版本";
+
+// 更新提示
+"app_upgrade_title" = "更新提示";
+
+// 本地磁盘
+"export_task_localDisk" = "本地磁盤";
+
+// 输入监听授权时有效
+"app_showcase_limitMagicMouseScrollTip" = "輸入監聽授權時有效";
+
+// 滚动鼠标滚轮，在图片内移动
+"app_showcase_scrollWheelToMove" = "滾動鼠標滾輪，在圖片內移動";
+
+// 注：翻页判断方向
+"app_showcase_scrollPageDirectionCalulcateTip" = "注：翻頁判斷方向";
+
+// 打开选项
+"app_showcase_openOption" = "打開選項";
+
+// 打开设置
+"app_showcase_openSet" = "打開設置";
+
+// 关于
+"app_pfc_about" = "關於";
+
+// 邮件联系:
+"app_pfc_labelEmail" = "郵件聯繫:";
+
+// 议题讨论:
+"app_pfc_labelIssue" = "議題討論:";
+
+// 官方站点:
+"app_pfc_labelOfficeSite" = "官方站點:";
+
+// QQ群:
+"app_pfc_labelQQGroup" = "QQ群:";
+
+// 缩放灵敏度
+"app_showcase_labelScrollZoomSensitivity" = "縮放靈敏度";
+
+// 查看外观
+"app_showcase_labelSeeAppearance" = "查看外觀";
+
+// 底栏
+"app_showcase_labelSeeBottomBarPinType" = "底欄";
+
+// 顶栏
+"app_showcase_labelSeeTopBarPinType" = "頂欄";
+
+// 浏览顺序
+"app_showcase_labelBrowserOrder" = "瀏覽順序";
+
+// 翻页方向
+"app_showcase_pageDirection" = "翻頁方向";
+
+// 1. 素材管理最多可管理张数:
+"app_buy_albumThresholdMsg" = "1. 素材管理最多可管理張數:";
+
+// 3. Finder打开查看素材当天最多可使用次数:
+"app_buy_finderSeeThresholdMsg" = "3. Finder打開查看素材當天最多可使用次數:";
+
+// 2. 截图当天最多可使用次数:
+"app_buy_snipThresholdMsg" = "2. 截圖當天最多可使用次數:";
+
+// 继续试用
+"app_dialog_btnContinueToTry" = "繼續試用";
+
+// 确定
+"app_dialog_btnOK" = "確定";
+
+// 升级解锁
+"app_dialog_btnUpgradeToUnlock" = "升級解鎖";
+
+// 支持我们开发Picsee,带来更好的用户体验！
+"app_dialog_msgSubcribe" = "超出當天免費使用額度，請升級解鎖，以支持我們開發Picsee, 帶來更好的用戶體驗！";
+
+// 滑动设置
+"app_showcase_scrollSet" = "滑動設置";
+
+// 注: 超过限制, Picsee还可继续试用，但会不定时提示升级购买！
+"app_buy_alertBuyMsgRule" = "注: 超過限制, Picsee還可繼續試用，但會不定時提示升級購買！";
+
+// 完全磁盘访问
+"app_showcase_BtnFullDiskAccess" = "完全磁盤訪問";
+
+// 授权磁盘
+"app_showcase_labelFullDiskAccess" = "授權磁盤";
+
+// 翻页灵敏度
+"app_showcase_pageSensitivity" = "翻頁靈敏度";
+
+// 非Magic鼠标有效，值越小，翻页越灵敏
+"app_showcase_pageSensitivityTip" = "非Magic鼠標有效，值越小，翻頁越靈敏";
+
+// 翻页速度
+"app_showcase_pageSpeed" = "翻頁速度";
+
+// 非Magic鼠标有效，单位秒，时间越小，翻动越快
+"app_showcase_pageSpeedTip" = "非Magic鼠標有效，單位秒，時間越小，翻動越快";
+
+// 鼠标移进立即显示，移开立即隐藏
+"app_showcase_barShowHideImmediate" = "鼠標移進顯示，移開隱藏";
+
+// 鼠标控制
+"app_showcase_mouseControl" = "鼠標控制";
+
+// 平滑滚动
+"app_showcase_mouseScrollSmooth" = "平滑滾動";
+
+// 非Magic鼠标滚动更加平滑。需先开启滑动增强。建议安装使用Mos/Smooze Pro等软件的用户，不勾选，存在冲突。
+"app_showcase_mouseScrollSmoothTip" = "非Magic鼠標滾動更加平滑。需先開啟滑動增強。建議安裝使用Mos/Smooze Pro等軟件的用戶，不勾選，存在衝突。";
+
+// 滑动增强
+"app_showcase_mouseScrollStrengthen" = "滑動增強";
+
+// 增强鼠标控制，需在系统偏好设置中授权Picsee输入监听权限
+"app_showcase_mouseScrollStrengthenTip" = "增強鼠標控制，需先在系統偏好設置中授權Picsee輸入監聽權限。";
+
+// 鼠标设置
+"app_showcase_mouseSet" = "鼠標設置";
+
+// 请先在系统偏好设置中授予Picsee输入监听权限!
+"app_dialog_mouseScrollStrengthMsg" = "請先在系統偏好設置中授予Picsee輸入監聽權限!";
+
+// 当前平滑滚动已在工作。
+"app_showcase_mouseScrollSmoothWorkingTip" = "當前平滑滾動已在工作。";
+
+// 当前输入监听已授权。
+"app_showcase_mouseScrollStrengthenAccessGotTip" = "當前輸入監聽已授權。";
+
+// 当前滑动增强已在工作。
+"app_showcase_mouseScrollStrengthenWorkingTip" = "當前滑動增強已在工作。";
+
+// 安装使用Mos/Smooze Pro等改变鼠标行为软件的用户，请谨慎配置。使用后，鼠标行为模拟Magic鼠标。某些情况下，可能会与滑动增强/平滑滚动冲突。若发生，请仔细排查，找到符合自己鼠标和使用习惯的配置。
+"app_showcase_mouseMosExtTip" = "安裝使用Mos/Smooze Pro等改變鼠標行為軟件的用戶，請謹慎配置。使用後，鼠標行為模擬Magic鼠標。某些情況下，可能會與滑動增強/平滑滾動衝突。若發生，請仔細排查，找到符合自己鼠標和使用習慣的配置。";
+
+// 关闭窗口
+"app_showcase_closeWin" = "關閉窗口";
+
+// 返回到面板
+"app_showcase_winBackToGallery" = "返回到面板";
+
+// 关闭
+"app_showcase_winClose" = "關閉";
+
+// 强制返回到面板
+"app_showcase_winForceBackToGallery" = "強制返回到面板";
+
+// 多窗口浏览
+"album_doubleClick_newWin" = "多窗口瀏覽";
+
+// 钉在桌面
+"album_doubleClick_pinWin" = "釘在桌面";
+
+// 单窗口浏览
+"album_doubleClick_singleWin" = "單窗口瀏覽";
+
+// 打开方式
+"app_showcase_openAction" = "打開方式";
+
+
+// 关闭
+"singleM_menu_close" = "關閉";
+
+// 复制
+"singleM_menu_copy" = "複製";
+
+// 编辑
+"singleM_menu_edit" = "編輯";
+
+// 适应窗口
+"singleM_menu_fitWin" = "適應窗口";
+
+// 水平翻转
+"singleM_menu_flipHorizontal" = "水平翻轉";
+
+// 垂直翻转
+"singleM_menu_flipVertical" = "垂直翻轉";
+
+// 钉在桌面
+"singleM_menu_pinOnDesktop" = "釘在桌面";
+
+// 向左旋转
+"singleM_menu_rotateLeft" = "向左旋轉";
+
+// 向右旋转
+"singleM_menu_rotateRight" = "向右旋轉";
+
+// 另存为
+"singleM_menu_saveAs" = "另存為";
+
+// 自适应
+"singleM_menu_selfFit" = "自適應";
+
+// 在finder中显示
+"singleM_menu_showInFinder" = "在Finder中顯示";
+
+
+// 关闭
+"pasteM_action_close" = "關閉";
+
+// 缩放
+"pasteM_action_zoom" = "縮放";
+
+// 关闭
+"pasteM_menu_close" = "關閉";
+
+// 复制
+"pasteM_menu_copy" = "複製";
+
+// 编辑
+"pasteM_menu_edit" = "編輯";
+
+// 水平翻转
+"pasteM_menu_flipHorizontal" = "水平翻轉";
+
+// 垂直翻转
+"pasteM_menu_flipVertical" = "垂直翻轉";
+
+// 悬浮
+"pasteM_menu_float" = "懸浮";
+
+// 粘贴
+"pasteM_menu_paste" = "粘貼";
+
+// 图像处理
+"pasteM_menu_photoTransform" = "圖像處理";
+
+// 替换为
+"pasteM_menu_replace" = "替換為";
+
+// 还原
+"pasteM_menu_restore" = "還原";
+
+// 向左旋转
+"pasteM_menu_rotateLeft" = "向左旋轉";
+
+// 向右旋转
+"pasteM_menu_rotateRight" = "向右旋轉";
+
+// 另存为
+"pasteM_menu_saveAs" = "另存為";
+
+// 在finder中显示
+"pasteM_menu_showInFinder" = "在Finder中顯示";
+
+// 窗口阴影
+"pasteM_menu_winShadow" = "窗口陰影";
+
+// 双击鼠标
+"pasteM_pfc_labelDoubleClickMouse" = "雙擊鼠標";
+
+// 贴图
+"pasteM_pfc_paste" = "貼圖";
+
+// 剪切板
+"pasteM_pfc_labelClipboard" = "剪切板";
+
+// 文字转图片
+"pasteM_pfc_checkBtnTextToImage" = "自動獲取剪切板中文字並轉成待圖片";
+
+// 自动获取剪切板中图片并转成待图片
+"pasteM_pfc_checkBtnImageToImage" = "自動獲取剪切板中圖片並等待處理";
+
+
+
+// 确定
+"buy_dialog_btnOK" = "確定";
+
+// 购买失败
+"buy_dialog_msgBuyFailed" = "購買失敗";
+
+// 购买成功
+"buy_dialog_msgBuySuccess" = "購買成功";
+
+// 恢复失败
+"buy_dialog_msgRestoreFailed" = "恢復失敗";
+
+// 恢复成功
+"buy_dialog_msgRestoreSuccess" = "恢復成功";
+
+// 提示
+"buy_dialog_titleTip" = "提示";
+
+// 购买
+"buy_pfc_btnBuy" = "購買";
+
+// 取消
+"buy_pfc_btnCancel" = "取消";
+
+// 恢复购买
+"buy_pfc_btnRestore" = "恢復購買";
+
+// 升级解锁
+"buy_pfc_btnUpgrade" = "升級解鎖";
+
+// Picsee ***版
+"buy_pfc_labelEntitlement" = "Picsee ***版";
+
+// Picsee 免费版
+"buy_pfc_labelEntitlementFree" = "Picsee 免費版";
+
+// Picsee 专业版
+"buy_pfc_labelEntitlementPro" = "Picsee 專業版";
+
+// 购买后解锁所有功能
+"buy_pfc_labelProductTip" = "購買後解鎖所有功能";
+
+// 账户
+"buy_pfc_title" = "賬戶";
+
+// 隐私政策
+"buy_pfc_btnPrivacy" = "隱私政策";
+
+// 用户协议
+"buy_pfc_btnTerms" = "用戶協議";
