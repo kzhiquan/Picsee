@@ -60,7 +60,7 @@
 "edit_body_checkBtnCloseBatchGuide" = "Close guide prompt";
 
 // 已是第一张
-"edit_body_firstPage" = "The first one";
+"edit_body_firstPage" = "First";
 
 // 操作指引
 "edit_body_labelBatchGuide" = "Operate guide";
@@ -69,10 +69,10 @@
 "edit_body_labelBatchGuideStep" = "1. Check [Apply batch] to apply current modification to other media.\n\n 2. Click the [Previous/Next] button to preview the effect.\n\n 3. Click [Export] button to export.";
 
 // 已是最后一张
-"edit_body_lastPage" = "The last one";
+"edit_body_lastPage" = "Last";
 
 // 请打开右边栏, 查看详细的属性修改信息\n\n属性修改模版
-"edit_body_photoPropertyTemplateEditTip" = "If you want to view detailed attributes, please open the right side bar";
+"edit_body_photoPropertyTemplateEditTip" = "If you want to view detailed attributes, please open the right sidebar";
 
 // 浅色画布
 "edit_canvas_aqua" = "Light";
@@ -90,34 +90,34 @@
 "edit_dialog_btnOK" = "OK";
 
 // 确定要删除外部设备/网络磁盘上文件，注意：将彻底删除，不进入回收站！
-"edit_dialog_msgDeleteExternalMeidaTip" = "Are your sure to delete the media which is from external device or network disk. They will be deleted completely without going into system trash.";
+"edit_dialog_msgDeleteExternalMeidaTip" = "Are you sure you wish to delete the media which is from an external device or network disk? The media will be completely deleted without going into the system trash.";
 
 // 已经添加了外框
-"edit_dialog_msgHadAlreadyAddedExtFrame" = "There is already a shell";
+"edit_dialog_msgHadAlreadyAddedExtFrame" = "There is already a frame.";
 
 // 没有图像对象存在
-"edit_dialog_msgNoMediaExists" = "There is no media";
+"edit_dialog_msgNoMediaExists" = "There is no media.";
 
 // 图片对象不存在
-"edit_dialog_msgNothingToSave" = "There is no media to save";
+"edit_dialog_msgNothingToSave" = "There is no media to save.";
 
 // 未存在修改条目，可以批量应用
-"edit_dialog_msgNothingToSaveTip" = "There is nothing modification to apply batch.";
+"edit_dialog_msgNothingToSaveTip" = "There are no modifications to apply to the batch.";
 
 // 未进行修改，不存在修改条目
-"edit_dialog_msgNotingToSave" = "There is nothing modification";
+"edit_dialog_msgNotingToSave" = "There are no modifications.";
 
 // 请先存储为模版
-"edit_dialog_msgSaveAsTemplateFirst" = "Please save as a template first";
+"edit_dialog_msgSaveAsTemplateFirst" = "Please save as a template first.";
 
 // 保存失败:
-"edit_dialog_msgSaveFailed" = "Failed to save";
+"edit_dialog_msgSaveFailed" = "Failed to save.";
 
 // 此媒体不支持覆盖保存，试试另存为。
-"edit_dialog_msgSaveFailedTrySaveAs" = "The media does not support overwrited save, try save as.";
+"edit_dialog_msgSaveFailedTrySaveAs" = "You cannot overwrite this media. Try [Save as] instead.";
 
 // 正在使用模版，不能删除
-"edit_dialog_msgUsingTemplateDeleteFailed" = "The template is in use, can not be deleted";
+"edit_dialog_msgUsingTemplateDeleteFailed" = "The template is in use and cannot be deleted.";
 
 // 保存
 "edit_dialog_promptSave" = "Save";
@@ -318,7 +318,7 @@
 "edit_pro_saveAsTemplate" = "Save as template";
 
 // 存储在模版库中，以便应用在其他图元上
-"edit_pro_saveInTemplateLib" = "Save in template library, it can be applied to other media easily";
+"edit_pro_saveInTemplateLib" = "Save to the template library so it can be applied to other media easily.";
 
 // 保存模版
 "edit_pro_saveTemplate" = "Save template";
@@ -327,7 +327,7 @@
 "edit_pro_style" = "Style";
 
 // 改变模版在模版库中名称
-"edit_pro_updateNameInTemplateLib" = "Update name in template library";
+"edit_pro_updateNameInTemplateLib" = "Update name in the template library.";
 
 // 原始大小
 "edit_toolTip_fitSelf" = "Fit to image";

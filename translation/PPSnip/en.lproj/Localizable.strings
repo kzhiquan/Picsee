@@ -18,7 +18,7 @@
 "snip_dialog_btnOK" = "OK";
 
 // 请在系统偏好设置，[安全与隐私]中，授予Picsee[屏幕录制]权限!
-"snip_dialog_msgRecordScreenPrivilegeTip" = "Please grant Picsee [Screen Recording] permission in the System Preferences.";
+"snip_dialog_msgRecordScreenPrivilegeTip" = "Please grant Picsee the [Screen Recording] permission in System Preferences.";
 
 // 提示
 "snip_dialog_titleTip" = "Information";
@@ -60,7 +60,7 @@
 "snip_pfc_checkBtnShowMagnifier" = "Show";
 
 // 捕捉点位置显示
-"snip_pfc_checkBtnShowMagnifierPosition" = "Show captured point postion";
+"snip_pfc_checkBtnShowMagnifierPosition" = "Show captured point position";
 
 // 捕捉窗口大小显示
 "snip_pfc_checkBtnShowMagnifierSize" = "Show captured area size";
@@ -99,10 +99,10 @@
 "snip_pfc_labelMaskBgColor" = "Mask background color";
 
 // 选择窗口时，按住Option键切换到拖拽区域
-"snip_pfc_labelOptionToSwitchDragAreaSnip" = "Hold down Option key to switch to drag area when select a window";
+"snip_pfc_labelOptionToSwitchDragAreaSnip" = "When selecting a window, hold down the Option key to switch to the drag area";
 
 // 完成截图时，按下Option键切换
-"snip_pfc_labelOptionToSwitchDragSnipShadow" = "Hold down Option key to switch when complete";
+"snip_pfc_labelOptionToSwitchDragSnipShadow" = "Once complete, hold down the Option key to switch";
 
 // 窗口选中颜色
 "snip_pfc_labelSelectedWinColor" = "Selected window color";
@@ -117,7 +117,7 @@
 "snip_pfc_labelSnipOption" = "Snip Option";
 
 // 未指定
-"snip_pfc_locationValueUnset" = "unspecified";
+"snip_pfc_locationValueUnset" = "Unspecified";
 
 // 截图
 "snip_pfc_snip" = "Snip";

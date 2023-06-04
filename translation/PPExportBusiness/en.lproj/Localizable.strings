@@ -9,7 +9,7 @@
 "export_body_btnCancel" = "Cancel";
 
 // 清除EXIF信息
-"export_body_btnClearExifMeta" = "Clear Exif";
+"export_body_btnClearExifMeta" = "Clear EXIF";
 
 // 全部导出
 "export_body_btnExportAll" = "Export all";
@@ -24,7 +24,7 @@
 "export_body_labelAccount" = "Account";
 
 // 将匿名上传至公共图床
-"export_body_labelAnnoyToUploadTip" = "Upload to public cloud storage anoymously";
+"export_body_labelAnnoyToUploadTip" = "Upload to public cloud storage anonymously";
 
 // 导出图片
 "export_body_labelExportPhoto" = "Export Media";
@@ -144,4 +144,4 @@
 "export_pfc_unset" = "unspecified";
 
 // 支持命令行导出，命令行导出时，请务必在[偏好设置->看图->打开设置]中授予完全磁盘访问
-"export_pfc_cmdExportPromptContent" = "Support command line export, but when using, be sure to authorize Picsee full disk access in [Preferences -> Viewer -> Open in Finder]";
+"export_pfc_cmdExportPromptContent" = "Support for command line export but, when using, be sure to authorize Picsee full disk access in [Preferences -> Viewer -> Open in Finder]";

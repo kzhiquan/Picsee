@@ -45,10 +45,10 @@
 "bar_item_extFrameShortcut" = "Shell\nShortcut: -";
 
 // 相对大小
-"bar_item_factorSize" = "Relatvie size";
+"bar_item_factorSize" = "Relative size";
 
 // 填充
-"bar_item_fillness" = "Filling";
+"bar_item_fillness" = "Fill";
 
 // 原始大小\n快捷键: Command + 0
 "bar_item_fitSelfShortcut" = "Fit to image size\nShortcut: Command + 0";
@@ -114,7 +114,7 @@
 "bar_item_mosaicSquareShortcut" = "Mosaic rectangle\nShortcut:3\nPress 3 to switch\nHold down shift to draw a square";
 
 // 画笔\n快捷键: 6
-"bar_item_pencilShortcut" = "Pencial\nShortcut:6";
+"bar_item_pencilShortcut" = "Pencil\nShortcut:6";
 
 // 贴到屏幕上\n快捷键: t
 "bar_item_pinShortcut" = "Pin on Desktop\nShortcut: t";

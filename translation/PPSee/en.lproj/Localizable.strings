@@ -3,10 +3,10 @@
 // Created by kzhiquan on 2021/11/10.
 // Copyright © 2021 zhiquan kong. All rights reserved.
 // 已是第一张
-"see_body_firstPage" = "The first one";
+"see_body_firstPage" = "First";
 
 // 已是最后一张
-"see_body_lastPage" = "The last one";
+"see_body_lastPage" = "Last";
 
 // 缩放比率
 "see_body_zoomValue" = "Zoom ratio";
@@ -18,22 +18,22 @@
 "see_dialog_btnOK" = "OK";
 
 // 阻止计算机进入休眠失败
-"see_dialog_msgAvoidToMakeComputerSleep" = "Failed to prevent computer from going to sleep";
+"see_dialog_msgAvoidToMakeComputerSleep" = "Failed to prevent computer from going to sleep.";
 
 // 确定要删除外部设备/网络磁盘上文件，注意：将彻底删除，不进入回收站！
-"see_dialog_msgDeleteExternalMeidaTip" = "Are your sure to delete the media which is from external device or network disk. They will be deleted completely without going into system trash.";
+"see_dialog_msgDeleteExternalMeidaTip" = "Are you sure you wish to delete the media which is from an external device or network disk? The media will be completely deleted without going into the system trash.";
 
 // 系统限制，不能授权整个磁盘
-"see_dialog_msgOpenEntireDiskTip" = "You can not authorize the entire disk";
+"see_dialog_msgOpenEntireDiskTip" = "You can not authorize the entire disk.";
 
 // Picsee需要授权读取当前图片所在目录，才能浏览该目录下所有图片，点击取消，将只打开单张图片。\n若想关闭该提示，请在Picsee偏好设置<看图>中关闭。
-"see_dialog_msgOpenPhotoAuthorizeFolderTip" = "If you want to browse all the media in the directory, please authorize Picsee. If you wan to trun off this prompt, close it in Picsee Preferences.";
+"see_dialog_msgOpenPhotoAuthorizeFolderTip" = "Picsee requires authorization to view all the media in the directory. Without authorization, Picsee will only open a single media item. This prompt can be disabled in Picsee's settings.";
 
 // 保存授权目录失败
-"see_dialog_msgSaveAuthorizedFolderFailed" = "Failed to save authorized directory";
+"see_dialog_msgSaveAuthorizedFolderFailed" = "Failed to save authorized directory.";
 
 // 保存文件夹授权信息失败！
-"see_dialog_msgSaveAuthorizedOfFolderFailed" = "Failed to save authorized directory";
+"see_dialog_msgSaveAuthorizedOfFolderFailed" = "Failed to save authorized directory.";
 
 // 授权
 "see_dialog_promptAuthorize" = "Authorize";
@@ -84,7 +84,7 @@
 "see_field_imageSize" = "Image size";
 
 // 信息
-"see_field_infomation" = "Infomation";
+"see_field_infomation" = "Information";
 
 // ISO感光度
 "see_field_isoSpeed" = "ISO speed";
@@ -105,7 +105,7 @@
 "see_field_shutterCount" = "Shutter count";
 
 // 拍摄时间
-"see_field_takeDate" = "Date taked";
+"see_field_takeDate" = "Date taken";
 
 // 白平衡
 "see_field_whiteBalance" = "White balance";
@@ -259,7 +259,7 @@
 "see_menu_starTwo" = "2 Stars";
 
 // 无星
-"see_menu_starZero" = "None Star";
+"see_menu_starZero" = "No Stars";
 
 // 标星
 "see_topbar_tipStar" = "Star";
