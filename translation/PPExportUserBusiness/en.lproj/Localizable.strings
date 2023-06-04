@@ -3,7 +3,7 @@
 // Created by kzhiquan on 2021/11/10.
 // Copyright © 2021 zhiquan kong. All rights reserved.
 // 验证失败, 请检查所填字段是否正确
-"bedUesr_dialog_msgValidFailedCheckFieldInputedAgain" = "Failed to verify, please check whetch the all fields filled are right";
+"bedUesr_dialog_msgValidFailedCheckFieldInputedAgain" = "Failed to verify. Please check if the information filled in is correct";
 
 // 确定
 "bedUser_dialog_btnOK" = "OK";
@@ -15,16 +15,16 @@
 "bedUser_dialog_msgDomainInputInvalid" = "Please enter a valid domain";
 
 // 只准许字母数字
-"bedUser_dialog_msgOnlyAllowToInputNum" = "Only Number and Alpha allow";
+"bedUser_dialog_msgOnlyAllowToInputNum" = "Only alphanumeric characters allowed";
 
 // 保存失败，与现有账户重名
-"bedUser_dialog_msgSaveFailedExisted" = "Failed to save, because the name already exists";
+"bedUser_dialog_msgSaveFailedExisted" = "Failed to save. The name already exists";
 
 // 保存成功
 "bedUser_dialog_msgSaveSuccess" = "Save success";
 
 // 验证失败, 请检查所填字段是否为空
-"bedUser_dialog_msgValidFailedCheckFieldIsNotEmpty" = "Failed to verify, please check whetch the field filled is empty";
+"bedUser_dialog_msgValidFailedCheckFieldIsNotEmpty" = "Failed to verify. Please check if the information filled in is correct";
 
 // 错误
 "bedUser_dialog_titleError" = "Error";
@@ -48,7 +48,7 @@
 "bedUser_pfc_btnSave" = "Save";
 
 // 必填[以https:或http:开头]
-"bedUser_pfc_holderDomainInputTip" = "Required[begins with https:// or http://]";
+"bedUser_pfc_holderDomainInputTip" = "Required [begins with https:// or http://]";
 
 // 填空, 将匿名上传到SMMS
 "bedUser_pfc_holderInputEmptyAnonyUploadToSMMS" = "Upload to SMMS anony if fill in empty";
@@ -57,22 +57,22 @@
 "bedUser_pfc_holderInputNoRequired" = "Optional";
 
 // 填入具体值
-"bedUser_pfc_holderInputValue" = "enter a specific value";
+"bedUser_pfc_holderInputValue" = "Enter a specific value";
 
 // 可选
 "bedUser_pfc_holderNotRequired" = "Optional";
 
 // 选填,当填写时,URL=前缀+URL路径值
-"bedUser_pfc_holderNotRequiredDomainTip" = "Optinal, when filled, UR";
+"bedUser_pfc_holderNotRequiredDomainTip" = "Optional. When filled in, URL = prefix + URL path value";
 
 // 选填,有默认域名
-"bedUser_pfc_holderNotRequiredHasDefaultDomain" = "Optinal, there is a default domain";
+"bedUser_pfc_holderNotRequiredHasDefaultDomain" = "Optional. There is a default domain";
 
 // 必填
 "bedUser_pfc_holderRequiredInput" = "Required";
 
 // 必填[只准许字母数字]
-"bedUser_pfc_holderRequiredToInputNumAndAlphabetOnly" = "Required[Only Number and Alpha allow]";
+"bedUser_pfc_holderRequiredToInputNumAndAlphabetOnly" = "Required [Only alphanumeric allowed]";
 
 // 返回JSON中的URL字段的路径
 "bedUser_pfc_holderResultPathTip" = "The return path of the URL field in JSON ";
@@ -141,7 +141,7 @@
 "bedUser_pfc_titleRepositoryName" = "Repository name";
 
 // 未命名
-"bedUser_pfc_uname" = "untitled";
+"bedUser_pfc_uname" = "Untitled";
 
 // 必填[us-east-2]
-"bedUser_pfc_valueRequiredExample" = "Required[us-east-2]";
+"bedUser_pfc_valueRequiredExample" = "Required [us-east-2]";

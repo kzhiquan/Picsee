@@ -9,7 +9,7 @@
 "draw_exif_batch" = "Batch";
 
 // Camero
-"draw_exif_cameroInfo" = "Camero info";
+"draw_exif_cameroInfo" = "Camera info";
 
 // 清除元信息
 "draw_exif_clear" = "Clear EXIF";
@@ -18,7 +18,7 @@
 "draw_exif_colofSpace" = "Color space";
 
 // 创建时间
-"draw_exif_createDate" = "Create date";
+"draw_exif_createDate" = "Created date";
 
 // 曝光时间
 "draw_exif_exposureTime" = "Exposure time";
@@ -75,16 +75,16 @@
 "draw_exif_model" = "Model";
 
 // 修改时间
-"draw_exif_modifyDate" = "Modify date";
+"draw_exif_modifyDate" = "Modified date";
 
 // 信息
-"draw_exif_seeImageInfo" = "Infomation";
+"draw_exif_seeImageInfo" = "Information";
 
 // 软件
 "draw_exif_software" = "Software";
 
 // 拍摄时间
-"draw_exif_takeDate" = "Take date";
+"draw_exif_takeDate" = "Taken date";
 
 // 白平衡
 "draw_exif_whiteBalance" = "White balance";
@@ -99,7 +99,7 @@
 "draw_mosaicStyle_crystal" = "Crystal";
 
 // 模糊
-"draw_mosaicStyle_gaussionBlur" = "Gaussion blur";
+"draw_mosaicStyle_gaussionBlur" = "Gaussian blur";
 
 // 菱形
 "draw_mosaicStyle_hexagon" = "Hexagon";
@@ -129,7 +129,7 @@
 "draw_type_ellipse" = "Ellipse";
 
 // 外壳
-"draw_type_extFrame" = "Shell";
+"draw_type_extFrame" = "Frame";
 
 // 平箭头
 "draw_type_flatArrow" = "Flat arrow";
@@ -171,7 +171,7 @@
 "draw_type_pencil" = "Pencil";
 
 // 凹箭头
-"draw_type_snikArrow" = "Snik arrow";
+"draw_type_snikArrow" = "Sink arrow";
 
 // 矩形
 "draw_type_square" = "Square";

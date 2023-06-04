@@ -15,7 +15,7 @@
 "export_auth_errorCannotFindReturnInfo" = "There is no response";
 
 // 域名绑定信息有误
-"export_auth_errorDomainBoundWrong" = "There is an error for the domain bound";
+"export_auth_errorDomainBoundWrong" = "There is an error with the bound domain";
 
 // 文件名不符合URL编码规范
 "export_auth_errorFileNameNotConfirmToSpecification" = "The file name does not conform to the URL encoding specification";
@@ -27,10 +27,10 @@
 "export_auth_errorHTMLParseFailed" = "Failed to parse HTML";
 
 // 计算请求头失败，请检查所填信息是否正确
-"export_auth_errorMakeRequestHeaderFailedTip" = "Failed to make request header, please check whetch the fields inputed is all right";
+"export_auth_errorMakeRequestHeaderFailedTip" = "Failed to make request header. Please check if the information filled in is correct.";
 
 // 计算请求路径失败，请检查所填信息是否正确
-"export_auth_errorMakeRequestUrlFailedTip" = "Failed to make request URL, please check whetch the field filled in is right";
+"export_auth_errorMakeRequestUrlFailedTip" = "Failed to make request URL. Please check if the information filled in is correct.";
 
 // 未能解析etag
 "export_auth_errorParseEtagFailed" = "Failed to parse etag";
@@ -45,10 +45,10 @@
 "export_auth_errorRequestObjHaveReleased" = "The requested object has been released";
 
 // 返回数据为空
-"export_auth_errorReturnDataIsEmpty" = "It is empty for the response";
+"export_auth_errorReturnDataIsEmpty" = "The returned response is empty";
 
 // 返回信息为空
-"export_auth_errorReturnInfoEmpty" = "It is empty for the response";
+"export_auth_errorReturnInfoEmpty" = "The returned response is empty";
 
 // 测试数据准备失败
 "export_auth_errorTestDataPrepareFailed" = "Failed to prepare test data";
@@ -57,7 +57,7 @@
 "export_auth_errorUnknownError" = "Unknown error";
 
 // 上传成功，但是解析URL数据失败
-"export_auth_errorUploadSuccessButParseUrlFailed" = "Upload successful, but failed to parse URL";
+"export_auth_errorUploadSuccessButParseUrlFailed" = "Upload successful but failed to parse URL";
 
 // url 字符串初始化失败
 "export_auth_errorUrlInitFailed" = "Failed to initialize URL string";

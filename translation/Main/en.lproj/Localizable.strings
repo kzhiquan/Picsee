@@ -15,10 +15,10 @@
 "app_dialog_btnSave" = "Save";
 
 // 后台正在导出，请稍后再试!
-"app_dialog_msgBgIsExporting" = "It is exporting in background, try it later!";
+"app_dialog_msgBgIsExporting" = "It is exporting in the background. Please try again later!";
 
 // 剪贴版中没有可操作的对象!
-"app_dialog_msgPasteboardNoObjects" = "There is no media on clipboard to handle!";
+"app_dialog_msgPasteboardNoObjects" = "There is no useable media on the clipboard!";
 
 // 提示
 "app_dialog_titleTip" = "Information";
@@ -45,7 +45,7 @@
 "app_pfc_app" = "Application";
 
 // 外观
-"app_pfc_apperance" = "Apperance";
+"app_pfc_apperance" = "Appearance";
 
 // 编辑剪切板中的对象
 "app_pfc_editPasteboardObj" = "Edit Media From Clipboard";
@@ -81,16 +81,16 @@
 "app_pfc_snip" = "Snip";
 
 // 提示授权所在目录读取权限
-"app_showcase_auhtorizedFolderPrivilege" = "Prompt to authorize read permission of diretory";
+"app_showcase_auhtorizedFolderPrivilege" = "Prompt to authorize read permission of directory";
 
 // 授权文件夹
 "app_showcase_authorizedFolder" = "Authorized Folders";
 
 // 注: 当前输入监听已授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
-"app_showcase_authorizedMagicMousePageTip" = "Note:  Input Monitoring is authorized; Magic mouse slides up or down to zoom, left or right to trun page, press and hold Commnad/Option key to move in the image";
+"app_showcase_authorizedMagicMousePageTip" = "Note: Input Monitoring is authorized. Using a Magic Mouse, swipe up or down to zoom and swipe left or right to change pages. Hold the Option or Command key to move around the image.";
 
 // 注: 当前输入监听已授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
-"app_showcase_authorizedMagicMouseZoomTip" = "Note: Magic mouse slides up or down to zoom, left or right to trun page, press and hold Commnad/Option key to move in the image";
+"app_showcase_authorizedMagicMouseZoomTip" = "Note: Using a Magic Mouse, swipe up or down to zoom and swipe left or right to change pages. Hold the Option or Command key to move around the image.";
 
 // 所在目录包含视频文件
 "app_showcase_containsMovie" = "Contains video when open directory";
@@ -105,7 +105,7 @@
 "app_showcase_edit" = "Edit";
 
 // 编辑画布
-"app_showcase_editCanvas" = "Edit Cavas";
+"app_showcase_editCanvas" = "Edit Canvas";
 
 // 辅助选项
 "app_showcase_helpOption" = "Auxiliary Options";
@@ -114,19 +114,19 @@
 "app_showcase_hideNavThumb" = "Hide navigation";
 
 // 按住Commad键切换图片
-"app_showcase_holdCommandToSwitch" = "Press and hold Command key to turn pages, Option key to move in image";
+"app_showcase_holdCommandToSwitch" = "Press and hold the Command key to change pages. Use the Option key to move around an image.";
 
 // 按住Commad键缩放图片
-"app_showcase_holdCommandToZoom" = "Press and hold Command key to zoom image, Option key to move in image";
+"app_showcase_holdCommandToZoom" = "Press and hold the Command key to zoom in or out. Use the Option key to move around an image.";
 
 // 限制Magic鼠标左右滑动翻页(输入监听授权时有效)
-"app_showcase_limitMagicMouseLeftRightScroll" = "Restrict Magic mouse sliding left and right to page";
+"app_showcase_limitMagicMouseLeftRightScroll" = "Restrict Magic Mouse swiping left and right to page";
 
 // 限制Magic鼠标上下滑动缩放(输入监听授权时有效)
-"app_showcase_limitMagicMouseTopDownScroll" = "Restrict Magic mouse sliding up and down to zoom";
+"app_showcase_limitMagicMouseTopDownScroll" = "Restrict Magic Mouse swiping up and down to zoom";
 
 // 长图自动定位到顶部
-"app_showcase_longPhotoAutoGotoTop" = "Anchor to top automatically when height is big";
+"app_showcase_longPhotoAutoGotoTop" = "Automatically anchor tall images to the top";
 
 // 鼠标滚轮
 "app_showcase_mouseScroll" = "Mouse Scroll";
@@ -135,7 +135,7 @@
 "app_showcase_scrollDirection" = "Scroll Direction";
 
 // 只在输入监听授权时对触摸板有效
-"app_showcase_scrollVerticalTouchpadTip" = "Note: Scroll to trun pages base on the direction you select, tt is only valid for touchpad when input monitoring is authorized";
+"app_showcase_scrollVerticalTouchpadTip" = "Note: Scroll to change pages based on the direction you select. It is only valid for the touchpad when input monitoring is authorized.";
 
 // 查看
 "app_showcase_see" = "View";
@@ -153,10 +153,10 @@
 "app_showcase_turnOnScrollAnimation" = "Swipe animation";
 
 // 注: 当前输入监听未授权, 请在偏好设置中授权，获取更好的滑动体验: Magic鼠标按住Command键, 在图片内移动.
-"app_showcase_unauthorizedMagicMousePageTip" = "Note: To get better experience, please check on scroll enhancement";
+"app_showcase_unauthorizedMagicMousePageTip" = "Note: To get a better experience, please turn on scroll enhancement.";
 
 // 注: 当前输入监听未授权; Magic鼠标上下滑动可缩放，左右可翻页, 按住Command键, 在图片内移动.
-"app_showcase_unauthorizedMagicMouseZoomTip" = "Note: Magic mouse scroll up or down to zoom, left or right to turn pages. To get better experience, please check on scroll enhancement";
+"app_showcase_unauthorizedMagicMouseZoomTip" = "Note: Using a Magic Mouse, swipe up or down to zoom and swipe left or right to change pages. To get a better experience, please turn on scroll enhancement.";
 
 // 看图
 "app_showcase_viewPhoto" = "Viewer";
@@ -183,7 +183,7 @@
 "app_statusBar_clearHistory" = "Clear History";
 
 // 复制成功
-"app_statusBar_copySuccess" = "Copy successfully";
+"app_statusBar_copySuccess" = "Copied successfully";
 
 // 编辑
 "app_statusBar_edit" = "Edit";
@@ -234,7 +234,7 @@
 "app_unit_sheet" = " ";
 
 // 请及时更新至新版本
-"app_upgrade_msg" = "Please to upgrade the latest version";
+"app_upgrade_msg" = "Please upgrade to the latest version";
 
 // 更新提示
 "app_upgrade_title" = "Upgrade Tip";
@@ -243,13 +243,13 @@
 "export_task_localDisk" = "Local disk";
 
 // 输入监听授权时有效
-"app_showcase_limitMagicMouseScrollTip" = "It is only valid when input monitoring is authorized";
+"app_showcase_limitMagicMouseScrollTip" = "This only applies when input monitoring is authorized";
 
 // 滚动鼠标滚轮，在图片内移动
-"app_showcase_scrollWheelToMove" = "Scroll mouse wheel to move in image";
+"app_showcase_scrollWheelToMove" = "Scroll mouse wheel to move around an image";
 
 // 注：翻页判断方向
-"app_showcase_scrollPageDirectionCalulcateTip" = "Note: Scroll to trun pages base on the direction you select";
+"app_showcase_scrollPageDirectionCalulcateTip" = "Note: Scroll to change pages based on the direction you have selected.";
 
 // 打开选项
 "app_showcase_openOption" = "Open Options";
@@ -276,7 +276,7 @@
 "app_showcase_labelScrollZoomSensitivity" = "Scroll zoom sensitivity";
 
 // 查看外观
-"app_showcase_labelSeeAppearance" = "Apperance";
+"app_showcase_labelSeeAppearance" = "Appearance";
 
 // 底栏
 "app_showcase_labelSeeBottomBarPinType" = "Top Bar";
@@ -294,10 +294,10 @@
 "app_buy_albumThresholdMsg" = "1. The maximum number of media to manage: ";
 
 // 3. Finder打开查看素材当天最多可使用次数:
-"app_buy_finderSeeThresholdMsg" = "3. The maximum number of times to view one day: ";
+"app_buy_finderSeeThresholdMsg" = "3. The maximum number of times to view in one day: ";
 
 // 2. 截图当天最多可使用次数:
-"app_buy_snipThresholdMsg" = "2. The maximum number of times to snip one day: ";
+"app_buy_snipThresholdMsg" = "2. The maximum number of times to snip in one day: ";
 
 // 继续试用
 "app_dialog_btnContinueToTry" = "Unlock Later";
@@ -309,13 +309,13 @@
 "app_dialog_btnUpgradeToUnlock" = "Unlock";
 
 // 支持我们开发Picsee,带来更好的用户体验！
-"app_dialog_msgSubcribe" = "It is beyond max limitation using today, please unlock to support us developping Picsee better!";
+"app_dialog_msgSubcribe" = "This is beyond the maximum limitation for usage today. Please consider unlocking to help support us in the development of Picsee.";
 
 // 滑动设置
 "app_showcase_scrollSet" = "Scroll";
 
 // 注: 超过限制, Picsee还可继续试用，但会不定时提示升级购买！
-"app_buy_alertBuyMsgRule" = "Note: If beyond maximum, Picsee can continue using in trial, but will prompt to purchase sometimes!";
+"app_buy_alertBuyMsgRule" = "Note: If you go beyond the maximum limitations, Picsee will continue to be available for trial but will occasionally prompt you to purchase.";
 
 // 完全磁盘访问
 "app_showcase_BtnFullDiskAccess" = "Full disk access";
@@ -327,16 +327,16 @@
 "app_showcase_pageSensitivity" = "Page Sensitivity";
 
 // 非Magic鼠标有效，值越小，翻页越灵敏
-"app_showcase_pageSensitivityTip" = "It is for Non-Magic mouse. The smaller, the more sensitive.";
+"app_showcase_pageSensitivityTip" = "This is for non-Magic Mouse users. The lower the number, the higher the sensitivity.";
 
 // 翻页速度
 "app_showcase_pageSpeed" = "Page Speed";
 
 // 非Magic鼠标有效，单位秒，时间越小，翻动越快
-"app_showcase_pageSpeedTip" = "It is for Non-Magic mouse. The smaller, the faster.";
+"app_showcase_pageSpeedTip" = "This is for non-Magic Mouse users. The lower the number, the faster the speed.";
 
 // 鼠标移进立即显示，移开立即隐藏
-"app_showcase_barShowHideImmediate" = "Mouse moves in/out to show/hide immediately";
+"app_showcase_barShowHideImmediate" = "Mouse moves in/out to show/hide bars immediately";
 
 // 鼠标控制
 "app_showcase_mouseControl" = "Mouse Control";
@@ -345,19 +345,19 @@
 "app_showcase_mouseScrollSmooth" = "Smooth Scrolling";
 
 // 非Magic鼠标滚动更加平滑。需先开启滑动增强。建议安装使用Mos/Smooze Pro等软件的用户，不勾选，存在冲突。
-"app_showcase_mouseScrollSmoothTip" = "Make Non-Magic mouse scrolling butter-smooth. If you use Mos/Smooze Pro, do not check it on";
+"app_showcase_mouseScrollSmoothTip" = "Make non-Magic Mouse scrolling buttery smooth. If you use Mos/Smooze Pro, do not check this on.";
 
 // 滑动增强
 "app_showcase_mouseScrollStrengthen" = "Scroll enhancement";
 
 // 增强鼠标控制，需在系统偏好设置中授权Picsee输入监听权限
-"app_showcase_mouseScrollStrengthenTip" = "Please authorize Picsee Input Monitoring permission in System Preferences firstly";
+"app_showcase_mouseScrollStrengthenTip" = "Please authorize the Picsee Input Monitoring permission in System Preferences first.";
 
 // 鼠标设置
 "app_showcase_mouseSet" = "Mouse";
 
 // 请先在系统偏好设置中授予Picsee输入监听权限!
-"app_dialog_mouseScrollStrengthMsg" = "Please grant Picsee Input Monitoring permission in System Preferences first!";
+"app_dialog_mouseScrollStrengthMsg" = "Please authorize the Picsee Input Monitoring permission in System Preferences first!";
 
 // 当前平滑滚动已在工作。
 "app_showcase_mouseScrollSmoothWorkingTip" = "Smooth scrolling is already working.";
@@ -369,7 +369,7 @@
 "app_showcase_mouseScrollStrengthenWorkingTip" = "Scroll enhancement is working.";
 
 // 安装使用Mos/Smooze Pro等改变鼠标行为软件的用户，请谨慎配置。使用后，鼠标行为模拟Magic鼠标。某些情况下，可能会与滑动增强/平滑滚动冲突。若发生，请仔细排查，找到符合自己鼠标和使用习惯的配置。
-"app_showcase_mouseMosExtTip" = "Users who install and use software that changes mouse behavior such as Mos/Smooze Pro, please Config carefully. Because when mouse behavior simulates to Magic mouse, in some cases, it may conflict with Scroll enhancement/Smooth scrolling. If it happens, please check carefully to find best configuration.";
+"app_showcase_mouseMosExtTip" = "Users who install and use software that changes mouse behavior, such as Mos/Smooze Pro, please configure the settings carefully. This is because when mouse behavior simulates a Magic Mouse, in some cases, it may conflict with Scroll enhancement and/or Smooth scrolling. If this happens, please try the settings carefully to find the best configuration.";
 
 // 关闭窗口
 "app_showcase_closeWin" = "Close Window";
@@ -541,7 +541,7 @@
 "buy_pfc_labelEntitlementPro" = "Picsee Pro Version";
 
 // 购买后解锁所有功能
-"buy_pfc_labelProductTip" = "Unlock all features after purchase";
+"buy_pfc_labelProductTip" = "Unlock all features after purchase.";
 
 // 账户
 "buy_pfc_title" = "User";

@@ -48,7 +48,7 @@
 "public_browserOrder_byFileSize" = "File size";
 
 // 修改时间
-"public_browserOrder_byModfication" = "Modificatioin";
+"public_browserOrder_byModfication" = "Modification";
 
 // 文件大小倒序
 "public_browserOrder_byFileSizeReverse" = "File size reverse";
@@ -57,10 +57,10 @@
 "public_browserOrder_byModficationReverse" = "Modification reverse";
 
 // 与滑动方向相反
-"public_pageDirection_reverseToScrollDirection" = "Reverse to scroll direction";
+"public_pageDirection_reverseToScrollDirection" = "Reverse of scroll direction";
 
 // 与滑动方向一致
-"public_pageDirection_sameToScrollDirection" = "Same with scroll direction";
+"public_pageDirection_sameToScrollDirection" = "Same as scroll direction";
 
 // 授权
 "public_dialog_authorize" = "Authorize";
