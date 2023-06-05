@@ -1,0 +1,295 @@
+// 自动
+"see_barPinType_auto" = "自動";
+
+// 隐藏
+"see_barPinType_hide" = "隠す";
+
+// 显示
+"see_barPinType_show" = "表示";
+
+// Localizable.strings
+//   Picsee
+// 
+//   Created by kzhiquan on 2022/6/19.
+//   Copyright © 2022 zhiquan kong. All rights reserved.
+// 已是第一张
+"see_body_firstPage" = "すでに1枚目";
+
+// 已是最后一张
+"see_body_lastPage" = "これが最後の1枚";
+
+// 缩放比率
+"see_body_zoomValue" = "拡大縮小率";
+
+// 取消
+"see_dialog_btnCancel" = "キャンセル";
+
+// 确定
+"see_dialog_btnOK" = "確認";
+
+// 阻止计算机进入休眠失败
+"see_dialog_msgAvoidToMakeComputerSleep" = "コンピュータのハイバネーション防止に失敗しました";
+
+// 确定要删除外部设备/网络磁盘上文件，注意：将彻底删除，不进入回收站！
+"see_dialog_msgDeleteExternalMeidaTip" = "外付けデバイス/ネットワークディスクのファイルを削除することを確認してください。注：ごみ箱に入れずに完全に削除されます。";
+
+// 系统限制，不能授权整个磁盘
+"see_dialog_msgOpenEntireDiskTip" = "システムの制限により、ディスク全体へのライセンスはできません";
+
+// Picsee需要授权读取当前图片所在目录，才能浏览该目录下所有图片，点击取消，将只打开单张图片。\n若想关闭该提示，请在Picsee偏好设置<看图>中关闭。
+"see_dialog_msgOpenPhotoAuthorizeFolderTip" = "Picsee は、現在の画像が置かれているディレクトリ内のすべての画像を表示するために、そのディレクトリを読み込む権限を必要とします。 このプロンプトをオフにするには、Picseeの環境設定<画像を見る>で行ってください。";
+
+// 保存授权目录失败
+"see_dialog_msgSaveAuthorizedFolderFailed" = "認証済みディレクトリの保存に失敗しました";
+
+// 保存文件夹授权信息失败！
+"see_dialog_msgSaveAuthorizedOfFolderFailed" = "フォルダーの認証情報の保存に失敗しました。";
+
+// 授权
+"see_dialog_promptAuthorize" = "オーソライズ";
+
+// 提示
+"see_dialog_titleTip" = "インフォメーション";
+
+// 色彩模型
+"see_field_colorModel" = "カラーモデル";
+
+// 创建时间
+"see_field_createDate" = "作成時間";
+
+// 设备制造商
+"see_field_deviceMaker" = "機器メーカー";
+
+// 设备型号
+"see_field_deviceModel" = "機器モデル";
+
+// 曝光偏差
+"see_field_exposureBias" = "露出の偏り";
+
+// 曝光模式
+"see_field_exposureMode" = "露光モード";
+
+// 曝光程序
+"see_field_exposureProgram" = "露光手順";
+
+// 曝光时间
+"see_field_exposureTime" = "露光時間";
+
+// 光圈数
+"see_field_fNum" = "開口数";
+
+// 大小
+"see_field_fileSize" = "ファイルサイズ";
+
+// 闪光灯
+"see_field_flash" = "フラッシュ";
+
+// 焦距
+"see_field_focalLen" = "焦点距離";
+
+// 格式
+"see_field_format" = "フォーマット";
+
+// 尺寸
+"see_field_imageSize" = "サイズ";
+
+// 信息
+"see_field_infomation" = "特徴";
+
+// ISO感光度
+"see_field_isoSpeed" = "ISO感度";
+
+// 镜头型号
+"see_field_lensModel" = "レンズモデル";
+
+// 测光模式
+"see_field_meteringMode" = "測光モード";
+
+// 修改时间
+"see_field_modifyDate" = "変更時間";
+
+// 名称
+"see_field_name" = "名称";
+
+// 图像编号
+"see_field_shutterCount" = "画像番号";
+
+// 拍摄时间
+"see_field_takeDate" = "撮影時間";
+
+// 白平衡
+"see_field_whiteBalance" = "ホワイトバランス";
+
+// 关闭窗口
+"see_menu_closeWin" = "閉じる";
+
+// 复制文件
+"see_menu_copyFile" = "コピー原稿";
+
+// 复制文件路径
+"see_menu_copyFilePath" = "ファイルパスのコピー";
+
+// 删除文件
+"see_menu_deleteFile" = "ドキュメントを削除する";
+
+// 导出素材
+"see_menu_exportMedia" = "メディアの書き出し";
+
+// 导出...
+"see_menu_exportTo" = "輸出...";
+
+// 适应图片
+"see_menu_fitImage" = "画像サイズの適応";
+
+// 适应窗口
+"see_menu_fitWin" = "アダプテーションウィンドウ";
+
+// 悬浮窗口
+"see_menu_floatWin" = "ホバーウィンドウ";
+
+// 更多
+"see_menu_more" = "もっと見る";
+
+// 鼠标滚轮移动图片
+"see_menu_mouseScrollToMove" = "マウスホイールによる絵の移動";
+
+// 鼠标滚轮左右翻页
+"see_menu_mouseScrollToPage" = "マウスホイールで左右にページをめくることができる";
+
+// 鼠标滚轮缩放图片
+"see_menu_mouseScrollToZoom" = "マウスホイールで画像の拡大・縮小が可能";
+
+// 在默认应用中打开
+"see_menu_openInDefaultApp" = "デフォルトのアプリケーションで開く";
+
+// 在新窗口中打开
+"see_menu_openInNewWin" = "新しいウィンドウで開く";
+
+// 在其他应用中打开
+"see_menu_openInOtherApp" = "他のアプリケーションで開く";
+
+// 钉在桌面
+"see_menu_pinOnDesktop" = "画面へのピン留め";
+
+// 快速导出
+"see_menu_quickExport" = "クイックエクスポート";
+
+// 存储到...
+"see_menu_saveTo" = "に格納します...";
+
+// 设置为桌面
+"see_menu_setAsDesktop" = "デスクトップの背景に設定する";
+
+// 在Finder中显示
+"see_menu_showInFinder" = "Finderに表示する";
+
+// 开启/关闭滑动动画
+"see_menu_togglePageScrollAnimation" = "スライドアニメーションのON/OFF";
+
+// 显示/隐藏右侧元信息
+"see_menu_toggleShowInfoBar" = "右側のメタ情報の表示/非表示";
+
+// 显示/隐藏导航缩略
+"see_menu_toggleShowNavThumb" = "ナビゲーションサムネイルの表示／非表示";
+
+// 显示/隐藏左侧缩略图
+"see_menu_toggleShowThumb" = "左側サムネイルの表示/非表示";
+
+// 上传到
+"see_menu_uploadTo" = "にアップロードしてください";
+
+// 窗口设置
+"see_menu_windowSet" = "ウィンドウの設定";
+
+// 适应图片
+"see_wintype_fitImage" = "画像サイズの適応";
+
+// 适应窗口
+"see_wintype_fitWin" = "アダプテーションウィンドウ";
+
+// 锁定缩放比率
+"see_menu_lockRatio" = "ロックズーム比";
+
+// 无效果
+"see_menu_playEffectNone" = "特殊効果なし";
+
+// 5秒
+"see_menu_playFiveSec" = "5秒";
+
+// 1秒
+"see_menu_playOneSec" = "1秒";
+
+// 循环
+"see_menu_playStyleLoop" = "周期";
+
+// 随机
+"see_menu_playStyleRandom" = "ランダム";
+
+// 2秒
+"see_menu_playTwoSec" = "2秒";
+
+// 停止播放
+"see_menu_stopPlay" = "再生を停止します";
+
+// 上一页
+"see_topbar_tipPageLeft" = "前のページ";
+
+// 下一页
+"see_topbar_tipPageRight" = "次のページ";
+
+// 钉在桌面
+"see_topbar_tipPin" = "デスクトップに固定";
+
+// 幻灯片播放
+"see_topbar_tipPlay" = "スライドショー";
+
+// 5星
+"see_menu_starFive" = "5つ星";
+
+// 4星
+"see_menu_starFour" = "4つ星";
+
+// 1星
+"see_menu_starOne" = "1つ星";
+
+// 3星
+"see_menu_starThree" = "3つ星";
+
+// 2星
+"see_menu_starTwo" = "2つ星";
+
+// 无星
+"see_menu_starZero" = "星なし";
+
+// 标星
+"see_topbar_tipStar" = "スター";
+
+// 循环播放
+"see_video_loop" = "ループ";
+
+// 取消循环播放
+"see_video_loopCancel" = "アンループ";
+
+// 静音
+"see_video_mute" = "ミュート";
+
+// 取消静音
+"see_video_muteCancel" = "ミュート解除";
+
+// 暂停
+"see_video_pause" = "一時停止";
+
+// 播放
+"see_video_play" = "遊ぶ";
+
+// 倒退5s
+"see_video_speedBackward" = "後方";
+
+// 播放速度加倍
+"see_video_speedFaster" = "スピードアップ";
+
+// 快进5s
+"see_video_speedForward" = "前方";
+
+// 播放速度减半
+"see_video_speedLower" = "スピードダウン";

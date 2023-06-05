@@ -7,7 +7,7 @@
 */
 
 /* 读取网络文件夹下的照片，以便进行查看和管理。 */
-"NSNetworkVolumesUsageDescription" = "ネットワークフォルダ内の写真を解析し、より簡単に表示・管理することができます。";
+"NSNetworkVolumesUsageDescription" = "ネットワークフォルダーから写真を取得して表示および管理する.";
 
 /* 读取本机图库，以便查看和管理。 */
-"NSPhotoLibraryUsageDescription" = "ネイティブギャラリーを解析し、写真を簡単に表示・管理できるようにします。";
+"NSPhotoLibraryUsageDescription" = "写真ライブラリにアクセスして表示および管理する.";

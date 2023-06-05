@@ -1,0 +1,189 @@
+/* 
+  BarLocalizable.strings
+  Picsee
+
+  Created by kzhiquan on 2022/6/23.
+  Copyright © 2022 zhiquan kong. All rights reserved.
+*/
+// 批量应用
+"bar_item_batchApply" = "批量应用";
+
+// 取消\n快捷键: Esc
+"bar_item_cancelShortcut" = "取消\n快捷键: Esc";
+
+// 清除元数据
+"bar_item_clearExif" = "清除元数据";
+
+// 当前颜色
+"bar_item_color" = "当前颜色";
+
+// 颜色面板
+"bar_item_colorPanel" = "颜色面板";
+
+// 复制到剪切板\n快捷键: Enter 或 Space
+"bar_item_copyShortcut" = "复制到剪切板\n快捷键: Enter 或 Space";
+
+// 裁剪\n快捷键: 9\n双击裁切区域进行裁剪
+"bar_item_cropShortcut" = "裁剪\n快捷键: 9\n双击裁切区域进行裁剪";
+
+// 删除\n快捷键: Delete
+"bar_item_deleteShortcut" = "删除\n快捷键: Delete";
+
+// 保存到本地\n快捷键: Command + s\n按下Shift + Command + s 同时保存截图到剪切板和文件
+"bar_item_downloadShortcut" = "保存到本地\n快捷键: Command + s\n按下Shift + Command + s 同时保存截图到剪切板和文件";
+
+// 编辑图片\n快捷键：Command + e
+"bar_item_editShortcut" = "编辑图片\n快捷键：Command + e";
+
+// 椭圆\n快捷键: 1\n连续按1切换\n按住shift绘制圆
+"bar_item_ellipseShortcut" = "椭圆\n快捷键: 1\n连续按1切换\n按住shift绘制圆";
+
+// 导出
+"bar_item_exportShortcut" = "导出";
+
+// 外壳\n快捷键: -
+"bar_item_extFrameShortcut" = "外壳\n快捷键: -";
+
+// 相对大小
+"bar_item_factorSize" = "相对大小";
+
+// 填充
+"bar_item_fillness" = "填充";
+
+// 原始大小\n快捷键: Command + 0
+"bar_item_fitSelfShortcut" = "原始大小\n快捷键: Command + 0";
+
+// 适应窗口\n快捷键: Command + 9
+"bar_item_fitWinShortcut" = "适应窗口\n快捷键: Command + 9";
+
+// 平箭头\n快捷键: 2\n连续按2切换
+"bar_item_flatArrowShortcut" = "平箭头\n快捷键: 2\n连续按2切换";
+
+// 水平翻转\n快捷键: Command + b
+"bar_item_flipHorizontalShortcut" = "水平翻转\n快捷键: Command + b";
+
+// 垂直翻转\n快捷键: Command + y
+"bar_item_flipVerticalShortcut" = "垂直翻转\n快捷键: Command + y";
+
+// 字体选择
+"bar_item_fontSelect" = "字体选择";
+
+// 返回\n快捷键: Esc
+"bar_item_galleryShortcut" = "返回\n快捷键: Esc";
+
+// 高亮椭圆\n快捷键: 4\n连续按4切换\n按住shift绘制圆
+"bar_item_highlightEllipseShortcut" = "高亮椭圆\n快捷键: 4\n连续按4切换\n按住shift绘制圆";
+
+// 高亮画笔\n快捷键: 4\n连续按4切换
+"bar_item_highlightPencilShortcut" = "高亮画笔\n快捷键: 4\n连续按4切换";
+
+// 高亮矩形\n快捷键: 4\n连续按4切换\n按住shift绘制正方形
+"bar_item_highlightSquareShortcut" = "高亮矩形\n快捷键: 4\n连续按4切换\n按住shift绘制正方形";
+
+// 图片\n快捷键: 8
+"bar_item_imageMarkShortcut" = "图片\n快捷键: 8";
+
+// 图片信息\n快捷键: Command + i
+"bar_item_infoShortcut" = "图片信息\n快捷键: Command + i";
+
+// 区域标注\n快捷键: 5\n连续按5切换
+"bar_item_labelAreaShortcut" = "区域标注\n快捷键: 5\n连续按5切换";
+
+// 颜色标注\n快捷键: 5\n连续按5切换
+"bar_item_labelColorShortcut" = "颜色标注\n快捷键: 5\n连续按5切换";
+
+// 长度标注\n快捷键: 5\n连续按5切换
+"bar_item_labelLengthShortcut" = "长度标注\n快捷键: 5\n连续按5切换";
+
+// 文本标注\n快捷键: 5\n连续按5切换
+"bar_item_labelTextShortcut" = "文本标注\n快捷键: 5\n连续按5切换";
+
+// 直线\n快捷键: 2\n连续按2切换
+"bar_item_lineShortcut" = "直线\n快捷键: 2\n连续按2切换";
+
+// 放大镜\n快捷键: 0
+"bar_item_magnifierShortcut" = "放大镜\n快捷键: 0";
+
+// 马赛椭圆\n快捷键: 3\n连续按3切换\n按住shift绘制圆
+"bar_item_mosaicEllipseShortcut" = "马赛椭圆\n快捷键: 3\n连续按3切换\n按住shift绘制圆";
+
+// 马赛画笔\n快捷键: 3\n连续按3切换
+"bar_item_mosaicPencilShortcut" = "马赛画笔\n快捷键: 3\n连续按3切换";
+
+// 马赛矩形\n快捷键: 3\n连续按3切换\n按住shift绘制正方形
+"bar_item_mosaicSquareShortcut" = "马赛矩形\n快捷键: 3\n连续按3切换\n按住shift绘制正方形";
+
+// 画笔\n快捷键: 6
+"bar_item_pencilShortcut" = "画笔\n快捷键: 6";
+
+// 贴到屏幕上\n快捷键: t
+"bar_item_pinShortcut" = "贴到屏幕上\n快捷键: t";
+
+// 选择框
+"bar_item_popupSelect" = "选择框";
+
+// 图片预览
+"bar_item_preview" = "图片预览";
+
+// 重做\n快捷键: Shift + Command + z
+"bar_item_redoShortcut" = "重做\n快捷键: Shift + Command + z";
+
+// 向左翻转\n快捷键: Command + l
+"bar_item_rotateLeftShortcut" = "向左翻转\n快捷键: Command + l";
+
+// 向右翻转\n快捷键: Command + r
+"bar_item_rotateRightShortcut" = "向右翻转\n快捷键: Command + r";
+
+// 另存储为
+"bar_item_saveAs" = "另存储为";
+
+// 存储(覆盖)\n快捷键：Command + s
+"bar_item_saveShortcut" = "存储(覆盖)\n快捷键：Command + s";
+
+// 放大倍数
+"bar_item_scaleSlider" = "放大倍数";
+
+// 滚动截屏\n快捷键: s
+"bar_item_scrollcutShortcut" = "滚动截屏\n快捷键: s";
+
+// 浏览\n快捷键: Command + e
+"bar_item_seeShortcut" = "浏览\n快捷键: Command + e";
+
+// 选择\n快捷键: q
+"bar_item_selectShortcut" = "选择\n快捷键: q";
+
+// 分隔符
+"bar_item_separator" = "分隔符";
+
+// 导出到\n快捷键: Command + u
+"bar_item_shareShortcut" = "导出到\n快捷键: Command + u";
+
+// 凹箭头\n快捷键: 2\n连续按2切换
+"bar_item_sinkArrowShortcut" = "凹箭头\n快捷键: 2\n连续按2切换";
+
+// 矩形\n快捷键: 1\n连续按1切换\n按住shift绘制正方形
+"bar_item_squareShortcut" = "矩形\n快捷键: 1\n连续按1切换\n按住shift绘制正方形";
+
+// 模版库
+"bar_item_templateLib" = "模版库";
+
+// 文本\n快捷键: 7
+"bar_item_textMarkShortcut" = "文本\n快捷键: 7";
+
+// 粗细
+"bar_item_thickness" = "粗细";
+
+// 缩略图
+"bar_item_thumb" = "缩略图";
+
+// 撤销\n快捷键: Command + z
+"bar_item_undoShortcut" = "撤销\n快捷键: Command + z";
+
+// 缩小\n快捷键: Command - 或者 ↓
+"bar_item_zoomInShortcut" = "缩小\n快捷键: Command -";
+
+// 放大\n快捷键: Command + 或者 ↑
+"bar_item_zoomOutShortcut" = "放大\n快捷键: Command +";
+
+// 缩放比率
+"bar_item_zoomValue" = "缩放比率";

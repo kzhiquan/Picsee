@@ -1,0 +1,66 @@
+/* 
+  CommonLocalizable.strings
+  Picsee
+
+  Created by kzhiquan on 2022/6/24.
+  Copyright © 2022 zhiquan kong. All rights reserved.
+*/
+// 确定
+"public_alert_btnOK" = "確認";
+
+// 文件大小
+"public_browserOrder_byFileSize" = "ファイルサイズ";
+
+// 文件大小倒序
+"public_browserOrder_byFileSizeReverse" = "ファイルサイズ逆順";
+
+// 修改时间
+"public_browserOrder_byModfication" = "変更時間";
+
+// 修改时间倒序
+"public_browserOrder_byModficationReverse" = "逆順に変更する";
+
+// 名称
+"public_browserOrder_byName" = "名称";
+
+// 文件大小
+"public_browserOrder_byNameReverse" = "名前の逆順";
+
+// 名称为空
+"public_dialog_msgNameIsEmpty" = "名前が空欄";
+
+// 提示
+"public_dialog_titleTip" = "インフォメーション";
+
+// 移动图片
+"public_mouseScroll_moveInPhoto" = "ムービングピクチャーズ";
+
+// 左右翻页
+"public_mouseScroll_pagePhoto" = "ページを左右にめくる";
+
+// 缩放图片
+"public_mouseScroll_zoomPhoto" = "画像のズームイン・ズームアウト";
+
+// 与滑动方向相反
+"public_pageDirection_reverseToScrollDirection" = "スライド方向と反対側";
+
+// 与滑动方向一致
+"public_pageDirection_sameToScrollDirection" = "スライド方向と同じ";
+
+// 水平
+"public_scrollDirection_horizontal" = "ホリゾンタル";
+
+// 无限制
+"public_scrollDirection_nolimit" = "制限なし";
+
+// 垂直
+"public_scrollDirection_vertical" = "縦型";
+
+// 取消
+"public_vc_btnCancel" = "キャンセル";
+
+// 保存
+"public_vc_btnSave" = "セーブ";
+
+// 名称
+"public_vc_labelName" = "名称";

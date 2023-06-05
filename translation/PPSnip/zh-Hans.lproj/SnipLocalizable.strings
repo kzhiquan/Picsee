@@ -1,0 +1,88 @@
+/* 
+  SnipLocalizable.strings
+  Picsee
+
+  Created by kzhiquan on 2022/6/21.
+  Copyright © 2022 zhiquan kong. All rights reserved.
+*/
+/* 按C复制颜色值 */
+"snip_body_labelShortKeyCopyColor" = "按C复制颜色值";
+/* 按F选择全屏区域 */
+"snip_body_labelShortKeyFullScreen" = "按F选择全屏区域";
+/* 按Shift截取多个窗口 */
+"snip_body_labelShortKeyMultiWin" = "按Shift截取多个窗口";
+/* 按Option切换颜色值 */
+"snip_body_labelShortKeySwitchColor" = "按Option切换颜色值";
+/* 确定 */
+"snip_dialog_btnOK" = "确定";
+/* 请在系统偏好设置，[安全与隐私]中，授予Picsee[屏幕录制]权限! */
+"snip_dialog_msgRecordScreenPrivilegeTip" = "请在系统偏好设置，[安全与隐私]中，授予Picsee[屏幕录制]权限!";
+/* 提示 */
+"snip_dialog_titleTip" = "提示";
+/* 横向 */
+"snip_long_scrollHorizontal" = "横向";
+/* 全景 */
+"snip_long_scrollPanoramic" = "全景";
+/* 滚动过快 */
+"snip_long_scrollToFast" = "滚动过快";
+/* 竖向 */
+"snip_long_scrollVertical" = "竖向";
+/* 试下扩大选区 */
+"snip_long_tryToExtendSnipArea" = "试下扩大选区";
+/* 截图已保存至剪切板 */
+"snip_noti_msgSnipHaveSavedToPasteboard" = "截图已保存至剪切板";
+/* 截图已保存 */
+"snip_noti_titleSnipHaveSaved" = "截图已保存";
+/* 截图已保存并存档 */
+"snip_noti_titleSnipHaveSavedAndFiled" = "截图已保存并存档";
+/* 修改 */
+"snip_pfc_btnModify" = "修改";
+/* 拖拽截图添加阴影 */
+"snip_pfc_checkBtnDragSnipShadow" = "拖拽截图添加阴影";
+/* 透明背景 */
+"snip_pfc_checkBtnPngTransBg" = "透明背景";
+/* 显示 */
+"snip_pfc_checkBtnShowMagnifier" = "显示";
+/* 捕捉点位置显示 */
+"snip_pfc_checkBtnShowMagnifierPosition" = "捕捉点位置显示";
+/* 捕捉窗口大小显示 */
+"snip_pfc_checkBtnShowMagnifierSize" = "捕捉窗口大小显示";
+/* 截图完成时通知 */
+"snip_pfc_checkBtnSnipDoneNoti" = "截图完成时通知";
+/* 截图完成时播放提示音 */
+"snip_pfc_checkBtnSnipDoneSound" = "截图完成时播放提示音";
+/* 窗口截图阴影效果 */
+"snip_pfc_checkBtnWinShadow" = "窗口截图阴影效果";
+/* 外观控制 */
+"snip_pfc_labelApperanceControl" = "外观控制";
+/* 区域阴影颜色 */
+"snip_pfc_labelAreaShadowColor" = "区域阴影颜色";
+/* 颜色值 */
+"snip_pfc_labelColorValue" = "颜色值";
+/* 拖拽选项 */
+"snip_pfc_labelDragOption" = "拖拽选项";
+/* 阴影大小 */
+"snip_pfc_labelDragShadowBlurSize" = "阴影大小";
+/* 阴影颜色 */
+"snip_pfc_labelDragShadowColor" = "阴影颜色";
+/* 放大镜 */
+"snip_pfc_labelMagnifier" = "放大镜";
+/* 遮挡背景颜色 */
+"snip_pfc_labelMaskBgColor" = "遮挡背景颜色";
+/* 选择窗口时，按住Option键切换到拖拽区域 */
+"snip_pfc_labelOptionToSwitchDragAreaSnip" = "选择窗口时，按住Option键切换到拖拽区域";
+/* 完成截图时，按下Option键切换 */
+"snip_pfc_labelOptionToSwitchDragSnipShadow" = "完成截图时，按下Option键切换";
+/* 窗口选中颜色 */
+"snip_pfc_labelSelectedWinColor" = "窗口选中颜色";
+/* 截图保存格式 */
+"snip_pfc_labelSnipFormat" = "截图保存格式";
+/* 截图保存位置 */
+"snip_pfc_labelSnipLocation" = "截图保存位置";
+/* 截图选项 */
+"snip_pfc_labelSnipOption" = "截图选项";
+/* 未指定 */
+"snip_pfc_locationValueUnset" = "未指定";
+/* 截图 */
+"snip_pfc_snip" = "截图";
+

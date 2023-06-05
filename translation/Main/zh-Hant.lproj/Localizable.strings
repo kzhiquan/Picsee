@@ -239,9 +239,6 @@
 // 更新提示
 "app_upgrade_title" = "更新提示";
 
-// 本地磁盘
-"export_task_localDisk" = "本地磁盤";
-
 // 输入监听授权时有效
 "app_showcase_limitMagicMouseScrollTip" = "輸入監聽授權時有效";
 
@@ -395,7 +392,6 @@
 // 打开方式
 "app_showcase_openAction" = "打開方式";
 
-
 // 关闭
 "singleM_menu_close" = "關閉";
 
@@ -431,7 +427,6 @@
 
 // 在finder中显示
 "singleM_menu_showInFinder" = "在Finder中顯示";
-
 
 // 关闭
 "pasteM_action_close" = "關閉";
@@ -499,8 +494,6 @@
 // 自动获取剪切板中图片并转成待图片
 "pasteM_pfc_checkBtnImageToImage" = "自動獲取剪切板中圖片並等待處理";
 
-
-
 // 确定
 "buy_dialog_btnOK" = "確定";
 
@@ -551,3 +544,63 @@
 
 // 用户协议
 "buy_pfc_btnTerms" = "用戶協議";
+
+// 授权
+"app_dialog_authorize" = "授權";
+
+// 辅助选项
+"pasteM_pfc_helpOption" = "輔助選項";
+
+// 显示透明网格背景
+"pasteM_pfc_trunOnTransGridBg" = "顯示透明網格背景";
+
+// 适配视网膜屏调整图片显示大小
+"app_showcase_fitRetinaScreenImageSize" = "適配視網膜屏調整圖片顯示大小";
+
+// 适配视网膜屏调整图片显示大小
+"pasteM_pfc_fitRetinaScreenImageSize" = "適配視網膜屏調整貼圖顯示大小";
+
+// 关闭所有贴图
+"pasteM_menu_closeAll" = "關閉所有貼圖";
+
+// 关闭其他贴图
+"pasteM_menu_closeOther" = "關閉其他貼圖";
+
+// 关闭所有单窗口
+"singleM_menu_closeAll" = "關閉所有單窗口";
+
+// 关闭其他单窗口
+"singleM_menu_closeOther" = "關閉其他單窗口";
+
+// 关闭当前贴图
+"pasteM_menu_closeCur" = "關閉當前貼圖";
+
+// 关闭当前单窗口
+"singleM_menu_closeCur" = "關閉當前單窗口";
+
+// 隐藏/显示所有贴图
+"app_pfc_togglePinnedWindows" = "隱藏/顯示所有貼圖";
+
+// 隐藏/显示所有贴图
+"app_statusBar_togglePinnedWindows" = "隱藏/顯示所有貼圖";
+
+// 播放视频只显示播放工具条
+"app_showcase_barShowOnlyShowVideoPlayBar" = "播放視頻只顯示播放工具條";
+
+// 打印
+"pasteM_menu_print" = "打印";
+
+// 打印
+"singleM_menu_print" = "打印";
+
+// 激活或购买
+"buy_pfc_btnactiveOrBuy" = "啟用或購買";
+
+// 试用期内
+"buy_pfc_labelEntitlementDuringTrial" = "試用期內";
+
+// Picsee - 图片采集收藏、照片整理标记、查找查看、分享协同软件
+"buy_pfc_paddleLocalTrialText" = "Picsee - 圖片收集與整理、照片標記與整理、搜尋與瀏覽、分享與協同合作軟體";
+
+// 取消激活此设备
+"buy_pfc_btnDeactive" = "取消激活此設備";

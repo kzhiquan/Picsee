@@ -1,0 +1,71 @@
+/* 
+  ExportAuthLocalizable.strings
+  Picsee
+
+  Created by kzhiquan on 2022/6/23.
+  Copyright © 2022 zhiquan kong. All rights reserved.
+*/
+/* 阿里云 */
+"export_auth_aliyun" = "阿里云";
+/* 匿名公开 */
+"export_auth_anony" = "匿名公开";
+/* 自定义 */
+"export_auth_custom" = "自定义";
+/* 未找到返回消息 */
+"export_auth_errorCannotFindReturnInfo" = "未找到返回消息";
+/* 域名绑定信息有误 */
+"export_auth_errorDomainBoundWrong" = "域名绑定信息有误";
+/* 文件名不符合URL编码规范 */
+"export_auth_errorFileNameNotConfirmToSpecification" = "文件名不符合URL编码规范";
+/* 获取URL失败 */
+"export_auth_errorGetUrlFailed" = "获取URL失败";
+/* HTML解析失败 */
+"export_auth_errorHTMLParseFailed" = "HTML解析失败";
+/* http response 为空 */
+"export_auth_errorHttpResponseIsEmpty" = "http response 为空";
+/* 计算请求头失败，请检查所填信息是否正确 */
+"export_auth_errorMakeRequestHeaderFailedTip" = "计算请求头失败，请检查所填信息是否正确";
+/* 计算请求路径失败，请检查所填信息是否正确 */
+"export_auth_errorMakeRequestUrlFailedTip" = "计算请求路径失败，请检查所填信息是否正确";
+/* 未能解析etag */
+"export_auth_errorParseEtagFailed" = "未能解析etag";
+/* 解析PhotoId失败 */
+"export_auth_errorParsePhotoIdFailed" = "解析PhotoId失败";
+/* 解析XML数据失败 */
+"export_auth_errorParseXMLFailed" = "解析XML数据失败";
+/* 未知的地域节点 */
+"export_auth_errorQiniuRegionUnknown" = "未知的地域节点";
+/* 请求失败 */
+"export_auth_errorRequestFailed" = "请求失败";
+/* 请求对象已释放 */
+"export_auth_errorRequestObjHaveReleased" = "请求对象已释放";
+/* 返回数据为空 */
+"export_auth_errorReturnDataIsEmpty" = "返回数据为空";
+/* 返回信息为空 */
+"export_auth_errorReturnInfoEmpty" = "返回信息为空";
+/* 测试数据准备失败 */
+"export_auth_errorTestDataPrepareFailed" = "测试数据准备失败";
+/* 未知错误 */
+"export_auth_errorUnknownError" = "未知错误";
+/* 上传成功，但是解析URL数据失败 */
+"export_auth_errorUploadSuccessButParseUrlFailed" = "上传成功，但是解析URL数据失败";
+/* url 字符串初始化失败 */
+"export_auth_errorUrlInitFailed" = "url 字符串初始化失败";
+/* 原格式 */
+"export_auth_formatNative" = "原格式";
+/* 码云 */
+"export_auth_gitee" = "码云";
+/* GitHub */
+"export_auth_github" = "GitHub";
+/* 本地磁盘 */
+"export_auth_local" = "本地磁盘";
+/* 七牛 */
+"export_auth_qiniu" = "七牛";
+/* SM.MS */
+"export_auth_smms" = "SM.MS";
+/* 腾讯云 */
+"export_auth_tencent" = "腾讯云";
+/* 又拍 */
+"export_auth_upyun" = "又拍";
+/* 微博 */
+"export_auth_weibo" = "微博";

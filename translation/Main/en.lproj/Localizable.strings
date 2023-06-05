@@ -239,9 +239,6 @@
 // 更新提示
 "app_upgrade_title" = "Upgrade Tip";
 
-// 本地磁盘
-"export_task_localDisk" = "Local disk";
-
 // 输入监听授权时有效
 "app_showcase_limitMagicMouseScrollTip" = "This only applies when input monitoring is authorized";
 
@@ -383,7 +380,6 @@
 // 强制返回到面板
 "app_showcase_winForceBackToGallery" = "Force back to panel";
 
-
 // 多窗口浏览
 "album_doubleClick_newWin" = "Multi-window Viewer";
 
@@ -395,7 +391,6 @@
 
 // 打开方式
 "app_showcase_openAction" = "Open Mode";
-
 
 // 关闭
 "singleM_menu_close" = "Close";
@@ -432,7 +427,6 @@
 
 // 在finder中显示
 "singleM_menu_showInFinder" = "Reveal in Finder";
-
 
 // 关闭
 "pasteM_action_close" = "Close";
@@ -500,7 +494,6 @@
 // 自动获取剪切板中图片并转成待图片
 "pasteM_pfc_checkBtnImageToImage" = "Get image from clipboard automatically";
 
-
 // 确定
 "buy_dialog_btnOK" = "OK";
 
@@ -551,3 +544,63 @@
 
 // 用户协议
 "buy_pfc_btnTerms" = "Terms of Use";
+
+// 授权
+"app_dialog_authorize" = "Authorization";
+
+// 隐藏/显示所有贴图
+"app_pfc_togglePinnedWindows" = "Hide/Show all Pins";
+
+// 播放视频只显示播放工具条
+"app_showcase_barShowOnlyShowVideoPlayBar" = "Show only playback toolbar while playing video";
+
+// 适配视网膜屏调整图片显示大小
+"app_showcase_fitRetinaScreenImageSize" = "Adjust image display size for Retina screen";
+
+// 隐藏/显示所有贴图
+"app_statusBar_togglePinnedWindows" = "Hide/Show all Pins";
+
+// 取消激活此设备
+"buy_pfc_btnDeactive" = "Deactivate this device";
+
+// 激活或购买
+"buy_pfc_btnactiveOrBuy" = "Activate or Purchase";
+
+// 试用期内
+"buy_pfc_labelEntitlementDuringTrial" = "trial period";
+
+// Picsee - 图片采集收藏、照片整理标记、查找查看、分享协同软件
+"buy_pfc_paddleLocalTrialText" = "Picsee - Image collection, organization, tagging, searching, viewing, and collaboration software";
+
+// 关闭所有贴图
+"pasteM_menu_closeAll" = "Close all Pins";
+
+// 关闭当前贴图
+"pasteM_menu_closeCur" = "Close the current Pin";
+
+// 关闭其他贴图
+"pasteM_menu_closeOther" = "Close other Pins";
+
+// 打印
+"pasteM_menu_print" = "Print";
+
+// 适配视网膜屏调整贴图显示大小
+"pasteM_pfc_fitRetinaScreenImageSize" = "Adjust pin display size for Retina screen";
+
+// 辅助选项
+"pasteM_pfc_helpOption" = "Accessibility options";
+
+// 显示透明网格背景
+"pasteM_pfc_trunOnTransGridBg" = "Show transparent grid background";
+
+// 关闭所有单窗口
+"singleM_menu_closeAll" = "Close all single windows";
+
+// 关闭当前单窗口
+"singleM_menu_closeCur" = "Close the current single window";
+
+// 关闭其他单窗口
+"singleM_menu_closeOther" = "Close other single windows";
+
+// 打印
+"singleM_menu_print" = "Print";

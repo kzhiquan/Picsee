@@ -1,5 +1,7 @@
 #!/usr/bin/swift
 
+// 20230605 Picsee 1.6.4 (98)
+// 在命令行执行: ./grab.swift
 import Foundation
 
 
@@ -14,11 +16,19 @@ class Grab {
         
         self.prepare()
         
-        let modules: [(String, String?)] = [("Picsee/Supporting Files", "Main"), ("Album", nil),
-                                            ("PPSee", nil), ("PPEdit", nil), ("PPSnip", nil),
-                                            ("PPDraw", nil), ("PPExportUserBusiness", nil), ("PPExportBusiness", nil),
-                                            ("PPExportAuth", nil), ("PPExport", nil), ("PPBar", nil),
-                                            ("PPCommon", nil)]
+        // (source, target)
+        let modules: [(String, String?)] = [("Picsee/Supporting Files", "Main"), 
+                                            ("Picsee/Modules/Album", "Album"),
+                                            ("Picsee/Modules/PPSee", "PPSee"), 
+                                            ("Picsee/Modules/PPEdit", "PPEdit"), 
+                                            ("Picsee/Modules/PPSnip", "PPSnip"),
+                                            ("Picsee/Modules/PPDraw", "PPDraw"), 
+                                            ("Picsee/Modules/PPExportUserBusiness", "PPExportUserBusiness"), 
+                                            ("Picsee/Modules/PPExportBusiness", "PPExportBusiness"),
+                                            ("Picsee/Modules/PPExportAuth", "PPExportAuth"), 
+                                            ("Picsee/Modules/PPExportBusiness", "PPExport"), 
+                                            ("Picsee/Modules/PPBar", "PPBar"),
+                                            ("Picsee/Modules/PPCommon", "PPCommon")]
         for module in modules {
             self.copyModule(source: module.0, target: module.1)
         }

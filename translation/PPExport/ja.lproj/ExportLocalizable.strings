@@ -1,0 +1,151 @@
+/* 
+  ExportLocalizable.strings
+  Picsee
+
+  Created by kzhiquan on 2022/6/21.
+  Copyright © 2022 zhiquan kong. All rights reserved.
+*/
+// 导出
+"export_body_btExport" = "輸出";
+
+// 取消
+"export_body_btnCancel" = "キャンセル";
+
+// 清除EXIF信息
+"export_body_btnClearExifMeta" = "EXIF情報のクリア";
+
+// 全部导出
+"export_body_btnExportAll" = "すべてエクスポート";
+
+// JPG质量
+"export_body_btnJPGQuality" = "JPG品質";
+
+// 确定
+"export_body_btnOK" = "確認";
+
+// 账户
+"export_body_labelAccount" = "サービスの種類";
+
+// 将匿名上传至公共图床
+"export_body_labelAnnoyToUploadTip" = "パブリッククラウドストレージへの匿名でのアップロード";
+
+// 导出图片
+"export_body_labelExportPhoto" = "画像の書き出し";
+
+// 导出过程
+"export_body_labelExportProgress" = "輸出プロセス";
+
+// 导出到
+"export_body_labelExportTarget" = "輸出";
+
+// 格式
+"export_body_labelFormat" = "フォーマット";
+
+// 请选择需要导出的图片
+"export_body_labelSelectPhotoesToExport" = "エクスポートする画像を選択してください";
+
+// 确定
+"export_dialog_btnOK" = "確認";
+
+// 还没有云端账户
+"export_dialog_msgNoAccount" = "クラウドアカウントはまだありません";
+
+// 还没有云端账户
+"export_dialog_msgNoAccountTip" = "クラウドアカウントはまだありません";
+
+// 未选中导出图元
+"export_dialog_msgNothingSelectedToExport" = "エクスポート要素のチェックが外れている";
+
+// 错误
+"export_dialog_titleError" = "エラー";
+
+// 提示
+"export_dialog_titleTip" = "インフォメーション";
+
+// 位置
+"export_his_barAccount" = "サービスの種類";
+
+// 批次号
+"export_his_barBatchNum" = "バッチ番号";
+
+// 导出时间
+"export_his_barExportDate" = "輸出時期";
+
+// 名称
+"export_his_barName" = "名称";
+
+// 图片号
+"export_his_barPhotoNum" = "画像No.";
+
+// 图片预览
+"export_his_barPhotoThumb" = "画像プレビュー";
+
+// 搜索
+"export_his_barSearch" = "検索";
+
+// 目标
+"export_his_barTarget" = "目的";
+
+// 清空所有记录
+"export_his_btnClearAllRecord" = "すべてのレコードを空にする";
+
+// 清空选中记录
+"export_his_btnClearSelectedRecord" = "選択したレコードを消去する";
+
+// 复制选中链接
+"export_his_btnCopySelectedLink" = "選択したリンクをコピーする";
+
+// 导出
+"export_his_export" = "輸出";
+
+// 所有历史
+"export_his_exportHistory" = "すべての歴史";
+
+// 复制成功
+"export_his_msgCopySuccess" = "コピー成功";
+
+// 目标
+"export_his_target" = "目的";
+
+// EXIF元数据将删除
+"export_pfc_btnDeleteExifMeta" = "EXIFメタデータは削除されます";
+
+// 导出JPG格式图片时的图片质量
+"export_pfc_btnJPGQualityToExport" = "JPG形式画像書き出し時の画質";
+
+// 选择
+"export_pfc_btnSelect" = "選択";
+
+// 导出
+"export_pfc_export" = "輸出";
+
+// 关联账户
+"export_pfc_labelAssociatedAccount" = "関連口座";
+
+// 位图
+"export_pfc_labelBitmapWeb" = "ビットマップ";
+
+// 导出格式
+"export_pfc_labelExportFormat" = "エクスポート形式";
+
+// 导出样式
+"export_pfc_labelExportStyle" = "輸出スタイル";
+
+// 导出目标
+"export_pfc_labelExportTarget" = "輸出先";
+
+// JPG质量
+"export_pfc_labelJPGQuality" = "JPG品質";
+
+// 存储位置
+"export_pfc_labelSaveLocation" = "保管場所";
+
+// 图片将匿名上传至微博公共图床
+"export_pfc_labelWeipoUploadTip" = "画像は匿名で公開されるWeiboベッドにアップロードされます";
+
+// 未指定
+"export_pfc_unset" = "設定なし";
+
+// 支持命令行导出，命令行导出时，请务必在[偏好设置->看图->打开设置]中授予完全磁盘访问
+"export_pfc_cmdExportPromptContent" = "コマンドラインエクスポートはサポートされていますが、それを使用する場合は、[設定->画像の表示->設定を開く]でフルディスクアクセスを許可してください";
+

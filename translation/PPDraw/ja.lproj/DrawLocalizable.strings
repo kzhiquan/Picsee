@@ -1,0 +1,186 @@
+/* 
+  DrawLocalizable.strings
+  Picsee
+
+  Created by kzhiquan on 2022/6/23.
+  Copyright © 2022 zhiquan kong. All rights reserved.
+*/
+// 光圈系数
+"draw_exif_aperture" = "開口率";
+
+// 批量应用
+"draw_exif_batch" = "一括使用";
+
+// Camero
+"draw_exif_cameroInfo" = "Camero";
+
+// 清除元信息
+"draw_exif_clear" = "クリアなメタ情報";
+
+// 色彩模型
+"draw_exif_colofSpace" = "カラーモデル";
+
+// 创建时间
+"draw_exif_createDate" = "作成時間";
+
+// 曝光时间
+"draw_exif_exposureTime" = "露光時間";
+
+// 名称
+"draw_exif_fileName" = "名称";
+
+// 大小
+"draw_exif_fileSize" = "ファイルサイズ";
+
+// 闪光灯
+"draw_exif_flash" = "フラッシュ";
+
+// 焦距
+"draw_exif_focalLen" = "焦点距離";
+
+// 格式
+"draw_exif_format" = "フォーマット";
+
+// Image Information
+"draw_exif_imageInfo" = "Image Information";
+
+// 尺寸
+"draw_exif_imageSize" = "サイズ";
+
+// ISO感光度
+"draw_exif_iso" = "ISO感度";
+
+// 访问时间
+"draw_exif_lastAccessDate" = "アクセス時間";
+
+// 纬度
+"draw_exif_latitude" = "ラティチュード";
+
+// 镜头制造商
+"draw_exif_lensMaker" = "レンズメーカー";
+
+// 镜头
+"draw_exif_lensModel" = "カメラレンズ";
+
+// Location
+"draw_exif_locationInfo" = "Location";
+
+// 经度
+"draw_exif_longitude" = "経度";
+
+// 制造商
+"draw_exif_maker" = "メーカー";
+
+// 测光模式
+"draw_exif_meteringMode" = "測光モード";
+
+// 相机型号
+"draw_exif_model" = "カメラ機種";
+
+// 修改时间
+"draw_exif_modifyDate" = "変更時間";
+
+// 信息
+"draw_exif_seeImageInfo" = "インフォメーション";
+
+// 软件
+"draw_exif_software" = "ソフトウェア";
+
+// 拍摄时间
+"draw_exif_takeDate" = "撮影時間";
+
+// 白平衡
+"draw_exif_whiteBalance" = "ホワイトバランス";
+
+// 单体
+"draw_markLayout_center" = "シングル";
+
+// 平铺
+"draw_markLayout_tile" = "タイル張り";
+
+// 晶体
+"draw_mosaicStyle_crystal" = "水晶";
+
+// 模糊
+"draw_mosaicStyle_gaussionBlur" = "ブラー";
+
+// 菱形
+"draw_mosaicStyle_hexagon" = "ひし形";
+
+// 方形
+"draw_mosaicStyle_square" = "正方形";
+
+// 固定高度
+"draw_sizeAdjust_fixedHeight" = "高さ固定";
+
+// 固定宽度
+"draw_sizeAdjust_fixedWidth" = "固定幅";
+
+// 比率缩放
+"draw_sizeAdjust_proportionSize" = "レシオスケーリング";
+
+// 区域标注
+"draw_type_areaLabel" = "エリアラベリング";
+
+// 颜色标注
+"draw_type_colorLabel" = "マーキングカラー";
+
+// 裁剪
+"draw_type_crop" = "カッティング";
+
+// 椭圆
+"draw_type_ellipse" = "オーバル";
+
+// 外壳
+"draw_type_extFrame" = "シェル";
+
+// 平箭头
+"draw_type_flatArrow" = "フラットアロー";
+
+// 高亮椭圆
+"draw_type_highlightEllipse" = "ブライトオーバル";
+
+// 高亮笔
+"draw_type_highlightPencil" = "華麗なるペンたち";
+
+// 高亮矩形
+"draw_type_highlightSquare" = "明るい長方形";
+
+// 图片
+"draw_type_image" = "画像";
+
+// 图片属性
+"draw_type_imageProperty" = "イメージプロパティ";
+
+// 长度标注
+"draw_type_lengthLabel" = "マーキングの長さ";
+
+// 直线
+"draw_type_line" = "ストレートライン";
+
+// 放大镜
+"draw_type_magnifer" = "拡大鏡";
+
+// 马赛椭圆
+"draw_type_mosaicEllipse" = "マルセイユ オーバル";
+
+// 马赛笔
+"draw_type_mosaicPencil" = "マルセイユペン";
+
+// 马赛矩形
+"draw_type_mosaicSquare" = "マルセイユ長方形";
+
+// 画笔
+"draw_type_pencil" = "ペイントブラシ";
+
+// 凹箭头
+"draw_type_snikArrow" = "凹型の矢印";
+
+// 矩形
+"draw_type_square" = "長方形";
+
+// 文本
+"draw_type_text" = "テキスト";
+
+// 文本标注
+"draw_type_textLabel" = "マークされたテキスト";

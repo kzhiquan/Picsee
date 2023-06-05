@@ -7,7 +7,7 @@
 */
 
 /* 读取网络文件夹下的照片，以便进行查看和管理。 */
-"NSNetworkVolumesUsageDescription" = "Read photos in the network folder for viewing and management.";
+"NSNetworkVolumesUsageDescription" = "Access photos from network folder for viewing and management.";
 
 /* 读取本机图库，以便查看和管理。 */
-"NSPhotoLibraryUsageDescription" = "Read iPhoto Library for viewing and managing photos.";
+"NSPhotoLibraryUsageDescription" = "Access Photo library for viewing and management.";

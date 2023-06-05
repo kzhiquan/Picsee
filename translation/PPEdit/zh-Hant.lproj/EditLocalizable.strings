@@ -1,0 +1,371 @@
+// EditLocalizable.strings
+//   Picsee
+// 
+//   Created by kzhiquan on 2022/6/21.
+//   Copyright © 2022 zhiquan kong. All rights reserved.
+// 
+// 返回
+"edit_bar_back" = "返回";
+
+// 裁剪
+"edit_bar_btnCrop" = "裁剪";
+
+// 批量应用
+"edit_bar_checkBtnBatchApply" = "批量應用";
+
+// 清除元数据
+"edit_bar_checkBtnClearExif" = "清除元數據";
+
+// 相对大小
+"edit_bar_checkBtnFactorSize" = "相對大小";
+
+// 导出
+"edit_bar_export" = "導出";
+
+// 适应窗口
+"edit_bar_fitWin" = "適應窗口";
+
+// 布局
+"edit_bar_layout" = "佈局";
+
+// 下一张
+"edit_bar_nextPage" = "下一張";
+
+// 页面
+"edit_bar_page" = "頁面";
+
+// 图片名称
+"edit_bar_photoName" = "圖片名稱";
+
+// 上一张
+"edit_bar_previousPage" = "上一張";
+
+// 属性
+"edit_bar_property" = "屬性";
+
+// 查看
+"edit_bar_see" = "查看";
+
+// 缩略
+"edit_bar_thumb" = "縮略";
+
+// 缩放
+"edit_bar_zoom" = "縮放";
+
+// 缩小
+"edit_bar_zoomIn" = "縮小";
+
+// 放大
+"edit_bar_zoomOut" = "放大";
+
+// 关闭操作指引提示
+"edit_body_checkBtnCloseBatchGuide" = "關閉操作指引提示";
+
+// 已是第一张
+"edit_body_firstPage" = "已是第一張";
+
+// 操作指引
+"edit_body_labelBatchGuide" = "操作指引";
+
+// 1. 勾选批量应用，将当前修\n改应用到其他图片。\n\n2. 点击上一张下一张，可预\n览批量应用效果。\n\n3. 点击导出素材，可导出批\n量应用后的图片。
+"edit_body_labelBatchGuideStep" = "1. 勾選批量應用，將當前修\n改應用到其他圖片。 \n\n2. 點擊上一張下一張，可預\n覽批量應用效果。 \n\n3. 點擊導出素材，可導出批\n量應用後的圖片。";
+
+// 已是最后一张
+"edit_body_lastPage" = "已是最後一張";
+
+// 请打开右边栏, 查看详细的属性修改信息\n\n属性修改模版
+"edit_body_photoPropertyTemplateEditTip" = "請打開右邊欄, 查看詳細的屬性修改信息\n\n屬性修改模版";
+
+// 浅色画布
+"edit_canvas_aqua" = "淺色畫布";
+
+// 深色画布
+"edit_canvas_dark" = "深色畫布";
+
+// 默认
+"edit_canvas_default" = "默認";
+
+// 取消
+"edit_dialog_btnCancel" = "取消";
+
+// 确定
+"edit_dialog_btnOK" = "確定";
+
+// 确定要删除外部设备/网络磁盘上文件，注意：将彻底删除，不进入回收站！
+"edit_dialog_msgDeleteExternalMeidaTip" = "確定要刪除外部設備/網絡磁盤上文件，注意：將徹底刪除，不進入回收站！";
+
+// 已经添加了外框
+"edit_dialog_msgHadAlreadyAddedExtFrame" = "已經添加了外框";
+
+// 没有图像对象存在
+"edit_dialog_msgNoMediaExists" = "沒有圖像對象存在";
+
+// 图片对象不存在
+"edit_dialog_msgNothingToSave" = "圖片對像不存在";
+
+// 未存在修改条目，可以批量应用
+"edit_dialog_msgNothingToSaveTip" = "未存在修改條目，可以批量應用";
+
+// 未进行修改，不存在修改条目
+"edit_dialog_msgNotingToSave" = "未進行修改，不存在修改條目";
+
+// 请先存储为模版
+"edit_dialog_msgSaveAsTemplateFirst" = "請先存儲為模板";
+
+// 保存失败:
+"edit_dialog_msgSaveFailed" = "保存失敗:";
+
+// 此媒体不支持覆盖保存，试试另存为。
+"edit_dialog_msgSaveFailedTrySaveAs" = "此媒體不支持覆蓋保存，試試另存為。";
+
+// 正在使用模版，不能删除
+"edit_dialog_msgUsingTemplateDeleteFailed" = "正在使用模版，不能刪除";
+
+// 保存
+"edit_dialog_promptSave" = "保存";
+
+// 裁剪发生错误
+"edit_dialog_titleCropFailed" = "裁剪髮生錯誤";
+
+// 提示
+"edit_dialog_titleTip" = "提示";
+
+// 复制文件
+"edit_menu_copyFile" = "複製文件";
+
+// 复制文件路径
+"edit_menu_copyFilePath" = "複製文件路徑";
+
+// 删除
+"edit_menu_delete" = "刪除";
+
+// 删除文件
+"edit_menu_deleteFile" = "刪除文件";
+
+// 编辑
+"edit_menu_edit" = "編輯";
+
+// 导出
+"edit_menu_export" = "導出";
+
+// 导出素材
+"edit_menu_exportMedia" = "導出素材";
+
+// 导出到图床
+"edit_menu_exportToBed" = "導出到圖床";
+
+// 鼠标滚轮移动图片
+"edit_menu_mouseScrollToMove" = "鼠標滾輪移動圖片";
+
+// 鼠标滚轮左右翻页
+"edit_menu_mouseScrollToPage" = "鼠標滾輪左右翻頁";
+
+// 鼠标滚轮缩放图片
+"edit_menu_mouseScrollToZoom" = "鼠標滾輪縮放圖片";
+
+// 在默认应用中打开
+"edit_menu_openInDefaultApp" = "在默認應用中打開";
+
+// 在新窗口中打开
+"edit_menu_openInNewWin" = "在新窗口中打開";
+
+// 在其他应用中打开
+"edit_menu_openInOtherApp" = "在其他應用中打開";
+
+// 钉在桌面
+"edit_menu_pinOnDesktop" = "釘在桌面";
+
+// 保存
+"edit_menu_save" = "保存";
+
+// 设置为桌面
+"edit_menu_setAsDesktop" = "設置為桌面";
+
+// 在Finder中显示
+"edit_menu_showInFinder" = "在Finder中顯示";
+
+// 开启/关闭滑动动画
+"edit_menu_togglePageScrollAnimation" = "開啟/關閉滑動動畫";
+
+// 上传到
+"edit_menu_uploadTo" = "上傳到";
+
+// 角度
+"edit_pro_arrowAngle" = "角度";
+
+// 默认模版
+"edit_pro_btnDefaultTemplate" = "默認模板";
+
+// 重命名
+"edit_pro_btnRename" = "重命名";
+
+// 存为模版
+"edit_pro_btnSaveAsTemplate" = "存為模板";
+
+// 保存模版
+"edit_pro_btnSaveTemplate" = "保存模板";
+
+// 选择
+"edit_pro_btnSelect" = "選擇";
+
+// 半径
+"edit_pro_cornerRadius" = "半徑";
+
+// 描述
+"edit_pro_labelDescription" = "描述";
+
+// 尺寸调整
+"edit_pro_labelAdjustSize" = "尺寸調整";
+
+// 锚点
+"edit_pro_labelAnchorPoint" = "錨點";
+
+// 角度°
+"edit_pro_labelAngle" = "角度°";
+
+// 弧点
+"edit_pro_labelArcPos" = "弧點";
+
+// 箭头
+"edit_pro_labelArrow" = "箭頭";
+
+// 圆心
+"edit_pro_labelCirclePos" = "圓心";
+
+// 颜色
+"edit_pro_labelColor" = "顏色";
+
+// 半径
+"edit_pro_labelCornerRadius" = "半徑";
+
+// 嵌入位置
+"edit_pro_labelEmbedPosition" = "嵌入位置";
+
+// 嵌入大小
+"edit_pro_labelEmbedSize" = "嵌入大小";
+
+// 终点
+"edit_pro_labelEndPos" = "終點";
+
+// 填充
+"edit_pro_labelFill" = "填充";
+
+// 字体
+"edit_pro_labelFont" = "字體";
+
+// 高度
+"edit_pro_labelHeight" = "高度";
+
+// 平长
+"edit_pro_labelHorizontalLength" = "平長";
+
+// 长度
+"edit_pro_labelLength" = "長度";
+
+// 边线
+"edit_pro_labelLine" = "邊線";
+
+// 聚点
+"edit_pro_labelMagnifierPos" = "放大點";
+
+// 位置
+"edit_pro_labelPosition" = "位置";
+
+// 旋转
+"edit_pro_labelRotate" = "旋轉";
+
+// 倍数
+"edit_pro_labelScale" = "倍數";
+
+// 大小
+"edit_pro_labelSize" = "大小";
+
+// 斜长
+"edit_pro_labelSlopeLenght" = "斜長";
+
+// 水平间距
+"edit_pro_labelSpanH" = "水平間距";
+
+// 垂直间距
+"edit_pro_labelSpanV" = "垂直間距";
+
+// 起点
+"edit_pro_labelStartPos" = "起點";
+
+// 样式
+"edit_pro_labelStyle" = "樣式";
+
+// 粗细
+"edit_pro_labelThick" = "粗細";
+
+// 水印
+"edit_pro_labelWaterMark" = "水印";
+
+// 宽度
+"edit_pro_labelWidth" = "寬度";
+
+// 原高
+"edit_pro_nativeHeight" = "原高";
+
+// 原宽
+"edit_pro_nativeWidth" = "原寬";
+
+// 重命名
+"edit_pro_rename" = "重命名";
+
+// 重命名模版
+"edit_pro_renameTemplate" = "重命名模板";
+
+// 存为模版
+"edit_pro_saveAsTemplate" = "存為模板";
+
+// 存储在模版库中，以便应用在其他图元上
+"edit_pro_saveInTemplateLib" = "存儲在模版庫中，以便應用在其他圖元上";
+
+// 保存模版
+"edit_pro_saveTemplate" = "保存模板";
+
+// 样式
+"edit_pro_style" = "樣式";
+
+// 改变模版在模版库中名称
+"edit_pro_updateNameInTemplateLib" = "改變模版在模版庫中名稱";
+
+// 原始大小
+"edit_toolTip_fitSelf" = "原始大小";
+
+// 适应窗口
+"edit_toolTip_fitWin" = "適應窗口";
+
+// 项
+"edit_unit_item" = "項";
+
+// 循环播放
+"edit_video_loop" = "循環播放";
+
+// 取消循环播放
+"edit_video_loopCancel" = "取消循環播放";
+
+// 静音
+"edit_video_mute" = "靜音";
+
+// 取消静音
+"edit_video_muteCancel" = "取消靜音";
+
+// 暂停
+"edit_video_pause" = "暫停";
+
+// 播放
+"edit_video_play" = "播放";
+
+// 倒退5s
+"edit_video_speedBackward" = "倒退5s";
+
+// 播放速度加倍
+"edit_video_speedFaster" = "播放速度加倍";
+
+// 快进5s
+"edit_video_speedForward" = "快進5s";
+
+// 播放速度减半
+"edit_video_speedLower" = "播放速度減半";

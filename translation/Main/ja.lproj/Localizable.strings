@@ -311,9 +311,6 @@
 // 更新提示
 "app_upgrade_title" = "アップデート情報";
 
-// 本地磁盘
-"export_task_localDisk" = "ローカルディスク";
-
 // 注: 超过限制, Picsee还可继续试用，但会不定时提示升级购买！
 "app_buy_alertBuyMsgRule" = "注：制限を超えた場合、Picseeは試用を続行できますが、購入をアップグレードするように求められることがあります。";
 
@@ -383,10 +380,6 @@
 // 强制返回到面板
 "app_showcase_winForceBackToGallery" = "パネルに強制的に戻す";
 
-// Localizable.strings
-// Picsee
-// Created by kzhiquan on 2021/11/2.
-// Copyright © 2021 zhiquan kong. All rights reserved.
 // 多窗口浏览
 "album_doubleClick_newWin" = "マルチウィンドウブラウジング";
 
@@ -501,7 +494,6 @@
 // 自动获取剪切板中图片并转成待图片
 "pasteM_pfc_checkBtnImageToImage" = "クリップボードの画像を自動的に取得し、処理を待ちます";
 
-
 // 确定
 "buy_dialog_btnOK" = "確認";
 
@@ -552,3 +544,63 @@
 
 // 用户协议
 "buy_pfc_btnTerms" = "ユーザー規約";
+
+// 授权
+"app_dialog_authorize" = "承認する";
+
+// 辅助选项
+"pasteM_pfc_helpOption" = "補助オプション";
+
+// 显示透明网格背景
+"pasteM_pfc_trunOnTransGridBg" = "透明なグリッドの背景";
+
+// 适配视网膜屏调整图片显示大小
+"app_showcase_fitRetinaScreenImageSize" = "Retina 画面に適応して、画像の表示サイズを調整します";
+
+// 适配视网膜屏调整贴图显示大小
+"pasteM_pfc_fitRetinaScreenImageSize" = "Retina 画面に合わせてテクスチャの表示サイズを調整する";
+
+// 关闭所有贴图
+"pasteM_menu_closeAll" = "すべての貼り付けを閉じる";
+
+// 关闭其他贴图
+"pasteM_menu_closeOther" = "他のペーストを閉じる";
+
+// 关闭所有单窗口
+"singleM_menu_closeAll" = "すべての単一ウィンドウを閉じる";
+
+// 关闭其他单窗口
+"singleM_menu_closeOther" = "他の単一のウィンドウを閉じる";
+
+// 关闭当前贴图
+"pasteM_menu_closeCur" = "現在の貼り付けを閉じる";
+
+// 关闭当前单窗口
+"singleM_menu_closeCur" = "現在の単一ウィンドウを閉じる";
+
+// 隐藏/显示所有贴图
+"app_pfc_togglePinnedWindows" = "すべてのペーストを表示/非表示";
+
+// 隐藏/显示所有贴图
+"app_statusBar_togglePinnedWindows" = "すべてのペーストを表示/非表示";
+
+// 播放视频只显示播放工具条
+"app_showcase_barShowOnlyShowVideoPlayBar" = "動画のみ再生ツールバーを表示";
+
+// 打印
+"pasteM_menu_print" = "印刷する";
+
+// 打印
+"singleM_menu_print" = "印刷する";
+
+// 激活或购买
+"buy_pfc_btnactiveOrBuy" = "購入・アクティベート";
+
+// 试用期内
+"buy_pfc_labelEntitlementDuringTrial" = "トライアル期間";
+
+// Picsee - 图片采集收藏、照片整理标记、查找查看、分享协同软件
+"buy_pfc_paddleLocalTrialText" = "Picsee - 画像の収集と整理、写真のタグ付けと整理、検索と閲覧、共有とコラボレーションソフトウェア";
+
+// 取消激活此设备
+"buy_pfc_btnDeactive" = "デバイスの認証解除";
